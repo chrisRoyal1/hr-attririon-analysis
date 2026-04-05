@@ -1,4 +1,4 @@
-# hr-attririon-analysis
+# hr-attrition-analysis
 # HR Employee Attrition Analysis
 
 An end-to-end data analysis project examining employee 
@@ -129,14 +129,13 @@ retention recommendations for the HR department.
 
 ## Dashboard Preview
 
-![Overall Attrition](outputs/01_overall_attrition.png)
-![Attrition by Department](outputs/02_attrition_by_department.png)
-![Overtime Impact](outputs/03_attrition_by_overtime.png)
-![Age Group Attrition](outputs/04_attrition_by_age.png)
-![Satisfaction Attrition](outputs/05_attrition_by_satisfaction.png)
-![Income Distribution](outputs/06_income_distribution.png)
-![Department Satisfaction Heatmap](outputs/07_heatmap_dept_satisfaction.png)
-
+![Overall Attrition](HR_Attrition_Analysis/outputs/01_overall_attrition.png)
+![Attrition by Department](HR_Attrition_Analysis/outputs/02_attrition_by_department.png)
+![Overtime Impact](HR_Attrition_Analysis/outputs/03_attrition_by_overtime.png)
+![Age Group Attrition](HR_Attrition_Analysis/outputs/04_attrition_by_age.png)
+![Satisfaction Attrition](HR_Attrition_Analysis/outputs/05_attrition_by_satisfaction.png)
+![Income Distribution](HR_Attrition_Analysis/outputs/06_income_distribution.png)
+![Department Satisfaction Heatmap](HR_Attrition_Analysis/outputs/07_heatmap_dept_satisfaction.png)
 ---
 
 ## How to Run
