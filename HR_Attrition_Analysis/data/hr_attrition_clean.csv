@@ -1,0 +1,1501 @@
+EmployeeID,Age,Gender,Department,JobRole,YearsAtCompany,MonthlyIncome,JobSatisfaction,WorkLifeBalance,OverTime,DistanceFromHome,NumCompaniesWorked,TrainingTimesLastYear,PerformanceRating,Attrition,AgeGroup,IncomeBand,SatisfactionLabel,DistanceCategory
+EMP0001,50,Female,Sales,Sales Representative,16,118500.67,1,3,Yes,19,4,6,3,No,Senior,High,Very Dissatisfied,Mid
+EMP0002,36,Female,Sales,Sales Executive,17,51744.11,4,1,No,20,6,3,3,No,Adult,Mid,Very Satisfied,Mid
+EMP0003,29,Female,Finance,Accountant,16,91315.39,4,1,No,44,8,1,1,No,Young Adult,Mid,Very Satisfied,Far
+EMP0004,42,Male,IT,Data Analyst,8,165918.16,1,1,Yes,39,1,2,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP0005,40,Male,IT,IT Support,9,84659.2,1,1,No,40,4,2,4,No,Adult,Mid,Very Dissatisfied,Far
+EMP0006,44,Male,IT,IT Support,9,37972.05,4,1,No,7,9,5,4,No,Adult,Low,Very Satisfied,Near
+EMP0007,32,Male,Sales,Sales Executive,6,90918.5,4,3,Yes,6,8,6,1,No,Young Adult,Mid,Very Satisfied,Near
+EMP0008,32,Female,Sales,Sales Representative,15,35768.52,2,4,No,25,2,4,1,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP0009,45,Male,IT,Software Engineer,17,83652.84,2,3,No,41,0,2,3,Yes,Adult,Mid,Dissatisfied,Far
+EMP0010,57,Male,Sales,Sales Representative,5,96562.31,2,3,No,59,1,4,2,No,Senior,Mid,Dissatisfied,Far
+EMP0011,45,Female,Sales,Sales Representative,19,48987.29,1,3,No,13,5,5,3,Yes,Adult,Low,Very Dissatisfied,Mid
+EMP0012,24,Female,Finance,Finance Manager,0,360405.5,3,4,Yes,39,4,3,1,Yes,Youth,Executive,Satisfied,Far
+EMP0013,43,Female,Operations,Operations Manager,0,157588.45,4,3,No,40,0,5,4,No,Adult,High,Very Satisfied,Far
+EMP0014,23,Male,Finance,Finance Manager,11,360953.22,2,3,No,22,0,4,1,No,Youth,Executive,Dissatisfied,Mid
+EMP0015,45,Male,Operations,Operations Executive,20,71429.61,3,4,No,49,3,2,4,No,Adult,Mid,Satisfied,Far
+EMP0016,51,Male,Sales,Sales Executive,1,49582.91,4,3,Yes,17,3,0,4,No,Senior,Low,Very Satisfied,Mid
+EMP0017,59,Male,Operations,Operations Manager,3,183444.54,3,1,No,48,5,4,4,Yes,Senior,High,Satisfied,Far
+EMP0018,23,Male,Sales,Sales Executive,16,115797.65,1,2,No,22,5,1,4,No,Youth,High,Very Dissatisfied,Mid
+EMP0019,42,Male,Operations,Operations Manager,3,168166.4,1,3,No,34,9,0,2,Yes,Adult,High,Very Dissatisfied,Far
+EMP0020,54,Male,Operations,Operations Manager,10,199773.35,1,2,Yes,8,5,6,1,No,Senior,High,Very Dissatisfied,Near
+EMP0021,33,Male,Finance,Finance Manager,3,236955.59,2,3,No,49,0,4,3,No,Young Adult,Executive,Dissatisfied,Far
+EMP0022,43,Male,Operations,Logistics Officer,0,85821.14,4,3,No,45,9,1,4,No,Adult,Mid,Very Satisfied,Far
+EMP0023,46,Female,HR,HR Manager,6,286200.27,1,1,No,18,8,6,4,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP0024,48,Female,Sales,Sales Representative,17,41307.91,2,4,No,24,6,5,3,No,Senior,Low,Dissatisfied,Mid
+EMP0025,49,Female,IT,IT Support,8,56075.52,2,2,No,54,6,0,3,Yes,Senior,Mid,Dissatisfied,Far
+EMP0026,37,Male,HR,Recruiter,2,51487.66,2,4,No,42,6,4,4,Yes,Adult,Mid,Dissatisfied,Far
+EMP0027,36,Male,Sales,Sales Representative,7,49218.86,2,1,No,2,1,3,3,No,Adult,Low,Dissatisfied,Near
+EMP0028,24,Male,HR,Recruiter,18,67002.99,1,1,No,2,1,5,3,No,Youth,Mid,Very Dissatisfied,Near
+EMP0029,58,Female,Operations,Logistics Officer,3,93362.83,2,2,No,27,5,1,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0030,28,Female,Sales,Sales Manager,17,204363.23,1,4,Yes,14,6,3,3,Yes,Young Adult,Executive,Very Dissatisfied,Mid
+EMP0031,42,Male,Finance,Accountant,19,63001.1,1,1,No,48,2,2,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP0032,30,Female,Operations,Operations Executive,10,65182.57,2,3,No,39,3,5,1,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP0033,39,Male,Operations,Logistics Officer,13,117881.09,1,3,No,53,2,5,1,No,Adult,High,Very Dissatisfied,Far
+EMP0034,25,Male,Operations,Operations Executive,17,115919.97,4,3,No,53,6,4,4,Yes,Youth,High,Very Satisfied,Far
+EMP0035,46,Female,IT,Software Engineer,15,102012.38,4,4,No,56,6,4,1,No,Senior,High,Very Satisfied,Far
+EMP0036,35,Female,Operations,Operations Manager,2,210414.73,3,3,No,12,3,1,2,No,Young Adult,Executive,Satisfied,Mid
+EMP0037,30,Female,Finance,Finance Manager,14,167009.33,4,3,Yes,32,6,5,1,No,Young Adult,High,Very Satisfied,Far
+EMP0038,47,Female,Sales,Sales Manager,3,229226.03,1,1,No,28,4,4,4,No,Senior,Executive,Very Dissatisfied,Mid
+EMP0039,23,Male,IT,Data Analyst,4,112015.35,1,1,Yes,55,0,2,2,Yes,Youth,High,Very Dissatisfied,Far
+EMP0040,41,Female,Finance,Financial Analyst,16,140711.1,4,3,Yes,28,9,6,1,Yes,Adult,High,Very Satisfied,Mid
+EMP0041,49,Male,Sales,Sales Executive,6,99995.51,2,3,No,46,3,6,2,No,Senior,Mid,Dissatisfied,Far
+EMP0042,28,Female,HR,HR Manager,15,364580.73,2,1,No,25,6,6,2,No,Young Adult,Executive,Dissatisfied,Mid
+EMP0043,29,Male,HR,HR Executive,13,106037.77,1,2,No,4,1,4,4,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP0044,56,Female,Sales,Sales Executive,15,62370.8,2,4,Yes,26,1,5,4,No,Senior,Mid,Dissatisfied,Mid
+EMP0045,35,Male,HR,HR Manager,6,321808.59,3,4,Yes,36,0,6,2,No,Young Adult,Executive,Satisfied,Far
+EMP0046,38,Female,Finance,Financial Analyst,8,117540.1,3,1,No,50,1,0,1,Yes,Adult,High,Satisfied,Far
+EMP0047,57,Male,IT,Software Engineer,3,35481.5,4,4,No,3,9,3,4,No,Senior,Low,Very Satisfied,Near
+EMP0048,25,Female,Sales,Sales Manager,10,325391.32,4,1,Yes,1,7,5,2,Yes,Youth,Executive,Very Satisfied,Near
+EMP0049,23,Male,Sales,Sales Manager,1,152456.89,2,1,No,17,7,2,3,No,Youth,High,Dissatisfied,Mid
+EMP0050,27,Male,IT,Data Analyst,11,129101.91,1,1,No,7,7,5,3,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP0051,25,Male,Operations,Operations Manager,11,232344.82,4,1,No,48,0,2,4,Yes,Youth,Executive,Very Satisfied,Far
+EMP0052,50,Male,Sales,Sales Representative,3,92403.98,3,2,No,5,0,5,1,No,Senior,Mid,Satisfied,Near
+EMP0053,39,Female,HR,HR Executive,17,98962.09,4,3,No,19,9,6,3,No,Adult,Mid,Very Satisfied,Mid
+EMP0054,47,Male,Sales,Sales Representative,20,57368.52,4,3,No,39,3,3,3,No,Senior,Mid,Very Satisfied,Far
+EMP0055,55,Female,IT,Software Engineer,6,103046.43,3,2,No,46,5,3,3,No,Senior,High,Satisfied,Far
+EMP0056,31,Male,Finance,Financial Analyst,0,115270.01,1,4,Yes,34,7,2,1,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0057,57,Male,Finance,Accountant,12,70169.37,4,4,No,35,1,5,1,No,Senior,Mid,Very Satisfied,Far
+EMP0058,35,Female,Sales,Sales Representative,5,95431.67,4,3,No,49,2,3,4,No,Young Adult,Mid,Very Satisfied,Far
+EMP0059,52,Female,IT,Data Analyst,5,163150.43,4,4,No,16,5,1,4,No,Senior,High,Very Satisfied,Mid
+EMP0060,36,Male,Sales,Sales Representative,11,118863.16,2,3,No,40,9,5,3,Yes,Adult,High,Dissatisfied,Far
+EMP0061,29,Female,IT,Data Analyst,7,107019.32,4,3,Yes,50,3,3,1,Yes,Young Adult,High,Very Satisfied,Far
+EMP0062,35,Female,HR,Recruiter,18,89608.61,3,2,Yes,47,1,0,2,No,Young Adult,Mid,Satisfied,Far
+EMP0063,44,Male,Sales,Sales Executive,4,84871.37,1,4,No,39,6,0,3,No,Adult,Mid,Very Dissatisfied,Far
+EMP0064,42,Female,Sales,Sales Representative,17,112358.86,1,2,No,27,3,1,4,No,Adult,High,Very Dissatisfied,Mid
+EMP0065,37,Female,IT,Software Engineer,4,44072.59,3,3,Yes,41,7,3,1,No,Adult,Low,Satisfied,Far
+EMP0066,39,Female,Operations,Operations Manager,9,337949.54,2,3,No,38,7,0,4,No,Adult,Executive,Dissatisfied,Far
+EMP0067,45,Male,Operations,Logistics Officer,0,81144.18,3,3,No,50,6,6,4,No,Adult,Mid,Satisfied,Far
+EMP0068,47,Female,Sales,Sales Executive,9,54719.93,1,1,No,50,9,5,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP0069,46,Male,Finance,Financial Analyst,4,136932.19,3,1,No,25,8,4,3,No,Senior,High,Satisfied,Mid
+EMP0070,50,Male,IT,Software Engineer,11,60039.89,2,1,No,26,3,3,1,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0071,36,Male,IT,IT Support,6,82138.21,1,2,No,56,6,1,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0072,22,Male,Finance,Accountant,8,110010.05,2,3,No,14,9,3,4,Yes,Youth,High,Dissatisfied,Mid
+EMP0073,46,Female,Operations,Operations Executive,20,81237.45,3,4,Yes,14,9,2,1,No,Senior,Mid,Satisfied,Mid
+EMP0074,28,Female,Operations,Operations Executive,11,86855.02,4,2,Yes,14,0,2,2,Yes,Young Adult,Mid,Very Satisfied,Mid
+EMP0075,30,Female,HR,HR Executive,0,76687.31,3,2,Yes,25,3,0,3,Yes,Young Adult,Mid,Satisfied,Mid
+EMP0076,45,Male,IT,Data Analyst,10,86139.86,2,2,No,36,1,2,2,No,Adult,Mid,Dissatisfied,Far
+EMP0077,22,Male,Finance,Accountant,20,50957.27,3,4,Yes,4,8,1,3,Yes,Youth,Mid,Satisfied,Near
+EMP0078,29,Male,Sales,Sales Manager,14,273000.43,4,3,Yes,47,4,0,1,Yes,Young Adult,Executive,Very Satisfied,Far
+EMP0079,45,Female,HR,HR Executive,1,57921.18,2,1,No,15,2,1,2,Yes,Adult,Mid,Dissatisfied,Mid
+EMP0080,32,Male,IT,IT Support,19,46358.72,3,3,Yes,32,3,5,1,Yes,Young Adult,Low,Satisfied,Far
+EMP0081,38,Female,HR,Recruiter,6,75371.96,2,3,Yes,18,5,1,3,No,Adult,Mid,Dissatisfied,Mid
+EMP0082,29,Female,Sales,Sales Manager,20,230702.45,2,2,Yes,14,9,2,3,No,Young Adult,Executive,Dissatisfied,Mid
+EMP0083,56,Male,Sales,Sales Representative,11,53229.69,1,2,No,58,0,5,3,No,Senior,Mid,Very Dissatisfied,Far
+EMP0084,56,Female,Operations,Logistics Officer,17,71758.69,1,2,Yes,1,6,2,3,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0085,54,Male,Sales,Sales Representative,2,41995.58,2,1,No,42,7,1,4,Yes,Senior,Low,Dissatisfied,Far
+EMP0086,26,Female,IT,Software Engineer,6,113497.12,3,1,No,20,6,2,3,No,Young Adult,High,Satisfied,Mid
+EMP0087,49,Female,Sales,Sales Representative,10,108093.19,3,1,No,10,6,2,2,Yes,Senior,High,Satisfied,Near
+EMP0088,28,Male,Sales,Sales Representative,17,93685.85,3,3,No,10,8,2,3,Yes,Young Adult,Mid,Satisfied,Near
+EMP0089,30,Male,Sales,Sales Executive,11,39559.24,4,2,No,59,3,3,1,No,Young Adult,Low,Very Satisfied,Far
+EMP0090,29,Female,Sales,Sales Representative,5,99828.95,2,4,Yes,24,6,5,4,Yes,Young Adult,Mid,Dissatisfied,Mid
+EMP0091,33,Female,Operations,Logistics Officer,4,102716.16,2,3,Yes,34,8,5,2,Yes,Young Adult,High,Dissatisfied,Far
+EMP0092,55,Male,Sales,Sales Executive,0,99098.82,4,1,Yes,28,4,6,4,No,Senior,Mid,Very Satisfied,Mid
+EMP0093,54,Female,Operations,Operations Manager,11,178491.47,2,4,Yes,27,1,5,4,No,Senior,High,Dissatisfied,Mid
+EMP0094,44,Female,HR,HR Executive,10,87951.72,2,4,Yes,40,4,6,4,Yes,Adult,Mid,Dissatisfied,Far
+EMP0095,45,Female,IT,System Admin,3,105089.23,4,2,Yes,1,3,1,1,Yes,Adult,High,Very Satisfied,Near
+EMP0096,58,Male,HR,HR Executive,17,81961.81,1,4,No,33,7,6,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0097,56,Female,IT,IT Support,3,88176.66,2,1,No,4,4,6,4,No,Senior,Mid,Dissatisfied,Near
+EMP0098,43,Female,Finance,Finance Manager,16,264590.87,4,2,No,7,8,4,3,No,Adult,Executive,Very Satisfied,Near
+EMP0099,48,Male,Sales,Sales Manager,1,282176.83,3,4,No,9,8,1,1,No,Senior,Executive,Satisfied,Near
+EMP0100,56,Male,IT,Software Engineer,1,33093.92,1,2,Yes,16,2,5,2,Yes,Senior,Low,Very Dissatisfied,Mid
+EMP0101,22,Female,Operations,Operations Manager,11,309740.76,3,4,Yes,5,9,0,2,No,Youth,Executive,Satisfied,Near
+EMP0102,56,Male,Operations,Operations Manager,5,170361.8,2,3,No,34,5,2,2,No,Senior,High,Dissatisfied,Far
+EMP0103,58,Female,Operations,Operations Executive,9,69151.31,1,3,Yes,23,5,2,1,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP0104,35,Male,IT,System Admin,20,56338.96,4,1,Yes,43,3,4,2,No,Young Adult,Mid,Very Satisfied,Far
+EMP0105,24,Male,Finance,Financial Analyst,15,145451.35,2,3,No,50,9,0,1,No,Youth,High,Dissatisfied,Far
+EMP0106,22,Female,IT,Software Engineer,13,42007.47,4,3,No,25,2,3,3,Yes,Youth,Low,Very Satisfied,Mid
+EMP0107,26,Male,IT,IT Support,6,92247.91,1,3,No,57,0,6,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0108,47,Male,Sales,Sales Representative,18,101551.04,3,4,Yes,51,6,1,1,Yes,Senior,High,Satisfied,Far
+EMP0109,35,Male,HR,Recruiter,16,44701.9,2,4,No,13,4,3,2,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP0110,48,Female,Sales,Sales Manager,8,176078.27,2,2,No,24,9,0,1,No,Senior,High,Dissatisfied,Mid
+EMP0111,30,Male,IT,IT Support,12,43096.39,4,4,No,11,6,4,1,Yes,Young Adult,Low,Very Satisfied,Mid
+EMP0112,36,Male,Operations,Logistics Officer,4,108941.48,1,3,No,52,0,0,4,No,Adult,High,Very Dissatisfied,Far
+EMP0113,36,Female,Sales,Sales Manager,4,282047.32,4,4,No,51,7,4,1,No,Adult,Executive,Very Satisfied,Far
+EMP0114,47,Male,Sales,Sales Manager,9,266815.25,1,1,Yes,17,2,3,4,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP0115,34,Female,Sales,Sales Representative,20,39604.06,2,2,No,37,6,3,3,No,Young Adult,Low,Dissatisfied,Far
+EMP0116,53,Male,Operations,Operations Executive,9,88460.04,1,2,No,13,2,0,4,No,Senior,Mid,Very Dissatisfied,Mid
+EMP0117,53,Female,IT,IT Support,6,108119.96,2,4,No,27,2,0,1,Yes,Senior,High,Dissatisfied,Mid
+EMP0118,25,Male,IT,Data Analyst,14,179382.3,1,3,No,20,9,6,3,No,Youth,High,Very Dissatisfied,Mid
+EMP0119,51,Female,Finance,Accountant,6,86344.92,3,2,No,33,8,2,4,No,Senior,Mid,Satisfied,Far
+EMP0120,58,Male,Finance,Accountant,14,36775.08,1,1,No,42,1,4,1,Yes,Senior,Low,Very Dissatisfied,Far
+EMP0121,44,Male,IT,Data Analyst,2,93487.64,3,1,No,32,3,2,3,Yes,Adult,Mid,Satisfied,Far
+EMP0122,36,Male,HR,Recruiter,18,34437.81,1,2,No,8,5,1,4,Yes,Adult,Low,Very Dissatisfied,Near
+EMP0123,50,Male,Finance,Finance Manager,9,214369.8,1,3,No,56,2,1,1,No,Senior,Executive,Very Dissatisfied,Far
+EMP0124,57,Male,HR,HR Executive,14,42209.53,4,3,Yes,29,9,0,1,No,Senior,Low,Very Satisfied,Mid
+EMP0125,34,Male,Sales,Sales Representative,2,53404.32,4,4,Yes,40,9,3,2,No,Young Adult,Mid,Very Satisfied,Far
+EMP0126,53,Female,Operations,Operations Executive,5,64655.23,2,4,No,19,6,1,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0127,28,Male,IT,Data Analyst,11,193157.93,4,2,No,6,6,1,4,No,Young Adult,High,Very Satisfied,Near
+EMP0128,43,Male,Sales,Sales Executive,14,84933.85,1,4,No,44,4,2,4,No,Adult,Mid,Very Dissatisfied,Far
+EMP0129,49,Female,IT,IT Support,5,105147.64,4,4,No,39,2,2,4,No,Senior,High,Very Satisfied,Far
+EMP0130,23,Female,Sales,Sales Representative,12,93931.64,1,4,Yes,48,1,6,1,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP0131,27,Male,Sales,Sales Manager,18,178125.78,3,1,Yes,41,3,6,4,Yes,Young Adult,High,Satisfied,Far
+EMP0132,49,Male,Finance,Accountant,2,96232.84,1,4,No,21,3,1,1,No,Senior,Mid,Very Dissatisfied,Mid
+EMP0133,49,Male,Sales,Sales Executive,7,54758.9,2,2,Yes,57,7,0,4,No,Senior,Mid,Dissatisfied,Far
+EMP0134,41,Female,IT,Software Engineer,7,87519.71,3,3,No,22,7,2,1,No,Adult,Mid,Satisfied,Mid
+EMP0135,51,Female,IT,IT Support,19,60686.58,2,4,Yes,42,4,1,1,No,Senior,Mid,Dissatisfied,Far
+EMP0136,32,Male,Sales,Sales Representative,14,119790.5,2,3,Yes,10,5,3,2,No,Young Adult,High,Dissatisfied,Near
+EMP0137,49,Female,Operations,Operations Manager,3,215887.87,2,4,No,10,7,2,3,No,Senior,Executive,Dissatisfied,Near
+EMP0138,46,Female,Sales,Sales Representative,18,55121.74,4,2,No,52,0,1,1,No,Senior,Mid,Very Satisfied,Far
+EMP0139,54,Female,IT,System Admin,20,113760.5,2,1,No,29,4,6,4,No,Senior,High,Dissatisfied,Mid
+EMP0140,22,Female,IT,Software Engineer,2,32218.0,3,2,Yes,16,3,4,2,Yes,Youth,Low,Satisfied,Mid
+EMP0141,48,Male,Sales,Sales Manager,12,324172.25,1,1,No,1,3,2,4,Yes,Senior,Executive,Very Dissatisfied,Near
+EMP0142,34,Male,Sales,Sales Manager,7,331331.6,2,4,No,17,1,4,4,Yes,Young Adult,Executive,Dissatisfied,Mid
+EMP0143,24,Male,Finance,Finance Manager,15,359094.64,3,4,No,30,9,2,1,No,Youth,Executive,Satisfied,Mid
+EMP0144,27,Male,Operations,Operations Executive,12,117699.54,2,1,No,26,0,2,1,No,Young Adult,High,Dissatisfied,Mid
+EMP0145,29,Male,Sales,Sales Representative,2,117804.17,1,2,Yes,53,5,6,3,No,Young Adult,High,Very Dissatisfied,Far
+EMP0146,48,Female,HR,HR Executive,15,35874.91,3,2,No,46,6,5,1,Yes,Senior,Low,Satisfied,Far
+EMP0147,30,Male,Finance,Finance Manager,8,355459.83,3,1,No,19,4,5,1,No,Young Adult,Executive,Satisfied,Mid
+EMP0148,58,Male,Finance,Accountant,13,88167.89,1,4,No,53,7,4,3,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0149,54,Male,IT,Software Engineer,12,88260.79,3,1,Yes,21,8,0,4,Yes,Senior,Mid,Satisfied,Mid
+EMP0150,45,Female,IT,Data Analyst,20,95401.99,1,4,No,17,1,1,3,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0151,36,Male,IT,Data Analyst,6,158022.46,3,1,No,46,3,0,3,Yes,Adult,High,Satisfied,Far
+EMP0152,53,Male,Finance,Accountant,14,118423.43,3,4,Yes,40,8,0,3,No,Senior,High,Satisfied,Far
+EMP0153,53,Male,Finance,Financial Analyst,6,189418.23,1,1,Yes,21,4,5,2,No,Senior,High,Very Dissatisfied,Mid
+EMP0154,45,Male,Sales,Sales Manager,5,259782.67,1,3,No,53,2,1,4,No,Adult,Executive,Very Dissatisfied,Far
+EMP0155,33,Female,IT,IT Support,1,33595.32,3,4,No,41,5,5,2,No,Young Adult,Low,Satisfied,Far
+EMP0156,23,Female,Operations,Operations Executive,8,62606.41,3,2,No,40,2,5,2,No,Youth,Mid,Satisfied,Far
+EMP0157,24,Male,Finance,Accountant,16,104375.13,1,1,No,45,4,6,1,Yes,Youth,High,Very Dissatisfied,Far
+EMP0158,58,Female,Operations,Logistics Officer,4,93134.92,4,2,No,49,2,5,3,No,Senior,Mid,Very Satisfied,Far
+EMP0159,38,Female,Finance,Finance Manager,11,264835.91,1,1,No,19,5,3,3,No,Adult,Executive,Very Dissatisfied,Mid
+EMP0160,23,Female,IT,Data Analyst,0,86612.18,3,2,Yes,7,9,0,2,Yes,Youth,Mid,Satisfied,Near
+EMP0161,23,Male,HR,Recruiter,9,68420.53,3,2,No,17,4,6,1,Yes,Youth,Mid,Satisfied,Mid
+EMP0162,49,Male,HR,HR Manager,10,267256.23,3,1,No,1,8,6,1,Yes,Senior,Executive,Satisfied,Near
+EMP0163,44,Male,Sales,Sales Representative,15,113570.0,1,1,Yes,37,2,0,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP0164,58,Female,IT,Software Engineer,13,87697.75,3,2,No,57,5,6,4,No,Senior,Mid,Satisfied,Far
+EMP0165,53,Male,Finance,Finance Manager,7,227913.23,4,2,No,6,7,0,2,No,Senior,Executive,Very Satisfied,Near
+EMP0166,54,Male,Sales,Sales Manager,16,281329.57,2,2,No,26,6,3,4,No,Senior,Executive,Dissatisfied,Mid
+EMP0167,22,Male,Finance,Finance Manager,17,166513.83,4,4,No,2,5,2,1,No,Youth,High,Very Satisfied,Near
+EMP0168,40,Female,HR,Recruiter,11,117531.14,1,4,No,59,1,6,1,No,Adult,High,Very Dissatisfied,Far
+EMP0169,23,Male,Operations,Logistics Officer,16,62405.39,3,3,Yes,32,6,4,1,Yes,Youth,Mid,Satisfied,Far
+EMP0170,47,Female,Sales,Sales Executive,13,73008.06,1,4,No,57,7,4,3,No,Senior,Mid,Very Dissatisfied,Far
+EMP0171,53,Female,Sales,Sales Executive,15,61975.56,2,4,No,48,0,3,2,No,Senior,Mid,Dissatisfied,Far
+EMP0172,27,Male,HR,HR Executive,13,91426.06,1,1,No,54,8,0,3,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0173,53,Female,Sales,Sales Executive,8,89600.89,3,3,No,5,3,4,4,No,Senior,Mid,Satisfied,Near
+EMP0174,25,Male,Finance,Finance Manager,3,328830.58,2,3,No,37,7,3,3,No,Youth,Executive,Dissatisfied,Far
+EMP0175,32,Female,Finance,Finance Manager,10,217035.81,2,4,Yes,31,9,5,2,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0176,38,Male,Sales,Sales Executive,5,58410.16,3,1,Yes,12,6,1,3,No,Adult,Mid,Satisfied,Mid
+EMP0177,59,Female,IT,Data Analyst,14,95030.15,3,1,No,35,9,4,1,No,Senior,Mid,Satisfied,Far
+EMP0178,45,Female,IT,System Admin,4,88995.9,3,3,Yes,30,6,1,4,Yes,Adult,Mid,Satisfied,Mid
+EMP0179,26,Female,IT,Software Engineer,10,33581.74,1,1,Yes,48,1,0,4,Yes,Young Adult,Low,Very Dissatisfied,Far
+EMP0180,55,Female,Operations,Operations Manager,17,299420.58,4,2,No,6,0,4,1,No,Senior,Executive,Very Satisfied,Near
+EMP0181,27,Male,Finance,Financial Analyst,12,184363.51,1,4,No,15,3,3,1,Yes,Young Adult,High,Very Dissatisfied,Mid
+EMP0182,43,Female,HR,HR Executive,10,110174.89,1,2,Yes,15,1,2,1,No,Adult,High,Very Dissatisfied,Mid
+EMP0183,32,Female,Finance,Accountant,13,70413.4,4,3,No,16,7,4,2,Yes,Young Adult,Mid,Very Satisfied,Mid
+EMP0184,37,Female,IT,Software Engineer,17,71337.33,3,3,No,20,9,4,3,No,Adult,Mid,Satisfied,Mid
+EMP0185,54,Male,Operations,Operations Manager,18,169242.3,3,1,No,13,6,4,4,Yes,Senior,High,Satisfied,Mid
+EMP0186,30,Female,HR,Recruiter,14,90368.85,4,1,No,44,7,4,3,No,Young Adult,Mid,Very Satisfied,Far
+EMP0187,27,Female,Finance,Accountant,8,103913.35,4,3,No,42,5,3,1,Yes,Young Adult,High,Very Satisfied,Far
+EMP0188,37,Female,Operations,Operations Manager,7,211163.76,1,3,Yes,46,0,3,1,Yes,Adult,Executive,Very Dissatisfied,Far
+EMP0189,50,Male,Sales,Sales Representative,19,67917.08,2,2,Yes,31,8,2,3,Yes,Senior,Mid,Dissatisfied,Far
+EMP0190,24,Female,Finance,Financial Analyst,0,180660.72,4,2,No,34,5,3,4,No,Youth,High,Very Satisfied,Far
+EMP0191,41,Male,Sales,Sales Executive,3,108940.84,1,1,No,29,9,3,2,No,Adult,High,Very Dissatisfied,Mid
+EMP0192,57,Female,IT,IT Support,13,51886.2,2,2,No,3,0,0,3,No,Senior,Mid,Dissatisfied,Near
+EMP0193,40,Male,IT,IT Support,1,79551.36,3,1,No,9,0,6,1,No,Adult,Mid,Satisfied,Near
+EMP0194,47,Female,Operations,Logistics Officer,15,47324.38,3,1,No,11,7,0,1,No,Senior,Low,Satisfied,Mid
+EMP0195,24,Female,Operations,Operations Executive,2,39169.09,1,4,No,11,5,6,2,Yes,Youth,Low,Very Dissatisfied,Mid
+EMP0196,40,Male,Finance,Finance Manager,7,377780.13,1,1,Yes,25,7,1,3,Yes,Adult,Executive,Very Dissatisfied,Mid
+EMP0197,41,Female,Finance,Accountant,5,103845.68,4,2,Yes,22,7,2,2,Yes,Adult,High,Very Satisfied,Mid
+EMP0198,53,Male,HR,HR Executive,15,98403.14,3,3,No,42,7,6,2,No,Senior,Mid,Satisfied,Far
+EMP0199,28,Female,Operations,Logistics Officer,15,34388.97,1,3,Yes,58,9,0,4,Yes,Young Adult,Low,Very Dissatisfied,Far
+EMP0200,54,Female,IT,System Admin,6,105935.59,3,2,Yes,46,6,2,4,Yes,Senior,High,Satisfied,Far
+EMP0201,39,Female,IT,IT Support,12,69423.97,3,3,No,9,6,2,1,Yes,Adult,Mid,Satisfied,Near
+EMP0202,22,Female,Sales,Sales Representative,12,60815.56,4,1,No,20,9,4,3,No,Youth,Mid,Very Satisfied,Mid
+EMP0203,32,Female,Finance,Finance Manager,4,286619.09,2,3,No,59,3,5,4,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0204,49,Male,Finance,Finance Manager,19,172838.31,4,2,Yes,21,8,5,1,Yes,Senior,High,Very Satisfied,Mid
+EMP0205,46,Male,IT,IT Support,17,98098.19,1,3,Yes,10,1,5,3,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0206,44,Female,Sales,Sales Representative,14,82419.16,4,1,Yes,22,8,2,1,No,Adult,Mid,Very Satisfied,Mid
+EMP0207,52,Female,Finance,Financial Analyst,17,102390.81,4,1,No,29,9,4,4,No,Senior,High,Very Satisfied,Mid
+EMP0208,51,Female,Sales,Sales Manager,1,197058.05,3,2,No,9,2,1,1,No,Senior,High,Satisfied,Near
+EMP0209,56,Female,Finance,Finance Manager,9,196062.16,4,2,No,5,1,1,3,Yes,Senior,High,Very Satisfied,Near
+EMP0210,28,Male,Operations,Logistics Officer,12,35130.21,1,2,No,40,3,5,3,Yes,Young Adult,Low,Very Dissatisfied,Far
+EMP0211,37,Female,IT,Data Analyst,17,150535.81,2,4,No,11,4,1,1,No,Adult,High,Dissatisfied,Mid
+EMP0212,47,Male,Sales,Sales Manager,14,360087.04,4,4,Yes,1,1,4,3,Yes,Senior,Executive,Very Satisfied,Near
+EMP0213,23,Male,Finance,Finance Manager,11,154374.55,4,1,No,53,0,5,1,Yes,Youth,High,Very Satisfied,Far
+EMP0214,22,Male,Finance,Financial Analyst,14,85880.56,2,4,No,42,9,6,3,No,Youth,Mid,Dissatisfied,Far
+EMP0215,33,Male,IT,Software Engineer,12,81549.32,1,4,No,1,4,6,1,No,Young Adult,Mid,Very Dissatisfied,Near
+EMP0216,26,Male,Operations,Operations Manager,17,354873.92,1,3,No,58,8,4,1,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP0217,58,Male,Sales,Sales Executive,14,59406.5,4,4,Yes,54,4,1,1,No,Senior,Mid,Very Satisfied,Far
+EMP0218,53,Female,IT,Software Engineer,10,61465.3,3,3,No,39,9,5,2,Yes,Senior,Mid,Satisfied,Far
+EMP0219,30,Male,Finance,Financial Analyst,18,151561.58,4,2,No,46,8,6,3,Yes,Young Adult,High,Very Satisfied,Far
+EMP0220,56,Male,Operations,Operations Manager,2,218553.22,2,3,Yes,5,9,4,4,Yes,Senior,Executive,Dissatisfied,Near
+EMP0221,40,Male,Sales,Sales Representative,6,32394.75,2,3,Yes,49,5,3,1,Yes,Adult,Low,Dissatisfied,Far
+EMP0222,37,Male,Finance,Finance Manager,20,333807.13,2,2,No,22,2,6,2,No,Adult,Executive,Dissatisfied,Mid
+EMP0223,24,Male,HR,HR Manager,13,306412.48,4,2,No,26,3,3,4,No,Youth,Executive,Very Satisfied,Mid
+EMP0224,41,Male,IT,IT Support,13,82268.04,4,1,Yes,53,3,4,1,No,Adult,Mid,Very Satisfied,Far
+EMP0225,45,Female,Sales,Sales Executive,12,96751.57,1,1,No,6,0,4,4,Yes,Adult,Mid,Very Dissatisfied,Near
+EMP0226,54,Female,Operations,Operations Manager,11,318807.71,3,1,Yes,32,2,0,2,No,Senior,Executive,Satisfied,Far
+EMP0227,45,Female,Sales,Sales Representative,8,48529.38,4,1,No,48,2,6,4,No,Adult,Low,Very Satisfied,Far
+EMP0228,32,Male,IT,Software Engineer,0,61723.29,1,3,Yes,11,0,0,1,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0229,29,Male,Sales,Sales Executive,18,41349.91,4,3,Yes,10,8,2,4,No,Young Adult,Low,Very Satisfied,Near
+EMP0230,57,Female,Operations,Operations Manager,10,182464.25,1,1,No,47,0,6,4,Yes,Senior,High,Very Dissatisfied,Far
+EMP0231,59,Male,HR,HR Manager,18,319048.94,1,4,Yes,39,8,5,1,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP0232,41,Male,Finance,Financial Analyst,17,183032.01,3,1,No,55,0,2,2,No,Adult,High,Satisfied,Far
+EMP0233,56,Male,Sales,Sales Executive,11,116645.93,4,4,Yes,34,1,2,2,No,Senior,High,Very Satisfied,Far
+EMP0234,46,Male,HR,Recruiter,0,86551.24,1,2,No,31,1,1,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0235,56,Male,HR,HR Manager,18,196025.33,2,3,Yes,12,5,3,3,Yes,Senior,High,Dissatisfied,Mid
+EMP0236,46,Male,Finance,Financial Analyst,19,92678.04,2,3,No,51,6,1,4,No,Senior,Mid,Dissatisfied,Far
+EMP0237,50,Female,Operations,Logistics Officer,16,103156.59,2,4,No,44,0,5,3,No,Senior,High,Dissatisfied,Far
+EMP0238,39,Male,Sales,Sales Manager,4,294689.12,3,1,Yes,16,2,4,4,No,Adult,Executive,Satisfied,Mid
+EMP0239,39,Female,HR,HR Manager,2,304571.26,1,3,No,38,1,0,2,Yes,Adult,Executive,Very Dissatisfied,Far
+EMP0240,23,Female,Sales,Sales Representative,1,100331.59,3,4,Yes,3,7,5,4,Yes,Youth,High,Satisfied,Near
+EMP0241,56,Female,IT,IT Support,2,93294.95,4,2,No,2,8,4,4,No,Senior,Mid,Very Satisfied,Near
+EMP0242,37,Female,Sales,Sales Representative,7,105101.24,4,2,Yes,52,1,5,3,Yes,Adult,High,Very Satisfied,Far
+EMP0243,57,Female,IT,System Admin,15,35059.25,1,3,No,5,1,4,2,Yes,Senior,Low,Very Dissatisfied,Near
+EMP0244,54,Male,IT,IT Support,5,97276.86,2,1,No,11,9,6,3,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0245,25,Male,HR,HR Executive,12,106576.75,1,4,No,58,8,0,4,Yes,Youth,High,Very Dissatisfied,Far
+EMP0246,54,Male,IT,System Admin,15,55752.15,1,3,No,25,3,4,1,No,Senior,Mid,Very Dissatisfied,Mid
+EMP0247,35,Female,Finance,Accountant,15,87640.25,1,2,No,35,4,2,4,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0248,42,Female,IT,Software Engineer,2,58274.59,3,1,No,35,8,5,4,Yes,Adult,Mid,Satisfied,Far
+EMP0249,41,Male,Sales,Sales Executive,12,116217.4,4,4,No,22,5,0,3,No,Adult,High,Very Satisfied,Mid
+EMP0250,29,Female,Finance,Finance Manager,13,158355.89,1,3,No,37,9,4,1,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0251,28,Male,Sales,Sales Manager,7,294948.21,1,4,Yes,22,8,2,1,Yes,Young Adult,Executive,Very Dissatisfied,Mid
+EMP0252,24,Female,IT,Data Analyst,11,99980.43,1,1,No,55,8,2,3,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP0253,38,Male,HR,HR Executive,20,94099.82,3,1,No,11,6,6,2,No,Adult,Mid,Satisfied,Mid
+EMP0254,54,Male,IT,System Admin,7,45830.13,3,2,No,32,9,3,1,No,Senior,Low,Satisfied,Far
+EMP0255,33,Male,Sales,Sales Manager,20,208845.82,3,1,No,35,8,2,1,No,Young Adult,Executive,Satisfied,Far
+EMP0256,43,Male,IT,Software Engineer,8,74493.37,1,3,Yes,31,4,1,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0257,43,Male,Operations,Logistics Officer,0,112335.15,2,4,No,45,4,0,2,No,Adult,High,Dissatisfied,Far
+EMP0258,51,Male,HR,Recruiter,5,49054.29,2,1,Yes,53,7,0,2,No,Senior,Low,Dissatisfied,Far
+EMP0259,59,Female,HR,Recruiter,18,42981.6,2,1,Yes,8,9,0,4,Yes,Senior,Low,Dissatisfied,Near
+EMP0260,59,Male,HR,HR Manager,10,339744.21,4,3,Yes,20,3,4,4,No,Senior,Executive,Very Satisfied,Mid
+EMP0261,29,Male,Sales,Sales Executive,10,75055.76,1,4,No,42,8,5,3,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0262,48,Female,IT,System Admin,12,112060.66,2,4,Yes,34,6,4,2,No,Senior,High,Dissatisfied,Far
+EMP0263,48,Female,Finance,Finance Manager,10,186653.64,2,2,Yes,4,6,1,3,No,Senior,High,Dissatisfied,Near
+EMP0264,55,Male,Sales,Sales Manager,17,311481.97,2,2,No,18,2,5,4,No,Senior,Executive,Dissatisfied,Mid
+EMP0265,42,Male,Sales,Sales Executive,14,50959.12,1,4,Yes,51,3,6,3,No,Adult,Mid,Very Dissatisfied,Far
+EMP0266,51,Male,Sales,Sales Executive,0,44108.44,2,3,Yes,4,6,2,3,Yes,Senior,Low,Dissatisfied,Near
+EMP0267,54,Male,IT,IT Support,20,91508.65,2,3,Yes,20,4,4,1,No,Senior,Mid,Dissatisfied,Mid
+EMP0268,49,Female,Operations,Operations Manager,6,298421.15,1,2,No,58,2,5,1,No,Senior,Executive,Very Dissatisfied,Far
+EMP0269,54,Male,Sales,Sales Representative,12,97934.47,4,1,No,9,0,2,1,No,Senior,Mid,Very Satisfied,Near
+EMP0270,26,Male,IT,System Admin,11,57851.63,3,3,Yes,16,6,5,4,No,Young Adult,Mid,Satisfied,Mid
+EMP0271,40,Female,Sales,Sales Executive,17,70317.45,2,1,No,26,5,2,3,Yes,Adult,Mid,Dissatisfied,Mid
+EMP0272,25,Male,Operations,Operations Executive,18,66492.45,3,3,No,38,9,5,1,No,Youth,Mid,Satisfied,Far
+EMP0273,56,Female,Sales,Sales Executive,14,118568.05,4,4,Yes,25,6,4,1,Yes,Senior,High,Very Satisfied,Mid
+EMP0274,38,Male,IT,Data Analyst,7,115069.87,4,2,Yes,4,1,4,1,Yes,Adult,High,Very Satisfied,Near
+EMP0275,49,Female,Finance,Financial Analyst,18,115378.07,2,1,No,41,3,1,4,Yes,Senior,High,Dissatisfied,Far
+EMP0276,51,Male,Finance,Accountant,9,61909.34,1,1,No,59,1,6,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP0277,50,Female,IT,Software Engineer,6,80813.47,4,4,Yes,45,7,6,3,Yes,Senior,Mid,Very Satisfied,Far
+EMP0278,27,Female,IT,System Admin,17,52709.05,3,3,Yes,41,6,3,3,No,Young Adult,Mid,Satisfied,Far
+EMP0279,56,Male,IT,Software Engineer,15,112376.09,3,1,No,38,0,0,3,No,Senior,High,Satisfied,Far
+EMP0280,58,Female,Sales,Sales Executive,19,53911.7,3,3,Yes,53,1,4,1,Yes,Senior,Mid,Satisfied,Far
+EMP0281,45,Female,Sales,Sales Representative,5,110623.42,3,4,No,19,1,4,2,No,Adult,High,Satisfied,Mid
+EMP0282,50,Female,IT,Software Engineer,8,39312.76,4,2,No,14,3,2,4,No,Senior,Low,Very Satisfied,Mid
+EMP0283,52,Female,Sales,Sales Executive,20,89090.64,2,1,No,21,2,3,1,No,Senior,Mid,Dissatisfied,Mid
+EMP0284,56,Female,Sales,Sales Executive,12,111628.7,2,3,Yes,15,0,6,1,No,Senior,High,Dissatisfied,Mid
+EMP0285,54,Male,HR,HR Manager,20,192187.36,3,1,No,3,1,4,3,No,Senior,High,Satisfied,Near
+EMP0286,42,Male,Operations,Operations Executive,7,117149.43,2,3,Yes,37,8,5,3,No,Adult,High,Dissatisfied,Far
+EMP0287,53,Female,HR,HR Executive,15,70759.5,3,3,No,53,0,6,1,No,Senior,Mid,Satisfied,Far
+EMP0288,44,Male,Sales,Sales Manager,12,386428.78,3,3,No,50,8,3,4,No,Adult,Executive,Satisfied,Far
+EMP0289,54,Female,Sales,Sales Executive,12,90913.8,1,4,No,46,6,0,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP0290,24,Female,Operations,Operations Executive,16,57142.82,4,2,No,16,1,5,1,No,Youth,Mid,Very Satisfied,Mid
+EMP0291,39,Male,Sales,Sales Executive,19,46947.23,4,1,No,14,1,2,2,Yes,Adult,Low,Very Satisfied,Mid
+EMP0292,46,Male,Sales,Sales Executive,4,57336.15,3,2,No,9,4,1,2,No,Senior,Mid,Satisfied,Near
+EMP0293,52,Female,HR,HR Executive,20,38371.57,4,3,No,47,4,5,4,No,Senior,Low,Very Satisfied,Far
+EMP0294,24,Male,HR,HR Manager,16,185966.99,2,3,No,7,3,6,3,No,Youth,High,Dissatisfied,Near
+EMP0295,45,Female,HR,HR Executive,8,39419.44,3,2,No,14,9,0,2,Yes,Adult,Low,Satisfied,Mid
+EMP0296,53,Male,Sales,Sales Manager,1,255735.89,1,2,No,6,9,5,2,Yes,Senior,Executive,Very Dissatisfied,Near
+EMP0297,43,Female,Sales,Sales Manager,17,348894.59,2,1,No,21,2,3,3,Yes,Adult,Executive,Dissatisfied,Mid
+EMP0298,44,Male,Operations,Operations Executive,8,42724.52,1,3,Yes,15,3,3,2,Yes,Adult,Low,Very Dissatisfied,Mid
+EMP0299,23,Female,Sales,Sales Manager,5,182580.11,1,2,No,52,9,0,1,Yes,Youth,High,Very Dissatisfied,Far
+EMP0300,48,Male,HR,Recruiter,10,87908.61,4,4,No,8,3,6,2,No,Senior,Mid,Very Satisfied,Near
+EMP0301,23,Female,Finance,Finance Manager,5,199295.75,4,3,No,34,1,3,3,Yes,Youth,High,Very Satisfied,Far
+EMP0302,47,Male,HR,Recruiter,5,38784.9,3,3,No,40,4,5,1,No,Senior,Low,Satisfied,Far
+EMP0303,38,Female,IT,System Admin,12,45016.37,4,1,Yes,1,4,1,2,Yes,Adult,Low,Very Satisfied,Near
+EMP0304,54,Female,Sales,Sales Executive,10,113135.83,1,4,Yes,32,4,5,4,No,Senior,High,Very Dissatisfied,Far
+EMP0305,30,Male,HR,HR Manager,13,355367.81,1,1,Yes,58,9,1,1,Yes,Young Adult,Executive,Very Dissatisfied,Far
+EMP0306,50,Male,Operations,Operations Executive,1,61865.81,2,4,Yes,49,0,3,1,Yes,Senior,Mid,Dissatisfied,Far
+EMP0307,47,Male,Operations,Operations Manager,7,313955.19,1,1,No,51,5,5,4,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP0308,56,Female,Sales,Sales Executive,2,78354.81,3,4,No,5,1,3,4,No,Senior,Mid,Satisfied,Near
+EMP0309,46,Female,Sales,Sales Representative,20,90941.18,3,4,No,30,6,6,2,Yes,Senior,Mid,Satisfied,Mid
+EMP0310,45,Male,Operations,Logistics Officer,2,91440.4,4,4,No,22,3,1,2,No,Adult,Mid,Very Satisfied,Mid
+EMP0311,34,Male,Finance,Finance Manager,0,307183.5,4,2,Yes,20,4,6,3,Yes,Young Adult,Executive,Very Satisfied,Mid
+EMP0312,28,Male,Operations,Operations Manager,18,216525.34,4,3,Yes,16,4,3,3,No,Young Adult,Executive,Very Satisfied,Mid
+EMP0313,57,Female,Sales,Sales Representative,17,33510.58,3,4,Yes,7,4,4,1,No,Senior,Low,Satisfied,Near
+EMP0314,41,Male,HR,HR Executive,16,71001.01,1,2,No,7,1,2,4,No,Adult,Mid,Very Dissatisfied,Near
+EMP0315,22,Female,Finance,Accountant,19,110187.65,4,2,No,50,4,5,4,Yes,Youth,High,Very Satisfied,Far
+EMP0316,29,Male,HR,HR Manager,12,292374.31,2,1,Yes,50,2,4,3,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0317,37,Female,IT,System Admin,2,104915.19,4,3,Yes,2,3,6,1,Yes,Adult,High,Very Satisfied,Near
+EMP0318,35,Male,Sales,Sales Representative,0,119246.19,3,3,Yes,47,1,3,1,Yes,Young Adult,High,Satisfied,Far
+EMP0319,33,Male,HR,Recruiter,3,44725.46,4,1,No,14,3,3,3,No,Young Adult,Low,Very Satisfied,Mid
+EMP0320,44,Female,Sales,Sales Executive,12,92259.99,1,3,No,31,8,2,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0321,36,Female,IT,Software Engineer,16,90686.42,4,1,No,50,7,3,3,Yes,Adult,Mid,Very Satisfied,Far
+EMP0322,49,Female,Operations,Logistics Officer,10,118195.99,3,2,No,41,2,2,2,No,Senior,High,Satisfied,Far
+EMP0323,55,Male,IT,Software Engineer,1,118704.07,3,2,No,14,0,5,1,No,Senior,High,Satisfied,Mid
+EMP0324,23,Male,Finance,Accountant,15,91801.08,2,4,Yes,5,0,1,1,Yes,Youth,Mid,Dissatisfied,Near
+EMP0325,53,Female,Sales,Sales Executive,1,51925.33,3,1,No,11,5,2,1,No,Senior,Mid,Satisfied,Mid
+EMP0326,44,Female,HR,Recruiter,18,101870.03,2,2,No,40,2,2,3,No,Adult,High,Dissatisfied,Far
+EMP0327,43,Male,Operations,Operations Manager,18,176757.28,1,2,No,5,3,4,3,No,Adult,High,Very Dissatisfied,Near
+EMP0328,46,Male,Sales,Sales Representative,15,100262.94,3,1,No,29,0,3,3,No,Senior,High,Satisfied,Mid
+EMP0329,43,Male,Sales,Sales Executive,18,111917.65,4,2,No,11,7,5,3,No,Adult,High,Very Satisfied,Mid
+EMP0330,43,Female,IT,System Admin,8,64455.01,1,3,No,5,0,1,4,Yes,Adult,Mid,Very Dissatisfied,Near
+EMP0331,27,Male,Sales,Sales Executive,0,86757.18,4,2,Yes,49,4,0,3,No,Young Adult,Mid,Very Satisfied,Far
+EMP0332,36,Male,Finance,Finance Manager,9,257535.68,4,1,No,54,5,6,2,Yes,Adult,Executive,Very Satisfied,Far
+EMP0333,58,Male,Operations,Operations Manager,18,259441.26,4,3,Yes,32,1,2,4,Yes,Senior,Executive,Very Satisfied,Far
+EMP0334,54,Male,IT,Software Engineer,0,57933.38,1,3,Yes,36,6,0,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0335,29,Male,Sales,Sales Representative,1,98591.67,1,2,No,15,6,3,3,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0336,26,Male,IT,Software Engineer,15,114255.89,3,4,No,19,0,6,1,No,Young Adult,High,Satisfied,Mid
+EMP0337,25,Male,Finance,Financial Analyst,11,192890.1,4,3,Yes,22,3,2,3,No,Youth,High,Very Satisfied,Mid
+EMP0338,27,Female,Sales,Sales Representative,7,45730.32,2,1,No,34,3,0,1,No,Young Adult,Low,Dissatisfied,Far
+EMP0339,53,Male,HR,Recruiter,17,108726.93,3,4,No,56,4,4,3,Yes,Senior,High,Satisfied,Far
+EMP0340,51,Male,HR,Recruiter,1,96368.83,1,4,Yes,17,0,0,3,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP0341,56,Female,HR,Recruiter,12,52755.37,2,3,No,12,0,6,1,No,Senior,Mid,Dissatisfied,Mid
+EMP0342,37,Female,Sales,Sales Manager,5,166821.15,1,2,No,25,6,4,1,No,Adult,High,Very Dissatisfied,Mid
+EMP0343,34,Male,Finance,Financial Analyst,20,112159.67,2,4,No,56,8,6,1,Yes,Young Adult,High,Dissatisfied,Far
+EMP0344,51,Male,Sales,Sales Executive,5,112098.74,3,2,No,17,0,1,1,No,Senior,High,Satisfied,Mid
+EMP0345,40,Male,Sales,Sales Representative,8,86986.08,2,3,Yes,10,1,3,2,No,Adult,Mid,Dissatisfied,Near
+EMP0346,38,Female,Operations,Logistics Officer,15,94894.92,3,1,No,28,5,5,1,Yes,Adult,Mid,Satisfied,Mid
+EMP0347,40,Female,Finance,Financial Analyst,10,110858.28,1,4,No,57,5,0,3,No,Adult,High,Very Dissatisfied,Far
+EMP0348,49,Female,Sales,Sales Executive,6,94744.93,2,1,No,18,1,2,3,No,Senior,Mid,Dissatisfied,Mid
+EMP0349,47,Female,Sales,Sales Manager,9,157030.38,4,2,Yes,51,8,6,2,Yes,Senior,High,Very Satisfied,Far
+EMP0350,58,Female,Sales,Sales Manager,9,243830.34,4,2,No,18,3,6,1,No,Senior,Executive,Very Satisfied,Mid
+EMP0351,47,Male,Sales,Sales Executive,19,86407.8,1,1,No,45,6,3,3,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0352,44,Male,Sales,Sales Representative,17,43148.69,2,3,Yes,32,5,0,2,Yes,Adult,Low,Dissatisfied,Far
+EMP0353,30,Female,Sales,Sales Representative,19,104070.32,4,3,No,14,2,2,3,No,Young Adult,High,Very Satisfied,Mid
+EMP0354,33,Female,IT,Data Analyst,8,108203.76,3,4,No,56,7,2,2,No,Young Adult,High,Satisfied,Far
+EMP0355,22,Male,Finance,Financial Analyst,14,158273.73,2,4,Yes,16,6,6,2,No,Youth,High,Dissatisfied,Mid
+EMP0356,22,Female,HR,HR Executive,3,66467.74,2,3,No,50,8,5,4,No,Youth,Mid,Dissatisfied,Far
+EMP0357,55,Male,HR,HR Manager,7,299010.9,4,3,No,58,2,6,4,No,Senior,Executive,Very Satisfied,Far
+EMP0358,53,Male,Sales,Sales Executive,8,39670.55,3,1,No,18,0,5,1,No,Senior,Low,Satisfied,Mid
+EMP0359,46,Male,Operations,Operations Executive,12,31522.15,3,2,No,16,1,6,4,No,Senior,Low,Satisfied,Mid
+EMP0360,22,Male,Finance,Finance Manager,8,377391.11,3,2,No,17,0,6,2,No,Youth,Executive,Satisfied,Mid
+EMP0361,37,Female,Finance,Finance Manager,3,217407.5,2,4,No,7,4,2,3,No,Adult,Executive,Dissatisfied,Near
+EMP0362,26,Male,Finance,Accountant,16,103770.93,1,3,No,12,9,5,3,No,Young Adult,High,Very Dissatisfied,Mid
+EMP0363,43,Female,Operations,Operations Manager,15,399837.58,2,1,Yes,34,1,2,1,No,Adult,Executive,Dissatisfied,Far
+EMP0364,50,Female,IT,IT Support,14,49028.81,2,4,No,10,2,0,4,No,Senior,Low,Dissatisfied,Near
+EMP0365,24,Female,Sales,Sales Representative,2,53865.37,4,1,Yes,5,7,6,1,Yes,Youth,Mid,Very Satisfied,Near
+EMP0366,33,Male,HR,HR Executive,19,89657.38,1,3,Yes,21,9,1,2,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0367,47,Male,Finance,Accountant,4,116890.38,3,3,Yes,3,4,5,4,No,Senior,High,Satisfied,Near
+EMP0368,37,Male,Finance,Financial Analyst,4,189897.72,4,3,No,19,3,4,1,No,Adult,High,Very Satisfied,Mid
+EMP0369,58,Female,IT,Software Engineer,19,75258.8,2,2,Yes,45,4,4,3,No,Senior,Mid,Dissatisfied,Far
+EMP0370,43,Female,Sales,Sales Executive,14,101559.93,1,3,Yes,44,9,4,3,Yes,Adult,High,Very Dissatisfied,Far
+EMP0371,50,Male,IT,Data Analyst,17,96289.5,3,4,Yes,35,5,1,1,No,Senior,Mid,Satisfied,Far
+EMP0372,35,Female,Operations,Operations Executive,14,117969.44,3,2,Yes,6,6,2,1,No,Young Adult,High,Satisfied,Near
+EMP0373,49,Male,HR,HR Manager,1,391088.31,2,1,No,14,8,2,1,Yes,Senior,Executive,Dissatisfied,Mid
+EMP0374,26,Female,IT,System Admin,12,44735.61,3,4,No,4,0,3,2,Yes,Young Adult,Low,Satisfied,Near
+EMP0375,51,Male,Sales,Sales Representative,3,56948.08,3,4,Yes,45,3,4,2,No,Senior,Mid,Satisfied,Far
+EMP0376,26,Female,IT,Data Analyst,9,92018.6,1,1,No,51,8,4,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0377,33,Male,Operations,Logistics Officer,12,54454.58,4,2,No,18,4,2,2,Yes,Young Adult,Mid,Very Satisfied,Mid
+EMP0378,37,Female,HR,Recruiter,9,103436.02,1,4,No,29,7,4,2,Yes,Adult,High,Very Dissatisfied,Mid
+EMP0379,47,Female,Finance,Finance Manager,8,244578.9,4,4,No,35,0,2,4,No,Senior,Executive,Very Satisfied,Far
+EMP0380,47,Female,IT,Software Engineer,7,37955.73,4,4,No,52,3,6,2,No,Senior,Low,Very Satisfied,Far
+EMP0381,42,Male,HR,Recruiter,2,60800.3,4,2,Yes,38,8,6,4,No,Adult,Mid,Very Satisfied,Far
+EMP0382,57,Male,Sales,Sales Representative,15,118324.5,3,2,No,16,0,2,2,No,Senior,High,Satisfied,Mid
+EMP0383,54,Male,Finance,Financial Analyst,13,155562.03,1,2,No,20,0,5,3,No,Senior,High,Very Dissatisfied,Mid
+EMP0384,51,Male,IT,Software Engineer,8,67454.49,3,4,No,24,3,2,1,No,Senior,Mid,Satisfied,Mid
+EMP0385,58,Male,IT,IT Support,20,44988.47,2,3,No,35,2,0,3,No,Senior,Low,Dissatisfied,Far
+EMP0386,44,Female,HR,HR Executive,10,118755.91,1,1,Yes,44,6,0,2,Yes,Adult,High,Very Dissatisfied,Far
+EMP0387,31,Female,Operations,Operations Manager,2,355212.25,4,3,No,51,2,0,1,Yes,Young Adult,Executive,Very Satisfied,Far
+EMP0388,26,Male,Sales,Sales Executive,4,55332.96,3,2,No,19,0,0,1,No,Young Adult,Mid,Satisfied,Mid
+EMP0389,57,Male,Finance,Finance Manager,9,167517.17,3,4,No,56,9,1,1,Yes,Senior,High,Satisfied,Far
+EMP0390,55,Male,Sales,Sales Representative,12,35096.3,1,4,Yes,4,1,3,4,Yes,Senior,Low,Very Dissatisfied,Near
+EMP0391,52,Female,IT,IT Support,3,40834.03,1,3,No,33,9,3,3,No,Senior,Low,Very Dissatisfied,Far
+EMP0392,31,Male,Sales,Sales Manager,12,295192.15,4,3,No,2,3,2,4,No,Young Adult,Executive,Very Satisfied,Near
+EMP0393,40,Female,IT,Data Analyst,11,191451.61,4,1,No,13,0,6,1,No,Adult,High,Very Satisfied,Mid
+EMP0394,53,Male,IT,IT Support,4,74706.91,2,4,No,58,0,4,3,No,Senior,Mid,Dissatisfied,Far
+EMP0395,22,Female,Sales,Sales Representative,9,105865.09,4,3,No,45,7,0,3,Yes,Youth,High,Very Satisfied,Far
+EMP0396,26,Female,IT,Data Analyst,8,133506.39,3,1,Yes,30,6,3,2,No,Young Adult,High,Satisfied,Mid
+EMP0397,25,Male,Operations,Operations Manager,19,327145.89,2,2,Yes,34,7,3,4,Yes,Youth,Executive,Dissatisfied,Far
+EMP0398,37,Female,Sales,Sales Representative,6,95868.55,2,3,Yes,30,3,0,4,No,Adult,Mid,Dissatisfied,Mid
+EMP0399,45,Male,Finance,Finance Manager,1,193490.93,2,2,No,51,5,6,2,Yes,Adult,High,Dissatisfied,Far
+EMP0400,37,Female,IT,Data Analyst,6,123345.93,1,1,Yes,54,2,1,4,No,Adult,High,Very Dissatisfied,Far
+EMP0401,23,Male,HR,Recruiter,7,87357.19,4,2,No,24,7,1,1,Yes,Youth,Mid,Very Satisfied,Mid
+EMP0402,49,Female,Sales,Sales Manager,6,167674.15,2,4,No,48,3,3,1,No,Senior,High,Dissatisfied,Far
+EMP0403,53,Female,Sales,Sales Manager,20,240385.05,1,4,Yes,44,2,1,4,No,Senior,Executive,Very Dissatisfied,Far
+EMP0404,48,Female,Sales,Sales Executive,13,78131.95,1,2,Yes,33,3,5,2,No,Senior,Mid,Very Dissatisfied,Far
+EMP0405,41,Female,Sales,Sales Executive,18,119660.2,2,4,Yes,41,5,0,3,No,Adult,High,Dissatisfied,Far
+EMP0406,45,Male,Sales,Sales Representative,4,72708.02,2,1,No,49,6,6,4,No,Adult,Mid,Dissatisfied,Far
+EMP0407,33,Male,HR,HR Executive,17,103445.11,3,4,Yes,10,6,3,3,No,Young Adult,High,Satisfied,Near
+EMP0408,56,Male,Operations,Operations Executive,19,68886.06,2,2,Yes,18,3,0,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0409,54,Male,Finance,Accountant,11,101675.17,3,2,No,19,7,1,3,No,Senior,High,Satisfied,Mid
+EMP0410,54,Female,HR,HR Manager,16,298853.7,2,2,No,7,6,0,2,Yes,Senior,Executive,Dissatisfied,Near
+EMP0411,58,Male,Sales,Sales Manager,12,371648.86,2,3,Yes,57,1,1,2,Yes,Senior,Executive,Dissatisfied,Far
+EMP0412,33,Female,Sales,Sales Executive,1,66984.83,4,2,No,19,7,6,1,No,Young Adult,Mid,Very Satisfied,Mid
+EMP0413,24,Female,IT,Data Analyst,12,152516.53,2,1,No,24,8,1,1,Yes,Youth,High,Dissatisfied,Mid
+EMP0414,22,Female,Sales,Sales Executive,6,86701.68,2,4,No,15,4,0,2,No,Youth,Mid,Dissatisfied,Mid
+EMP0415,54,Male,IT,System Admin,9,67564.46,3,4,No,41,3,6,4,Yes,Senior,Mid,Satisfied,Far
+EMP0416,31,Female,IT,System Admin,5,42988.08,3,3,Yes,42,3,1,1,Yes,Young Adult,Low,Satisfied,Far
+EMP0417,50,Female,IT,Software Engineer,2,38420.35,4,3,No,23,3,5,2,Yes,Senior,Low,Very Satisfied,Mid
+EMP0418,34,Male,IT,Software Engineer,2,31500.44,2,1,No,52,5,2,3,No,Young Adult,Low,Dissatisfied,Far
+EMP0419,33,Female,Finance,Accountant,17,108618.08,2,2,Yes,52,3,0,3,No,Young Adult,High,Dissatisfied,Far
+EMP0420,52,Female,Finance,Finance Manager,10,209118.73,3,3,No,4,6,2,4,No,Senior,Executive,Satisfied,Near
+EMP0421,23,Male,IT,IT Support,19,49035.61,1,4,No,38,6,0,3,No,Youth,Low,Very Dissatisfied,Far
+EMP0422,56,Male,Operations,Logistics Officer,4,96243.19,1,3,Yes,4,4,1,3,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0423,44,Male,Operations,Operations Manager,18,230004.03,1,3,Yes,5,4,1,2,No,Adult,Executive,Very Dissatisfied,Near
+EMP0424,38,Male,IT,Data Analyst,18,140725.36,3,2,No,41,9,6,3,No,Adult,High,Satisfied,Far
+EMP0425,47,Male,IT,IT Support,14,44626.0,3,3,Yes,44,7,3,3,Yes,Senior,Low,Satisfied,Far
+EMP0426,29,Male,IT,System Admin,15,116377.11,1,1,No,23,6,5,3,No,Young Adult,High,Very Dissatisfied,Mid
+EMP0427,50,Male,Operations,Operations Manager,8,362895.35,1,4,Yes,40,6,3,3,No,Senior,Executive,Very Dissatisfied,Far
+EMP0428,47,Male,Operations,Operations Manager,3,365947.41,2,2,Yes,53,5,2,2,Yes,Senior,Executive,Dissatisfied,Far
+EMP0429,31,Female,Sales,Sales Manager,14,251693.44,3,4,No,37,6,1,3,No,Young Adult,Executive,Satisfied,Far
+EMP0430,47,Male,IT,Data Analyst,11,171483.35,3,1,No,11,6,3,4,Yes,Senior,High,Satisfied,Mid
+EMP0431,55,Female,HR,HR Manager,2,185969.04,1,1,No,55,9,1,1,Yes,Senior,High,Very Dissatisfied,Far
+EMP0432,28,Male,IT,Data Analyst,13,81034.28,1,3,No,11,1,0,4,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0433,25,Male,Sales,Sales Executive,16,31797.56,4,3,Yes,13,9,3,1,Yes,Youth,Low,Very Satisfied,Mid
+EMP0434,32,Male,Operations,Logistics Officer,18,82794.16,3,3,No,14,1,2,4,No,Young Adult,Mid,Satisfied,Mid
+EMP0435,50,Male,HR,HR Manager,5,263848.73,4,4,No,8,9,6,1,No,Senior,Executive,Very Satisfied,Near
+EMP0436,57,Male,Finance,Finance Manager,3,279503.84,2,1,Yes,25,6,3,1,Yes,Senior,Executive,Dissatisfied,Mid
+EMP0437,46,Female,Operations,Operations Manager,6,151865.79,4,2,No,18,9,1,1,No,Senior,High,Very Satisfied,Mid
+EMP0438,42,Male,Finance,Financial Analyst,18,130722.39,1,3,Yes,51,6,4,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP0439,57,Female,IT,System Admin,16,94626.13,3,4,No,44,6,4,2,No,Senior,Mid,Satisfied,Far
+EMP0440,31,Female,HR,Recruiter,15,69842.43,3,3,No,44,4,6,4,No,Young Adult,Mid,Satisfied,Far
+EMP0441,58,Male,Sales,Sales Representative,14,95899.73,4,1,No,18,0,6,1,No,Senior,Mid,Very Satisfied,Mid
+EMP0442,30,Male,HR,HR Manager,7,208254.74,4,2,No,10,1,5,4,No,Young Adult,Executive,Very Satisfied,Near
+EMP0443,45,Female,Sales,Sales Executive,18,103182.78,2,1,No,7,8,6,3,No,Adult,High,Dissatisfied,Near
+EMP0444,56,Male,HR,HR Manager,7,297107.81,2,4,Yes,50,7,1,1,No,Senior,Executive,Dissatisfied,Far
+EMP0445,56,Male,Sales,Sales Executive,17,48968.68,1,3,No,44,7,0,4,No,Senior,Low,Very Dissatisfied,Far
+EMP0446,57,Female,Sales,Sales Manager,15,209180.12,1,1,Yes,14,9,3,2,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP0447,39,Male,Sales,Sales Executive,19,86522.74,1,4,No,15,0,6,4,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0448,53,Female,Sales,Sales Executive,18,104694.56,4,3,No,16,5,4,1,No,Senior,High,Very Satisfied,Mid
+EMP0449,45,Female,Finance,Finance Manager,9,253906.95,4,2,No,2,8,0,3,No,Adult,Executive,Very Satisfied,Near
+EMP0450,44,Male,Finance,Financial Analyst,16,110996.05,3,1,Yes,30,7,1,4,Yes,Adult,High,Satisfied,Mid
+EMP0451,53,Male,IT,System Admin,12,108031.04,1,3,No,30,2,0,3,No,Senior,High,Very Dissatisfied,Mid
+EMP0452,58,Male,Sales,Sales Representative,12,90234.15,4,3,No,18,3,1,2,No,Senior,Mid,Very Satisfied,Mid
+EMP0453,33,Male,Sales,Sales Representative,6,70327.69,3,3,Yes,31,2,5,4,Yes,Young Adult,Mid,Satisfied,Far
+EMP0454,34,Male,Sales,Sales Executive,9,73911.02,1,3,No,44,5,3,4,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0455,44,Female,Sales,Sales Manager,1,201064.12,2,1,Yes,48,8,0,2,No,Adult,Executive,Dissatisfied,Far
+EMP0456,46,Male,Operations,Operations Manager,3,306700.66,2,3,No,13,7,3,2,No,Senior,Executive,Dissatisfied,Mid
+EMP0457,56,Male,Sales,Sales Representative,5,62286.83,4,4,Yes,20,9,0,2,No,Senior,Mid,Very Satisfied,Mid
+EMP0458,51,Female,IT,Software Engineer,17,119608.07,3,1,No,49,3,1,1,No,Senior,High,Satisfied,Far
+EMP0459,38,Female,Sales,Sales Manager,5,270045.88,2,3,Yes,50,1,1,1,No,Adult,Executive,Dissatisfied,Far
+EMP0460,41,Female,Sales,Sales Executive,16,73729.7,3,1,Yes,35,7,0,4,Yes,Adult,Mid,Satisfied,Far
+EMP0461,46,Male,IT,System Admin,13,80926.66,3,4,No,23,7,5,4,No,Senior,Mid,Satisfied,Mid
+EMP0462,43,Female,HR,HR Manager,10,379189.0,2,4,Yes,42,5,1,4,No,Adult,Executive,Dissatisfied,Far
+EMP0463,34,Male,Sales,Sales Executive,18,102073.63,3,1,No,33,7,2,3,No,Young Adult,High,Satisfied,Far
+EMP0464,40,Male,Sales,Sales Manager,1,262782.52,2,3,Yes,38,8,2,2,No,Adult,Executive,Dissatisfied,Far
+EMP0465,57,Male,IT,Data Analyst,2,166243.91,4,3,No,35,0,3,4,No,Senior,High,Very Satisfied,Far
+EMP0466,33,Female,Sales,Sales Manager,10,296558.87,1,4,No,51,8,6,2,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP0467,40,Male,Sales,Sales Executive,5,74313.03,1,3,Yes,36,1,2,1,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0468,33,Male,Operations,Operations Manager,13,198078.94,4,4,Yes,20,0,2,2,Yes,Young Adult,High,Very Satisfied,Mid
+EMP0469,30,Male,HR,HR Manager,18,265984.07,2,3,No,55,7,5,3,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0470,28,Male,HR,Recruiter,15,52123.67,2,4,No,3,7,5,3,Yes,Young Adult,Mid,Dissatisfied,Near
+EMP0471,49,Female,IT,IT Support,20,112335.79,2,2,No,8,3,6,2,No,Senior,High,Dissatisfied,Near
+EMP0472,35,Female,IT,System Admin,6,60186.61,2,3,No,40,7,4,3,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP0473,52,Female,IT,Data Analyst,7,194271.68,4,3,No,59,6,6,3,No,Senior,High,Very Satisfied,Far
+EMP0474,40,Male,HR,HR Executive,18,77974.98,1,3,Yes,32,1,4,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP0475,37,Male,Finance,Accountant,19,86838.99,3,1,Yes,29,4,5,4,No,Adult,Mid,Satisfied,Mid
+EMP0476,26,Male,Sales,Sales Manager,15,285735.11,3,3,Yes,7,9,4,3,Yes,Young Adult,Executive,Satisfied,Near
+EMP0477,56,Male,IT,Data Analyst,6,95525.67,1,1,Yes,2,3,5,4,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0478,33,Male,IT,System Admin,8,63823.91,4,1,Yes,21,2,4,2,Yes,Young Adult,Mid,Very Satisfied,Mid
+EMP0479,46,Female,Operations,Logistics Officer,12,38923.15,3,4,No,6,0,1,2,Yes,Senior,Low,Satisfied,Near
+EMP0480,42,Male,HR,Recruiter,0,86065.86,1,1,No,28,4,5,3,Yes,Adult,Mid,Very Dissatisfied,Mid
+EMP0481,57,Male,IT,Data Analyst,7,133624.9,4,1,No,48,9,6,2,No,Senior,High,Very Satisfied,Far
+EMP0482,44,Male,Sales,Sales Executive,3,100018.65,3,2,Yes,42,7,3,1,Yes,Adult,High,Satisfied,Far
+EMP0483,37,Male,HR,HR Manager,2,205117.62,2,3,No,36,8,3,3,No,Adult,Executive,Dissatisfied,Far
+EMP0484,35,Male,Sales,Sales Manager,2,191141.51,2,1,No,32,6,5,3,No,Young Adult,High,Dissatisfied,Far
+EMP0485,52,Female,IT,IT Support,12,66569.9,4,3,No,45,0,2,3,No,Senior,Mid,Very Satisfied,Far
+EMP0486,26,Female,Sales,Sales Representative,7,113392.68,2,1,Yes,42,0,3,2,No,Young Adult,High,Dissatisfied,Far
+EMP0487,56,Female,HR,HR Executive,6,93937.96,4,4,Yes,53,0,6,2,No,Senior,Mid,Very Satisfied,Far
+EMP0488,44,Male,Sales,Sales Executive,0,67703.13,1,2,Yes,46,1,2,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0489,50,Male,IT,Software Engineer,15,76554.5,1,1,Yes,9,0,3,4,No,Senior,Mid,Very Dissatisfied,Near
+EMP0490,32,Male,Operations,Logistics Officer,5,37579.17,3,3,No,11,3,0,2,Yes,Young Adult,Low,Satisfied,Mid
+EMP0491,39,Male,Sales,Sales Manager,6,396143.97,4,4,Yes,23,9,0,2,Yes,Adult,Executive,Very Satisfied,Mid
+EMP0492,33,Female,IT,Data Analyst,11,159968.88,3,3,Yes,50,8,5,3,No,Young Adult,High,Satisfied,Far
+EMP0493,30,Male,IT,Data Analyst,8,114248.49,3,4,No,11,3,6,4,No,Young Adult,High,Satisfied,Mid
+EMP0494,31,Male,Sales,Sales Manager,10,296452.1,1,2,No,49,3,6,3,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP0495,38,Male,Finance,Finance Manager,9,177370.59,3,4,No,2,6,3,2,No,Adult,High,Satisfied,Near
+EMP0496,59,Male,Sales,Sales Representative,20,116925.3,2,3,No,3,8,1,3,No,Senior,High,Dissatisfied,Near
+EMP0497,28,Female,IT,Software Engineer,0,45730.65,3,3,No,11,6,2,3,No,Young Adult,Low,Satisfied,Mid
+EMP0498,34,Male,HR,HR Executive,17,88322.73,4,1,Yes,50,0,3,3,No,Young Adult,Mid,Very Satisfied,Far
+EMP0499,30,Male,HR,Recruiter,3,52090.9,2,4,No,59,0,5,4,No,Young Adult,Mid,Dissatisfied,Far
+EMP0500,48,Male,HR,HR Manager,4,329390.35,1,3,No,35,3,2,3,No,Senior,Executive,Very Dissatisfied,Far
+EMP0501,23,Male,Sales,Sales Manager,8,344205.34,4,1,No,58,3,4,2,No,Youth,Executive,Very Satisfied,Far
+EMP0502,26,Female,Sales,Sales Executive,16,90607.78,2,2,Yes,15,0,5,3,Yes,Young Adult,Mid,Dissatisfied,Mid
+EMP0503,50,Female,Finance,Finance Manager,2,303624.87,4,3,No,43,5,3,4,No,Senior,Executive,Very Satisfied,Far
+EMP0504,58,Female,IT,System Admin,15,110322.22,2,1,Yes,11,9,1,1,Yes,Senior,High,Dissatisfied,Mid
+EMP0505,59,Female,Finance,Accountant,4,37076.4,4,3,No,31,1,4,4,Yes,Senior,Low,Very Satisfied,Far
+EMP0506,40,Male,Finance,Finance Manager,15,232728.69,4,4,Yes,28,4,5,3,No,Adult,Executive,Very Satisfied,Mid
+EMP0507,29,Female,Finance,Finance Manager,2,212071.87,2,1,Yes,28,7,3,1,Yes,Young Adult,Executive,Dissatisfied,Mid
+EMP0508,22,Male,IT,IT Support,19,118921.26,1,4,No,32,2,0,3,No,Youth,High,Very Dissatisfied,Far
+EMP0509,43,Male,IT,Data Analyst,14,126726.77,1,2,No,25,8,6,4,Yes,Adult,High,Very Dissatisfied,Mid
+EMP0510,38,Female,Finance,Financial Analyst,2,167913.52,4,4,No,20,6,3,1,No,Adult,High,Very Satisfied,Mid
+EMP0511,28,Male,IT,Software Engineer,19,91625.26,4,1,Yes,28,8,0,1,Yes,Young Adult,Mid,Very Satisfied,Mid
+EMP0512,46,Female,Sales,Sales Representative,13,49087.31,1,3,Yes,25,0,0,3,Yes,Senior,Low,Very Dissatisfied,Mid
+EMP0513,25,Male,Operations,Operations Executive,15,51509.79,1,1,No,11,4,5,3,Yes,Youth,Mid,Very Dissatisfied,Mid
+EMP0514,57,Female,Operations,Logistics Officer,16,55315.61,3,4,No,19,2,3,4,No,Senior,Mid,Satisfied,Mid
+EMP0515,27,Female,IT,Data Analyst,19,129335.27,1,4,No,28,3,6,3,Yes,Young Adult,High,Very Dissatisfied,Mid
+EMP0516,52,Female,Sales,Sales Representative,17,51089.26,4,3,No,1,3,3,1,No,Senior,Mid,Very Satisfied,Near
+EMP0517,40,Female,IT,Software Engineer,17,31768.63,2,2,No,59,6,0,2,Yes,Adult,Low,Dissatisfied,Far
+EMP0518,48,Female,Finance,Finance Manager,13,369848.26,1,1,No,5,9,2,2,Yes,Senior,Executive,Very Dissatisfied,Near
+EMP0519,31,Male,Operations,Operations Executive,17,116904.88,3,3,No,10,7,4,4,Yes,Young Adult,High,Satisfied,Near
+EMP0520,47,Male,Sales,Sales Representative,14,60741.33,3,3,No,42,9,1,3,No,Senior,Mid,Satisfied,Far
+EMP0521,40,Male,Sales,Sales Manager,14,234626.72,3,3,Yes,46,4,3,4,No,Adult,Executive,Satisfied,Far
+EMP0522,24,Female,Operations,Logistics Officer,5,30638.26,2,1,No,34,9,4,2,No,Youth,Low,Dissatisfied,Far
+EMP0523,34,Male,IT,System Admin,14,91222.56,1,1,No,36,6,4,2,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0524,49,Female,IT,Data Analyst,17,179052.79,1,1,No,2,2,2,3,No,Senior,High,Very Dissatisfied,Near
+EMP0525,41,Male,Operations,Operations Executive,3,43194.75,1,2,No,18,2,4,1,No,Adult,Low,Very Dissatisfied,Mid
+EMP0526,49,Male,Sales,Sales Representative,7,44369.97,2,3,Yes,13,2,3,3,Yes,Senior,Low,Dissatisfied,Mid
+EMP0527,29,Female,HR,HR Executive,14,101107.49,2,4,No,51,3,5,2,No,Young Adult,High,Dissatisfied,Far
+EMP0528,22,Male,Sales,Sales Representative,2,85466.17,4,4,No,5,5,5,1,No,Youth,Mid,Very Satisfied,Near
+EMP0529,24,Male,IT,IT Support,14,34037.45,3,3,Yes,20,4,4,4,Yes,Youth,Low,Satisfied,Mid
+EMP0530,34,Male,Finance,Accountant,12,86029.23,3,4,Yes,2,7,3,2,Yes,Young Adult,Mid,Satisfied,Near
+EMP0531,49,Female,IT,System Admin,8,57802.6,1,2,Yes,11,4,3,4,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP0532,46,Female,Operations,Logistics Officer,1,63185.26,2,2,No,30,4,0,1,No,Senior,Mid,Dissatisfied,Mid
+EMP0533,54,Male,HR,HR Executive,7,99275.83,2,1,No,32,9,2,4,Yes,Senior,Mid,Dissatisfied,Far
+EMP0534,59,Male,IT,IT Support,19,102984.17,1,1,No,32,1,6,2,Yes,Senior,High,Very Dissatisfied,Far
+EMP0535,27,Male,Sales,Sales Representative,16,66032.1,1,1,Yes,58,4,1,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0536,53,Female,IT,Data Analyst,12,193658.35,4,1,No,50,6,6,4,Yes,Senior,High,Very Satisfied,Far
+EMP0537,42,Female,IT,System Admin,0,66581.64,3,1,Yes,38,1,0,2,Yes,Adult,Mid,Satisfied,Far
+EMP0538,37,Male,Sales,Sales Representative,1,99465.24,3,4,Yes,55,5,1,2,No,Adult,Mid,Satisfied,Far
+EMP0539,42,Male,IT,Software Engineer,14,73548.95,3,4,No,28,6,6,1,Yes,Adult,Mid,Satisfied,Mid
+EMP0540,32,Male,IT,Data Analyst,11,187703.88,4,1,No,10,4,3,2,No,Young Adult,High,Very Satisfied,Near
+EMP0541,58,Female,Finance,Financial Analyst,13,188931.35,1,2,Yes,22,8,5,3,Yes,Senior,High,Very Dissatisfied,Mid
+EMP0542,57,Female,HR,HR Manager,1,171854.2,1,4,Yes,55,3,0,3,No,Senior,High,Very Dissatisfied,Far
+EMP0543,56,Male,Finance,Financial Analyst,17,192379.2,3,2,Yes,17,9,6,4,No,Senior,High,Satisfied,Mid
+EMP0544,40,Male,Sales,Sales Representative,6,104298.14,3,2,No,22,0,4,4,No,Adult,High,Satisfied,Mid
+EMP0545,41,Male,Sales,Sales Representative,5,101217.96,4,3,No,43,7,4,4,No,Adult,High,Very Satisfied,Far
+EMP0546,39,Female,HR,Recruiter,13,48082.02,2,3,No,19,7,1,4,No,Adult,Low,Dissatisfied,Mid
+EMP0547,35,Male,IT,Data Analyst,7,176614.31,2,1,No,17,6,3,3,No,Young Adult,High,Dissatisfied,Mid
+EMP0548,36,Female,Sales,Sales Manager,1,362533.18,3,2,No,24,7,5,1,No,Adult,Executive,Satisfied,Mid
+EMP0549,52,Female,Finance,Financial Analyst,16,114698.04,4,4,Yes,36,1,1,4,No,Senior,High,Very Satisfied,Far
+EMP0550,22,Male,Finance,Financial Analyst,4,194271.21,3,3,No,32,2,6,1,No,Youth,High,Satisfied,Far
+EMP0551,24,Male,IT,IT Support,13,34487.41,2,3,No,58,8,6,2,No,Youth,Low,Dissatisfied,Far
+EMP0552,37,Male,Sales,Sales Representative,19,43491.83,3,2,Yes,56,0,5,2,No,Adult,Low,Satisfied,Far
+EMP0553,44,Female,Finance,Financial Analyst,20,144509.74,2,3,Yes,58,7,6,4,Yes,Adult,High,Dissatisfied,Far
+EMP0554,32,Female,HR,Recruiter,20,81821.32,2,3,Yes,46,7,2,2,No,Young Adult,Mid,Dissatisfied,Far
+EMP0555,33,Female,Finance,Accountant,2,88063.51,2,4,Yes,59,6,5,1,No,Young Adult,Mid,Dissatisfied,Far
+EMP0556,31,Male,Finance,Finance Manager,4,154242.28,1,2,No,52,4,4,1,No,Young Adult,High,Very Dissatisfied,Far
+EMP0557,53,Male,Finance,Accountant,15,116433.01,1,3,No,36,3,6,2,No,Senior,High,Very Dissatisfied,Far
+EMP0558,37,Female,IT,Data Analyst,17,85350.57,3,2,No,28,9,6,4,No,Adult,Mid,Satisfied,Mid
+EMP0559,29,Female,Sales,Sales Representative,16,42875.58,2,3,No,14,9,0,1,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP0560,59,Male,HR,Recruiter,10,31261.31,1,4,No,58,9,0,1,Yes,Senior,Low,Very Dissatisfied,Far
+EMP0561,33,Female,HR,Recruiter,16,81017.26,3,2,No,36,9,0,3,Yes,Young Adult,Mid,Satisfied,Far
+EMP0562,45,Female,Finance,Finance Manager,15,383066.72,3,3,Yes,6,5,5,4,No,Adult,Executive,Satisfied,Near
+EMP0563,49,Female,Sales,Sales Manager,1,316486.79,3,4,Yes,9,0,4,3,No,Senior,Executive,Satisfied,Near
+EMP0564,29,Female,Sales,Sales Executive,3,104039.17,3,3,No,21,4,5,2,Yes,Young Adult,High,Satisfied,Mid
+EMP0565,49,Female,Operations,Operations Manager,20,153320.3,3,2,Yes,12,3,3,2,No,Senior,High,Satisfied,Mid
+EMP0566,57,Female,Finance,Finance Manager,6,285503.82,4,3,Yes,58,3,4,3,No,Senior,Executive,Very Satisfied,Far
+EMP0567,47,Male,Operations,Operations Executive,1,71360.67,2,2,No,30,6,4,4,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0568,29,Male,Finance,Accountant,5,74907.11,3,2,No,31,8,5,1,No,Young Adult,Mid,Satisfied,Far
+EMP0569,49,Female,HR,HR Manager,16,168053.3,4,3,Yes,40,7,5,2,No,Senior,High,Very Satisfied,Far
+EMP0570,49,Male,HR,HR Manager,6,321108.84,2,4,No,56,7,0,4,Yes,Senior,Executive,Dissatisfied,Far
+EMP0571,58,Male,Operations,Operations Manager,4,275805.1,1,1,No,4,4,4,4,No,Senior,Executive,Very Dissatisfied,Near
+EMP0572,57,Male,HR,HR Manager,4,341287.21,3,4,Yes,31,5,0,2,No,Senior,Executive,Satisfied,Far
+EMP0573,48,Male,HR,HR Manager,19,271322.66,4,4,Yes,27,1,3,2,Yes,Senior,Executive,Very Satisfied,Mid
+EMP0574,38,Female,Sales,Sales Manager,15,187345.41,1,3,No,58,2,2,4,Yes,Adult,High,Very Dissatisfied,Far
+EMP0575,30,Female,IT,Software Engineer,18,88343.13,4,4,Yes,57,4,0,1,No,Young Adult,Mid,Very Satisfied,Far
+EMP0576,54,Male,Finance,Financial Analyst,8,100686.36,2,4,Yes,25,1,5,3,No,Senior,High,Dissatisfied,Mid
+EMP0577,41,Male,Sales,Sales Manager,4,368098.64,2,1,No,5,2,6,2,Yes,Adult,Executive,Dissatisfied,Near
+EMP0578,34,Male,Sales,Sales Representative,7,85180.46,1,4,No,6,3,1,3,Yes,Young Adult,Mid,Very Dissatisfied,Near
+EMP0579,49,Female,IT,IT Support,8,44148.35,4,1,Yes,5,5,2,4,No,Senior,Low,Very Satisfied,Near
+EMP0580,50,Female,Sales,Sales Representative,4,116610.43,3,3,Yes,51,4,3,3,No,Senior,High,Satisfied,Far
+EMP0581,34,Male,Sales,Sales Representative,9,76652.89,3,1,Yes,27,9,6,1,Yes,Young Adult,Mid,Satisfied,Mid
+EMP0582,56,Female,IT,System Admin,1,36560.86,1,2,No,8,3,5,4,No,Senior,Low,Very Dissatisfied,Near
+EMP0583,27,Female,Operations,Operations Executive,8,86414.96,1,2,Yes,9,1,2,1,No,Young Adult,Mid,Very Dissatisfied,Near
+EMP0584,39,Female,IT,System Admin,10,52787.9,1,1,No,15,4,5,4,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0585,26,Female,Sales,Sales Executive,3,102332.41,4,2,No,36,4,0,1,No,Young Adult,High,Very Satisfied,Far
+EMP0586,46,Male,Sales,Sales Executive,1,103603.99,3,3,Yes,57,6,6,4,No,Senior,High,Satisfied,Far
+EMP0587,23,Female,HR,Recruiter,5,118105.26,3,2,No,41,0,5,1,No,Youth,High,Satisfied,Far
+EMP0588,31,Male,IT,Software Engineer,13,75168.26,3,1,No,7,3,6,4,No,Young Adult,Mid,Satisfied,Near
+EMP0589,51,Female,Finance,Accountant,0,70946.12,1,3,No,32,4,3,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP0590,26,Female,HR,HR Executive,17,97812.8,3,2,Yes,8,7,1,4,No,Young Adult,Mid,Satisfied,Near
+EMP0591,54,Female,Finance,Accountant,6,41922.36,2,3,No,47,7,0,1,No,Senior,Low,Dissatisfied,Far
+EMP0592,22,Female,Sales,Sales Executive,0,79222.4,1,1,No,51,0,0,2,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP0593,39,Male,HR,Recruiter,0,79162.28,3,2,No,15,4,6,3,No,Adult,Mid,Satisfied,Mid
+EMP0594,53,Male,Sales,Sales Representative,0,38052.58,4,3,Yes,37,9,3,4,No,Senior,Low,Very Satisfied,Far
+EMP0595,32,Female,Operations,Operations Executive,3,67618.57,1,3,No,19,0,3,1,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0596,42,Female,HR,HR Manager,3,363321.2,2,2,Yes,39,0,2,2,No,Adult,Executive,Dissatisfied,Far
+EMP0597,47,Male,IT,IT Support,17,107053.83,2,3,Yes,6,1,1,4,Yes,Senior,High,Dissatisfied,Near
+EMP0598,46,Male,Sales,Sales Executive,10,38931.39,4,3,No,59,1,5,4,No,Senior,Low,Very Satisfied,Far
+EMP0599,43,Male,Sales,Sales Manager,0,172680.22,4,1,No,19,8,2,4,Yes,Adult,High,Very Satisfied,Mid
+EMP0600,48,Female,HR,HR Manager,9,215673.87,1,1,No,57,3,5,3,No,Senior,Executive,Very Dissatisfied,Far
+EMP0601,34,Female,Sales,Sales Manager,8,368691.52,1,1,No,28,2,5,1,No,Young Adult,Executive,Very Dissatisfied,Mid
+EMP0602,54,Male,HR,Recruiter,3,41601.23,2,1,No,17,0,5,1,Yes,Senior,Low,Dissatisfied,Mid
+EMP0603,55,Male,Sales,Sales Representative,5,94799.71,4,1,No,42,1,2,4,No,Senior,Mid,Very Satisfied,Far
+EMP0604,56,Female,HR,Recruiter,15,39104.91,1,1,No,19,5,0,4,Yes,Senior,Low,Very Dissatisfied,Mid
+EMP0605,22,Female,Finance,Finance Manager,1,305784.46,2,2,No,31,8,3,4,Yes,Youth,Executive,Dissatisfied,Far
+EMP0606,42,Male,Finance,Financial Analyst,17,122728.08,4,1,No,11,4,0,2,No,Adult,High,Very Satisfied,Mid
+EMP0607,27,Female,Finance,Financial Analyst,9,174669.68,2,3,No,15,3,1,4,Yes,Young Adult,High,Dissatisfied,Mid
+EMP0608,49,Male,Sales,Sales Representative,16,51032.14,3,2,No,10,4,2,3,No,Senior,Mid,Satisfied,Near
+EMP0609,38,Male,Sales,Sales Representative,12,87528.16,4,3,No,43,8,1,1,Yes,Adult,Mid,Very Satisfied,Far
+EMP0610,26,Female,HR,Recruiter,17,51211.43,1,1,No,23,6,3,3,No,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0611,52,Female,IT,System Admin,12,94229.43,1,1,Yes,3,7,3,4,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0612,26,Female,IT,System Admin,16,108631.02,3,3,Yes,3,3,4,2,No,Young Adult,High,Satisfied,Near
+EMP0613,59,Female,Sales,Sales Executive,4,41412.16,4,3,No,18,7,1,4,No,Senior,Low,Very Satisfied,Mid
+EMP0614,24,Female,Sales,Sales Representative,10,107993.61,2,3,Yes,25,5,0,4,No,Youth,High,Dissatisfied,Mid
+EMP0615,44,Male,Sales,Sales Manager,6,298393.81,1,4,Yes,43,4,6,4,No,Adult,Executive,Very Dissatisfied,Far
+EMP0616,58,Male,Operations,Operations Executive,9,41439.94,3,4,No,20,6,1,4,No,Senior,Low,Satisfied,Mid
+EMP0617,58,Male,Sales,Sales Manager,16,256885.46,3,4,Yes,58,5,2,4,Yes,Senior,Executive,Satisfied,Far
+EMP0618,31,Male,HR,HR Manager,14,190215.07,4,4,Yes,29,2,3,1,No,Young Adult,High,Very Satisfied,Mid
+EMP0619,31,Female,Sales,Sales Representative,17,93031.31,4,2,No,22,4,3,3,No,Young Adult,Mid,Very Satisfied,Mid
+EMP0620,40,Female,HR,HR Executive,18,98298.13,1,1,No,50,8,1,2,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP0621,38,Male,IT,System Admin,1,39521.69,3,3,No,57,6,1,4,No,Adult,Low,Satisfied,Far
+EMP0622,42,Male,Operations,Logistics Officer,3,75552.59,2,1,No,15,3,5,2,No,Adult,Mid,Dissatisfied,Mid
+EMP0623,35,Female,Operations,Operations Manager,2,353656.26,3,3,No,39,6,1,1,No,Young Adult,Executive,Satisfied,Far
+EMP0624,30,Male,IT,Data Analyst,6,192339.56,2,1,No,10,4,5,3,No,Young Adult,High,Dissatisfied,Near
+EMP0625,22,Female,Operations,Operations Executive,17,76216.61,2,2,No,21,1,2,4,Yes,Youth,Mid,Dissatisfied,Mid
+EMP0626,34,Female,Operations,Operations Manager,9,387569.81,1,4,Yes,55,5,2,1,Yes,Young Adult,Executive,Very Dissatisfied,Far
+EMP0627,25,Female,Finance,Finance Manager,6,283922.24,3,1,Yes,52,6,0,1,Yes,Youth,Executive,Satisfied,Far
+EMP0628,22,Male,Finance,Financial Analyst,7,127302.86,2,3,No,29,7,1,3,No,Youth,High,Dissatisfied,Mid
+EMP0629,53,Male,Sales,Sales Executive,5,106338.28,4,1,No,32,5,0,4,No,Senior,High,Very Satisfied,Far
+EMP0630,55,Female,HR,HR Executive,0,74368.44,2,2,No,10,7,6,3,No,Senior,Mid,Dissatisfied,Near
+EMP0631,49,Female,Sales,Sales Manager,3,267975.63,4,2,No,13,6,4,3,No,Senior,Executive,Very Satisfied,Mid
+EMP0632,52,Male,Sales,Sales Manager,13,272578.12,4,1,No,47,1,2,2,No,Senior,Executive,Very Satisfied,Far
+EMP0633,29,Female,Operations,Logistics Officer,16,106210.65,3,4,No,23,5,3,2,No,Young Adult,High,Satisfied,Mid
+EMP0634,47,Male,IT,Software Engineer,19,104874.74,4,3,No,50,8,5,3,No,Senior,High,Very Satisfied,Far
+EMP0635,55,Female,Finance,Accountant,17,66316.8,2,2,Yes,23,5,4,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0636,24,Male,Finance,Accountant,10,59996.99,4,2,No,31,3,3,1,No,Youth,Mid,Very Satisfied,Far
+EMP0637,33,Female,Operations,Operations Manager,20,272982.01,3,1,Yes,4,6,4,3,Yes,Young Adult,Executive,Satisfied,Near
+EMP0638,22,Male,Operations,Operations Executive,13,81549.53,1,2,No,52,2,0,4,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP0639,26,Male,Sales,Sales Representative,8,51450.35,2,2,No,49,4,0,4,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP0640,51,Male,Sales,Sales Executive,14,101455.96,2,3,No,3,0,5,1,No,Senior,High,Dissatisfied,Near
+EMP0641,51,Male,IT,IT Support,11,73783.45,3,4,No,21,9,2,4,No,Senior,Mid,Satisfied,Mid
+EMP0642,38,Female,Sales,Sales Executive,9,60064.1,3,3,No,53,2,6,4,No,Adult,Mid,Satisfied,Far
+EMP0643,44,Female,Sales,Sales Manager,18,176705.25,3,4,No,2,7,5,3,Yes,Adult,High,Satisfied,Near
+EMP0644,36,Male,IT,System Admin,18,51496.06,3,3,No,4,8,6,1,No,Adult,Mid,Satisfied,Near
+EMP0645,58,Male,Finance,Financial Analyst,5,193913.74,2,1,No,1,8,3,3,No,Senior,High,Dissatisfied,Near
+EMP0646,42,Female,HR,Recruiter,19,57458.97,1,2,No,15,9,4,1,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0647,35,Female,IT,System Admin,5,45197.34,4,4,No,57,1,5,3,No,Young Adult,Low,Very Satisfied,Far
+EMP0648,23,Female,HR,HR Executive,7,71460.55,4,1,Yes,33,3,6,3,No,Youth,Mid,Very Satisfied,Far
+EMP0649,32,Male,Sales,Sales Executive,0,57637.9,1,2,No,6,4,1,2,Yes,Young Adult,Mid,Very Dissatisfied,Near
+EMP0650,59,Male,Sales,Sales Executive,16,33164.33,1,2,No,7,2,1,4,Yes,Senior,Low,Very Dissatisfied,Near
+EMP0651,55,Female,Finance,Financial Analyst,16,118777.43,1,2,No,19,0,2,1,Yes,Senior,High,Very Dissatisfied,Mid
+EMP0652,59,Male,HR,HR Executive,14,78969.78,3,3,No,44,5,6,4,No,Senior,Mid,Satisfied,Far
+EMP0653,55,Female,Finance,Finance Manager,6,287928.09,2,1,No,1,9,5,2,Yes,Senior,Executive,Dissatisfied,Near
+EMP0654,39,Male,Sales,Sales Representative,18,62090.3,2,1,No,39,1,3,1,No,Adult,Mid,Dissatisfied,Far
+EMP0655,51,Female,Finance,Accountant,2,70257.25,2,2,No,19,8,1,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0656,36,Male,HR,Recruiter,10,116896.61,3,4,No,45,0,2,4,No,Adult,High,Satisfied,Far
+EMP0657,48,Female,HR,HR Executive,19,63961.36,2,1,Yes,26,8,5,3,No,Senior,Mid,Dissatisfied,Mid
+EMP0658,55,Male,HR,HR Executive,18,53240.41,3,3,No,44,6,2,2,Yes,Senior,Mid,Satisfied,Far
+EMP0659,59,Female,Operations,Operations Manager,8,210866.76,2,4,Yes,12,9,3,2,Yes,Senior,Executive,Dissatisfied,Mid
+EMP0660,54,Male,HR,HR Executive,9,71198.82,1,4,Yes,22,1,1,3,No,Senior,Mid,Very Dissatisfied,Mid
+EMP0661,45,Female,HR,HR Executive,1,98356.81,4,4,No,13,5,1,4,Yes,Adult,Mid,Very Satisfied,Mid
+EMP0662,36,Female,Operations,Operations Executive,0,48538.94,4,4,Yes,28,7,1,2,No,Adult,Low,Very Satisfied,Mid
+EMP0663,51,Female,Finance,Financial Analyst,15,165115.54,3,1,No,14,1,6,4,No,Senior,High,Satisfied,Mid
+EMP0664,38,Female,IT,IT Support,17,31903.48,2,2,No,22,4,0,3,No,Adult,Low,Dissatisfied,Mid
+EMP0665,26,Female,Finance,Financial Analyst,16,130271.96,4,4,No,30,5,6,1,No,Young Adult,High,Very Satisfied,Mid
+EMP0666,50,Female,IT,IT Support,5,99827.86,1,3,No,44,2,1,2,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0667,25,Male,Sales,Sales Manager,13,234683.24,1,3,Yes,20,1,4,4,No,Youth,Executive,Very Dissatisfied,Mid
+EMP0668,31,Female,HR,HR Executive,14,80736.34,1,2,No,44,5,0,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0669,38,Male,Operations,Operations Executive,13,48448.13,3,1,Yes,27,2,5,3,Yes,Adult,Low,Satisfied,Mid
+EMP0670,31,Male,Operations,Operations Manager,2,335498.85,3,2,No,38,1,6,2,Yes,Young Adult,Executive,Satisfied,Far
+EMP0671,38,Male,IT,System Admin,18,34705.12,2,4,No,59,0,0,1,Yes,Adult,Low,Dissatisfied,Far
+EMP0672,41,Male,IT,Data Analyst,11,182305.12,1,1,No,42,7,0,2,No,Adult,High,Very Dissatisfied,Far
+EMP0673,45,Female,Sales,Sales Representative,1,47837.67,2,1,No,52,0,6,4,Yes,Adult,Low,Dissatisfied,Far
+EMP0674,26,Female,Operations,Logistics Officer,2,108695.82,2,4,No,56,4,6,3,No,Young Adult,High,Dissatisfied,Far
+EMP0675,55,Female,Operations,Operations Executive,17,61727.63,1,3,No,41,5,0,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP0676,27,Male,HR,Recruiter,0,95041.52,2,4,No,34,2,2,4,No,Young Adult,Mid,Dissatisfied,Far
+EMP0677,23,Male,Finance,Accountant,19,58730.28,4,2,Yes,39,6,4,2,No,Youth,Mid,Very Satisfied,Far
+EMP0678,34,Male,Finance,Financial Analyst,20,188709.4,3,4,No,41,1,3,3,No,Young Adult,High,Satisfied,Far
+EMP0679,32,Male,HR,HR Manager,5,181659.28,2,3,No,57,6,1,2,No,Young Adult,High,Dissatisfied,Far
+EMP0680,44,Male,Sales,Sales Representative,4,46066.78,1,4,No,44,1,6,1,Yes,Adult,Low,Very Dissatisfied,Far
+EMP0681,37,Male,IT,Software Engineer,0,74372.71,3,2,Yes,37,4,0,1,Yes,Adult,Mid,Satisfied,Far
+EMP0682,52,Male,HR,HR Executive,18,37374.46,3,2,No,1,6,3,1,No,Senior,Low,Satisfied,Near
+EMP0683,32,Female,HR,Recruiter,0,47638.22,2,3,Yes,54,2,6,1,No,Young Adult,Low,Dissatisfied,Far
+EMP0684,37,Female,IT,Software Engineer,20,114938.97,4,2,Yes,15,3,2,1,Yes,Adult,High,Very Satisfied,Mid
+EMP0685,29,Female,Operations,Operations Manager,20,394122.42,2,2,No,32,0,3,2,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0686,25,Female,Sales,Sales Representative,15,63863.34,4,4,No,8,2,0,1,Yes,Youth,Mid,Very Satisfied,Near
+EMP0687,25,Female,IT,System Admin,11,113095.74,3,1,No,33,8,5,1,No,Youth,High,Satisfied,Far
+EMP0688,46,Male,HR,HR Manager,7,286206.17,2,2,No,18,9,4,3,No,Senior,Executive,Dissatisfied,Mid
+EMP0689,24,Female,HR,HR Executive,15,54276.82,1,2,No,45,4,3,1,No,Youth,Mid,Very Dissatisfied,Far
+EMP0690,53,Female,HR,HR Manager,0,325599.68,2,3,Yes,29,7,6,3,No,Senior,Executive,Dissatisfied,Mid
+EMP0691,24,Male,Sales,Sales Executive,3,89301.16,4,3,No,32,1,0,3,No,Youth,Mid,Very Satisfied,Far
+EMP0692,48,Male,Sales,Sales Manager,9,397281.33,4,4,Yes,33,2,6,3,No,Senior,Executive,Very Satisfied,Far
+EMP0693,50,Female,HR,HR Executive,10,53854.26,2,4,No,5,6,0,2,No,Senior,Mid,Dissatisfied,Near
+EMP0694,53,Male,HR,HR Executive,16,90485.36,4,2,Yes,18,9,1,2,No,Senior,Mid,Very Satisfied,Mid
+EMP0695,40,Female,Sales,Sales Executive,6,34682.14,3,1,Yes,48,3,5,4,No,Adult,Low,Satisfied,Far
+EMP0696,42,Female,Finance,Financial Analyst,11,93637.52,2,1,No,58,8,1,4,Yes,Adult,Mid,Dissatisfied,Far
+EMP0697,26,Male,IT,Data Analyst,20,80470.2,4,4,Yes,10,6,5,3,No,Young Adult,Mid,Very Satisfied,Near
+EMP0698,39,Male,HR,HR Executive,6,119951.46,2,3,Yes,36,0,4,2,No,Adult,High,Dissatisfied,Far
+EMP0699,49,Male,Finance,Financial Analyst,11,176272.84,2,2,No,33,3,1,1,Yes,Senior,High,Dissatisfied,Far
+EMP0700,43,Male,Sales,Sales Manager,14,346680.75,1,2,Yes,23,9,4,4,Yes,Adult,Executive,Very Dissatisfied,Mid
+EMP0701,42,Male,Sales,Sales Manager,1,277431.52,2,1,Yes,40,5,6,2,No,Adult,Executive,Dissatisfied,Far
+EMP0702,27,Female,Finance,Financial Analyst,13,116008.05,1,4,No,5,5,2,1,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP0703,22,Male,HR,HR Manager,12,187816.07,4,1,No,34,9,2,1,No,Youth,High,Very Satisfied,Far
+EMP0704,26,Male,HR,HR Executive,3,55620.73,1,1,No,24,5,5,2,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0705,33,Male,Finance,Accountant,13,63837.41,1,4,No,17,4,5,4,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0706,47,Female,Finance,Finance Manager,13,339077.52,1,3,No,31,2,1,2,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP0707,55,Male,Operations,Logistics Officer,15,78569.56,3,2,No,7,1,2,4,No,Senior,Mid,Satisfied,Near
+EMP0708,35,Male,IT,Software Engineer,6,36973.53,1,3,No,17,2,3,3,Yes,Young Adult,Low,Very Dissatisfied,Mid
+EMP0709,47,Female,IT,Data Analyst,18,82163.48,2,4,Yes,28,8,3,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0710,48,Female,IT,IT Support,1,39209.9,1,4,No,38,2,6,2,No,Senior,Low,Very Dissatisfied,Far
+EMP0711,30,Male,Sales,Sales Representative,9,66944.88,2,2,No,22,2,3,4,No,Young Adult,Mid,Dissatisfied,Mid
+EMP0712,47,Female,HR,HR Manager,17,383298.23,1,3,No,15,0,6,4,No,Senior,Executive,Very Dissatisfied,Mid
+EMP0713,43,Male,Sales,Sales Representative,16,87366.22,3,2,Yes,37,1,2,2,No,Adult,Mid,Satisfied,Far
+EMP0714,51,Male,Operations,Operations Manager,4,350456.47,4,1,Yes,15,2,3,1,No,Senior,Executive,Very Satisfied,Mid
+EMP0715,38,Male,HR,HR Manager,11,266593.65,1,1,No,50,1,4,1,No,Adult,Executive,Very Dissatisfied,Far
+EMP0716,47,Male,HR,HR Manager,5,240416.52,1,1,Yes,50,7,0,1,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP0717,57,Female,IT,IT Support,8,39756.03,3,3,No,25,5,5,3,Yes,Senior,Low,Satisfied,Mid
+EMP0718,22,Male,Sales,Sales Executive,19,108833.97,1,1,No,53,6,1,3,Yes,Youth,High,Very Dissatisfied,Far
+EMP0719,29,Male,Sales,Sales Representative,0,100484.4,2,2,No,21,0,6,4,Yes,Young Adult,High,Dissatisfied,Mid
+EMP0720,56,Female,IT,IT Support,14,45130.63,1,3,Yes,55,5,4,3,Yes,Senior,Low,Very Dissatisfied,Far
+EMP0721,36,Female,Sales,Sales Executive,20,76103.45,1,2,No,38,1,3,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP0722,43,Male,HR,HR Manager,5,271843.7,4,4,No,2,5,0,2,No,Adult,Executive,Very Satisfied,Near
+EMP0723,35,Female,Operations,Operations Executive,18,86258.24,4,3,No,27,2,1,3,No,Young Adult,Mid,Very Satisfied,Mid
+EMP0724,47,Male,Operations,Logistics Officer,17,115156.82,1,2,Yes,49,6,4,3,No,Senior,High,Very Dissatisfied,Far
+EMP0725,49,Female,HR,HR Manager,5,294942.86,3,2,Yes,32,2,1,1,No,Senior,Executive,Satisfied,Far
+EMP0726,44,Female,Sales,Sales Representative,12,78619.55,4,3,No,21,8,6,3,No,Adult,Mid,Very Satisfied,Mid
+EMP0727,35,Female,Operations,Operations Manager,0,162580.73,1,4,Yes,4,2,6,4,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP0728,45,Male,Operations,Operations Executive,12,35661.67,4,3,No,44,6,5,2,No,Adult,Low,Very Satisfied,Far
+EMP0729,23,Male,Sales,Sales Representative,6,46861.21,1,1,No,19,3,2,1,Yes,Youth,Low,Very Dissatisfied,Mid
+EMP0730,47,Male,Finance,Financial Analyst,14,83896.49,4,1,No,2,7,6,4,No,Senior,Mid,Very Satisfied,Near
+EMP0731,35,Male,Sales,Sales Manager,11,335838.22,4,4,No,26,1,3,1,No,Young Adult,Executive,Very Satisfied,Mid
+EMP0732,28,Male,Finance,Accountant,0,95099.73,2,2,Yes,34,7,4,4,No,Young Adult,Mid,Dissatisfied,Far
+EMP0733,24,Female,Operations,Logistics Officer,14,42245.06,1,2,Yes,14,8,4,2,Yes,Youth,Low,Very Dissatisfied,Mid
+EMP0734,44,Male,Sales,Sales Representative,3,105247.1,1,2,Yes,15,7,0,2,No,Adult,High,Very Dissatisfied,Mid
+EMP0735,39,Male,Operations,Logistics Officer,12,43930.74,1,3,Yes,20,5,0,4,Yes,Adult,Low,Very Dissatisfied,Mid
+EMP0736,59,Female,HR,Recruiter,4,57105.8,1,3,No,34,9,0,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0737,56,Male,Operations,Operations Manager,1,212244.22,4,4,Yes,36,0,1,4,No,Senior,Executive,Very Satisfied,Far
+EMP0738,36,Female,IT,IT Support,0,63507.64,2,1,No,19,6,3,4,No,Adult,Mid,Dissatisfied,Mid
+EMP0739,46,Male,Finance,Financial Analyst,15,110559.65,2,2,No,9,0,1,4,No,Senior,High,Dissatisfied,Near
+EMP0740,58,Male,Sales,Sales Executive,5,74005.58,3,1,No,7,6,3,4,Yes,Senior,Mid,Satisfied,Near
+EMP0741,49,Male,IT,Software Engineer,15,66666.71,1,3,Yes,30,1,4,2,No,Senior,Mid,Very Dissatisfied,Mid
+EMP0742,31,Male,Sales,Sales Manager,13,396642.37,3,3,Yes,13,7,6,4,No,Young Adult,Executive,Satisfied,Mid
+EMP0743,38,Female,Operations,Logistics Officer,2,35033.37,4,3,Yes,27,1,6,3,No,Adult,Low,Very Satisfied,Mid
+EMP0744,43,Male,Finance,Finance Manager,14,185545.34,3,1,No,44,2,1,2,No,Adult,High,Satisfied,Far
+EMP0745,47,Male,Operations,Operations Executive,2,34754.33,1,4,Yes,35,2,1,1,No,Senior,Low,Very Dissatisfied,Far
+EMP0746,46,Male,Operations,Operations Executive,1,86325.71,2,4,No,13,0,1,2,No,Senior,Mid,Dissatisfied,Mid
+EMP0747,38,Male,Sales,Sales Representative,0,34905.83,2,3,No,15,4,2,1,No,Adult,Low,Dissatisfied,Mid
+EMP0748,34,Female,IT,IT Support,8,105279.58,1,2,No,46,4,5,1,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0749,41,Male,Sales,Sales Executive,8,76074.48,4,1,No,56,9,3,3,Yes,Adult,Mid,Very Satisfied,Far
+EMP0750,46,Female,Sales,Sales Representative,6,77430.69,1,3,Yes,9,4,6,4,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0751,25,Female,Sales,Sales Representative,2,80543.51,4,1,No,45,8,3,4,No,Youth,Mid,Very Satisfied,Far
+EMP0752,31,Female,IT,IT Support,17,45373.23,2,1,No,23,5,1,2,No,Young Adult,Low,Dissatisfied,Mid
+EMP0753,24,Female,Sales,Sales Executive,10,47792.13,4,4,No,54,5,2,4,No,Youth,Low,Very Satisfied,Far
+EMP0754,39,Male,Sales,Sales Representative,6,58693.56,1,3,No,36,2,1,3,No,Adult,Mid,Very Dissatisfied,Far
+EMP0755,57,Male,Sales,Sales Manager,8,298374.1,1,4,No,53,4,3,2,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP0756,43,Male,Sales,Sales Representative,0,48910.6,1,3,Yes,40,9,5,2,No,Adult,Low,Very Dissatisfied,Far
+EMP0757,55,Female,Operations,Logistics Officer,13,40469.86,4,1,Yes,3,6,6,2,Yes,Senior,Low,Very Satisfied,Near
+EMP0758,29,Female,Finance,Accountant,19,117310.52,4,4,Yes,34,2,5,4,No,Young Adult,High,Very Satisfied,Far
+EMP0759,40,Male,Operations,Logistics Officer,5,31978.36,4,1,Yes,19,1,4,4,Yes,Adult,Low,Very Satisfied,Mid
+EMP0760,58,Female,IT,Software Engineer,6,102242.77,2,3,Yes,28,4,2,4,No,Senior,High,Dissatisfied,Mid
+EMP0761,27,Male,Sales,Sales Manager,9,347008.79,3,2,No,23,2,5,2,No,Young Adult,Executive,Satisfied,Mid
+EMP0762,47,Female,Finance,Finance Manager,6,224303.53,3,4,No,40,4,2,2,No,Senior,Executive,Satisfied,Far
+EMP0763,55,Male,IT,System Admin,1,42206.4,1,4,No,49,8,1,1,Yes,Senior,Low,Very Dissatisfied,Far
+EMP0764,27,Female,Sales,Sales Representative,3,43106.58,2,1,No,45,9,4,1,Yes,Young Adult,Low,Dissatisfied,Far
+EMP0765,58,Female,Sales,Sales Manager,20,324357.9,4,1,No,7,0,3,4,Yes,Senior,Executive,Very Satisfied,Near
+EMP0766,54,Male,Sales,Sales Executive,16,87852.59,1,2,Yes,41,3,5,2,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP0767,43,Male,Sales,Sales Representative,0,100447.11,2,4,Yes,12,9,5,4,No,Adult,High,Dissatisfied,Mid
+EMP0768,42,Male,IT,Data Analyst,9,192497.74,1,3,No,14,4,0,4,No,Adult,High,Very Dissatisfied,Mid
+EMP0769,27,Male,HR,HR Manager,18,322981.84,2,3,Yes,46,1,6,1,No,Young Adult,Executive,Dissatisfied,Far
+EMP0770,27,Male,Sales,Sales Manager,14,188962.88,2,4,Yes,15,1,3,3,No,Young Adult,High,Dissatisfied,Mid
+EMP0771,25,Female,Sales,Sales Manager,9,210860.65,3,4,Yes,3,0,5,4,No,Youth,Executive,Satisfied,Near
+EMP0772,51,Female,Finance,Accountant,18,105797.44,1,4,Yes,15,7,5,3,No,Senior,High,Very Dissatisfied,Mid
+EMP0773,32,Male,Sales,Sales Manager,11,202326.52,4,2,No,51,1,3,3,No,Young Adult,Executive,Very Satisfied,Far
+EMP0774,51,Male,IT,Data Analyst,15,88702.68,3,3,No,24,2,4,2,No,Senior,Mid,Satisfied,Mid
+EMP0775,52,Female,Operations,Logistics Officer,8,93295.2,3,3,No,52,1,2,2,No,Senior,Mid,Satisfied,Far
+EMP0776,45,Female,Sales,Sales Manager,14,250631.59,4,1,No,46,3,3,4,Yes,Adult,Executive,Very Satisfied,Far
+EMP0777,30,Male,Sales,Sales Representative,16,112803.6,2,1,No,8,0,2,1,No,Young Adult,High,Dissatisfied,Near
+EMP0778,24,Female,IT,IT Support,13,88522.96,4,4,Yes,5,2,4,1,No,Youth,Mid,Very Satisfied,Near
+EMP0779,52,Male,IT,System Admin,17,38137.71,1,1,Yes,51,4,4,4,Yes,Senior,Low,Very Dissatisfied,Far
+EMP0780,58,Male,HR,HR Manager,1,386964.14,4,2,Yes,4,9,1,4,No,Senior,Executive,Very Satisfied,Near
+EMP0781,57,Male,Finance,Finance Manager,3,214639.32,2,3,No,14,0,0,1,Yes,Senior,Executive,Dissatisfied,Mid
+EMP0782,45,Male,Sales,Sales Representative,17,60349.12,4,3,No,16,3,4,3,No,Adult,Mid,Very Satisfied,Mid
+EMP0783,52,Male,HR,Recruiter,6,66203.44,2,1,No,20,5,4,4,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0784,27,Female,IT,Data Analyst,12,86146.92,2,4,Yes,24,3,2,3,No,Young Adult,Mid,Dissatisfied,Mid
+EMP0785,23,Female,Sales,Sales Representative,14,74686.39,1,1,No,6,6,4,4,No,Youth,Mid,Very Dissatisfied,Near
+EMP0786,41,Female,HR,Recruiter,0,41098.66,4,4,No,55,6,3,4,No,Adult,Low,Very Satisfied,Far
+EMP0787,49,Male,Sales,Sales Manager,10,250242.58,4,2,No,57,5,1,3,Yes,Senior,Executive,Very Satisfied,Far
+EMP0788,32,Male,IT,System Admin,9,61563.88,1,3,No,31,8,1,3,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0789,25,Female,Sales,Sales Manager,4,343210.02,2,2,No,6,1,3,1,No,Youth,Executive,Dissatisfied,Near
+EMP0790,36,Male,IT,Data Analyst,15,176380.46,4,3,No,35,9,5,4,Yes,Adult,High,Very Satisfied,Far
+EMP0791,27,Male,IT,Data Analyst,10,98409.55,1,2,No,15,7,4,2,No,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0792,51,Male,Finance,Accountant,20,62989.61,2,1,Yes,29,7,6,2,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0793,59,Female,Sales,Sales Executive,5,63601.78,1,2,No,3,9,0,4,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP0794,23,Male,IT,Data Analyst,8,98169.25,4,2,Yes,11,3,4,4,No,Youth,Mid,Very Satisfied,Mid
+EMP0795,36,Male,IT,System Admin,12,101860.82,1,1,Yes,3,5,1,4,No,Adult,High,Very Dissatisfied,Near
+EMP0796,32,Female,Finance,Accountant,7,93650.55,3,3,No,28,5,0,3,No,Young Adult,Mid,Satisfied,Mid
+EMP0797,29,Male,HR,HR Executive,13,47134.36,2,3,No,10,4,6,2,Yes,Young Adult,Low,Dissatisfied,Near
+EMP0798,47,Male,HR,Recruiter,0,63004.97,3,1,Yes,50,0,5,2,Yes,Senior,Mid,Satisfied,Far
+EMP0799,26,Male,Finance,Finance Manager,16,176451.26,3,2,No,33,2,2,2,No,Young Adult,High,Satisfied,Far
+EMP0800,27,Male,Operations,Logistics Officer,4,86538.59,2,2,Yes,48,6,2,4,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP0801,47,Female,IT,System Admin,1,40923.47,2,2,No,16,7,6,3,Yes,Senior,Low,Dissatisfied,Mid
+EMP0802,25,Male,IT,Data Analyst,8,198312.1,1,4,No,59,1,4,4,No,Youth,High,Very Dissatisfied,Far
+EMP0803,40,Male,Finance,Accountant,3,100261.39,2,3,No,10,2,4,1,No,Adult,High,Dissatisfied,Near
+EMP0804,41,Female,Operations,Operations Executive,16,65121.47,3,2,No,33,3,0,1,No,Adult,Mid,Satisfied,Far
+EMP0805,54,Female,Operations,Operations Executive,16,82070.75,3,3,No,36,4,0,2,No,Senior,Mid,Satisfied,Far
+EMP0806,41,Female,IT,IT Support,20,112020.76,4,2,No,3,2,5,4,No,Adult,High,Very Satisfied,Near
+EMP0807,33,Male,Sales,Sales Manager,17,288524.82,2,1,Yes,5,4,4,1,Yes,Young Adult,Executive,Dissatisfied,Near
+EMP0808,22,Male,IT,IT Support,15,45704.86,3,1,No,12,7,1,1,No,Youth,Low,Satisfied,Mid
+EMP0809,47,Female,Finance,Financial Analyst,7,125444.4,4,3,No,57,7,2,4,Yes,Senior,High,Very Satisfied,Far
+EMP0810,35,Female,IT,Data Analyst,10,181177.38,4,3,No,44,1,5,3,Yes,Young Adult,High,Very Satisfied,Far
+EMP0811,59,Male,IT,Data Analyst,20,157305.56,1,1,Yes,13,5,0,4,Yes,Senior,High,Very Dissatisfied,Mid
+EMP0812,58,Male,Finance,Financial Analyst,20,158086.93,3,4,Yes,24,3,1,4,No,Senior,High,Satisfied,Mid
+EMP0813,32,Male,IT,Data Analyst,17,184018.58,1,1,Yes,44,8,4,3,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0814,57,Female,Operations,Logistics Officer,9,110457.58,3,2,No,57,9,3,2,No,Senior,High,Satisfied,Far
+EMP0815,34,Male,IT,Software Engineer,12,112781.33,1,4,No,32,1,0,2,No,Young Adult,High,Very Dissatisfied,Far
+EMP0816,24,Male,IT,IT Support,16,38536.43,1,1,Yes,16,7,5,2,Yes,Youth,Low,Very Dissatisfied,Mid
+EMP0817,54,Male,IT,Software Engineer,17,78971.34,2,4,No,32,0,3,3,No,Senior,Mid,Dissatisfied,Far
+EMP0818,27,Female,Finance,Accountant,9,96645.86,1,4,No,45,5,1,1,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP0819,31,Female,Sales,Sales Representative,15,98123.42,2,4,Yes,37,9,6,3,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP0820,26,Male,Sales,Sales Manager,19,301679.05,4,3,No,56,0,2,4,Yes,Young Adult,Executive,Very Satisfied,Far
+EMP0821,44,Female,Operations,Operations Executive,4,45010.86,3,1,No,36,1,6,3,Yes,Adult,Low,Satisfied,Far
+EMP0822,31,Female,Sales,Sales Representative,12,101767.85,4,3,No,21,2,6,1,Yes,Young Adult,High,Very Satisfied,Mid
+EMP0823,23,Male,HR,HR Manager,17,330027.83,3,3,No,47,8,6,1,Yes,Youth,Executive,Satisfied,Far
+EMP0824,34,Male,HR,Recruiter,16,37752.22,4,2,Yes,12,4,1,4,Yes,Young Adult,Low,Very Satisfied,Mid
+EMP0825,23,Male,IT,System Admin,8,71742.88,3,2,No,51,9,2,2,No,Youth,Mid,Satisfied,Far
+EMP0826,41,Female,HR,Recruiter,13,45657.97,1,4,Yes,21,9,1,1,Yes,Adult,Low,Very Dissatisfied,Mid
+EMP0827,22,Female,Sales,Sales Representative,16,60372.93,3,4,Yes,51,1,6,1,No,Youth,Mid,Satisfied,Far
+EMP0828,58,Female,HR,HR Executive,3,31627.3,3,2,No,21,9,0,1,No,Senior,Low,Satisfied,Mid
+EMP0829,30,Female,IT,System Admin,17,66029.69,4,2,No,43,4,6,4,No,Young Adult,Mid,Very Satisfied,Far
+EMP0830,38,Male,HR,HR Manager,19,287469.23,4,1,No,53,4,0,1,No,Adult,Executive,Very Satisfied,Far
+EMP0831,30,Female,Sales,Sales Executive,14,85762.43,4,4,Yes,6,0,5,2,Yes,Young Adult,Mid,Very Satisfied,Near
+EMP0832,32,Male,HR,HR Executive,10,89714.13,2,4,No,9,2,6,4,Yes,Young Adult,Mid,Dissatisfied,Near
+EMP0833,36,Male,Sales,Sales Executive,11,105266.22,2,2,No,1,4,3,2,No,Adult,High,Dissatisfied,Near
+EMP0834,45,Female,Sales,Sales Manager,8,203865.73,3,1,No,12,8,1,1,No,Adult,Executive,Satisfied,Mid
+EMP0835,59,Female,Sales,Sales Representative,12,40843.36,3,2,No,58,9,6,1,Yes,Senior,Low,Satisfied,Far
+EMP0836,56,Male,Sales,Sales Executive,14,106638.35,1,2,No,14,0,1,2,Yes,Senior,High,Very Dissatisfied,Mid
+EMP0837,51,Female,Finance,Financial Analyst,14,98793.54,1,3,No,6,7,6,4,No,Senior,Mid,Very Dissatisfied,Near
+EMP0838,52,Female,Sales,Sales Representative,4,117728.41,3,4,Yes,1,0,3,4,Yes,Senior,High,Satisfied,Near
+EMP0839,26,Male,Operations,Logistics Officer,18,105828.44,2,1,No,22,8,6,2,Yes,Young Adult,High,Dissatisfied,Mid
+EMP0840,35,Female,Operations,Operations Executive,19,75078.89,3,3,Yes,34,5,4,1,Yes,Young Adult,Mid,Satisfied,Far
+EMP0841,32,Male,HR,HR Executive,13,118327.93,1,4,Yes,56,0,5,3,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0842,30,Male,Sales,Sales Representative,16,38763.91,2,2,Yes,11,7,1,2,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP0843,55,Male,IT,Data Analyst,17,116367.89,2,1,Yes,3,4,5,2,Yes,Senior,High,Dissatisfied,Near
+EMP0844,33,Female,Finance,Financial Analyst,20,156586.93,1,4,Yes,42,6,1,2,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0845,56,Female,IT,Data Analyst,2,122000.82,3,2,Yes,6,6,1,1,No,Senior,High,Satisfied,Near
+EMP0846,56,Male,Sales,Sales Manager,1,382093.14,4,3,Yes,6,6,4,4,No,Senior,Executive,Very Satisfied,Near
+EMP0847,22,Male,HR,Recruiter,0,35906.35,3,1,No,20,5,6,1,Yes,Youth,Low,Satisfied,Mid
+EMP0848,43,Female,Finance,Financial Analyst,9,145929.42,3,4,Yes,21,7,0,2,No,Adult,High,Satisfied,Mid
+EMP0849,50,Male,Finance,Financial Analyst,18,150903.95,1,3,No,2,8,5,1,No,Senior,High,Very Dissatisfied,Near
+EMP0850,29,Female,Sales,Sales Manager,16,313182.03,2,2,Yes,26,1,3,1,No,Young Adult,Executive,Dissatisfied,Mid
+EMP0851,32,Female,HR,HR Executive,11,53009.96,1,2,No,31,6,5,2,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP0852,58,Male,Sales,Sales Executive,0,62810.98,3,4,No,26,1,6,1,No,Senior,Mid,Satisfied,Mid
+EMP0853,35,Female,Sales,Sales Executive,11,105931.25,4,2,No,56,5,4,3,No,Young Adult,High,Very Satisfied,Far
+EMP0854,51,Male,Operations,Logistics Officer,16,47544.85,4,1,No,32,1,2,1,Yes,Senior,Low,Very Satisfied,Far
+EMP0855,56,Female,Sales,Sales Executive,2,104418.11,4,4,Yes,10,9,2,1,No,Senior,High,Very Satisfied,Near
+EMP0856,42,Female,Sales,Sales Manager,10,290663.86,1,3,No,23,5,4,4,No,Adult,Executive,Very Dissatisfied,Mid
+EMP0857,58,Female,Sales,Sales Executive,16,98596.88,2,4,No,58,1,6,4,No,Senior,Mid,Dissatisfied,Far
+EMP0858,26,Male,Operations,Logistics Officer,2,94224.66,1,4,No,6,0,4,2,No,Young Adult,Mid,Very Dissatisfied,Near
+EMP0859,40,Female,Finance,Finance Manager,7,201877.87,4,3,No,23,6,0,2,No,Adult,Executive,Very Satisfied,Mid
+EMP0860,35,Male,HR,Recruiter,19,81193.15,3,2,Yes,28,2,5,4,No,Young Adult,Mid,Satisfied,Mid
+EMP0861,47,Male,Finance,Accountant,3,108095.08,2,3,No,49,3,6,3,No,Senior,High,Dissatisfied,Far
+EMP0862,25,Male,Sales,Sales Executive,20,68890.46,1,1,Yes,30,5,5,1,No,Youth,Mid,Very Dissatisfied,Mid
+EMP0863,46,Female,IT,IT Support,6,116993.17,1,2,No,14,4,2,3,No,Senior,High,Very Dissatisfied,Mid
+EMP0864,46,Male,IT,System Admin,13,70699.36,2,4,Yes,37,3,6,3,No,Senior,Mid,Dissatisfied,Far
+EMP0865,39,Female,Sales,Sales Manager,13,185696.41,2,2,No,55,8,3,4,No,Adult,High,Dissatisfied,Far
+EMP0866,29,Female,IT,Data Analyst,3,126732.16,3,2,Yes,32,5,5,2,No,Young Adult,High,Satisfied,Far
+EMP0867,35,Male,Operations,Operations Manager,15,387925.6,2,1,Yes,49,5,1,1,No,Young Adult,Executive,Dissatisfied,Far
+EMP0868,53,Female,Sales,Sales Executive,0,58774.88,3,2,No,34,1,1,2,No,Senior,Mid,Satisfied,Far
+EMP0869,59,Male,Sales,Sales Manager,16,367024.54,4,2,No,41,5,0,3,Yes,Senior,Executive,Very Satisfied,Far
+EMP0870,54,Female,Sales,Sales Executive,9,109312.56,4,2,No,44,6,6,3,No,Senior,High,Very Satisfied,Far
+EMP0871,44,Female,Sales,Sales Manager,15,237546.63,1,4,Yes,51,7,0,2,Yes,Adult,Executive,Very Dissatisfied,Far
+EMP0872,36,Male,Operations,Operations Manager,15,170814.41,4,2,Yes,22,7,6,2,Yes,Adult,High,Very Satisfied,Mid
+EMP0873,54,Female,IT,Data Analyst,7,166946.95,4,3,No,31,8,2,4,Yes,Senior,High,Very Satisfied,Far
+EMP0874,46,Male,IT,Software Engineer,6,58036.11,3,2,No,7,9,3,2,No,Senior,Mid,Satisfied,Near
+EMP0875,38,Male,Finance,Finance Manager,5,345730.9,1,1,No,41,2,3,2,No,Adult,Executive,Very Dissatisfied,Far
+EMP0876,54,Female,Sales,Sales Representative,15,69838.94,2,2,No,21,9,4,4,No,Senior,Mid,Dissatisfied,Mid
+EMP0877,23,Male,IT,IT Support,19,73674.01,1,2,No,16,6,0,2,No,Youth,Mid,Very Dissatisfied,Mid
+EMP0878,35,Male,IT,Data Analyst,15,173349.13,4,4,No,20,6,6,3,No,Young Adult,High,Very Satisfied,Mid
+EMP0879,27,Male,HR,HR Manager,6,245590.83,2,3,No,43,0,5,2,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0880,27,Female,Operations,Operations Manager,8,260781.84,1,2,No,44,7,1,1,Yes,Young Adult,Executive,Very Dissatisfied,Far
+EMP0881,24,Male,Finance,Finance Manager,13,244047.62,1,3,No,47,3,5,3,No,Youth,Executive,Very Dissatisfied,Far
+EMP0882,28,Male,IT,Data Analyst,10,124080.86,1,1,No,50,4,1,4,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0883,29,Female,Finance,Finance Manager,13,281486.64,1,4,No,19,5,2,3,No,Young Adult,Executive,Very Dissatisfied,Mid
+EMP0884,36,Female,Sales,Sales Executive,6,102791.95,3,3,Yes,48,2,1,4,No,Adult,High,Satisfied,Far
+EMP0885,50,Male,Sales,Sales Representative,0,62559.15,1,4,Yes,32,4,5,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP0886,54,Male,Sales,Sales Manager,12,281063.68,4,2,Yes,15,9,5,1,No,Senior,Executive,Very Satisfied,Mid
+EMP0887,51,Male,IT,Software Engineer,19,90365.46,4,1,No,5,4,3,3,Yes,Senior,Mid,Very Satisfied,Near
+EMP0888,48,Male,IT,Software Engineer,2,54249.55,3,4,Yes,11,0,6,2,No,Senior,Mid,Satisfied,Mid
+EMP0889,57,Male,HR,Recruiter,19,54977.05,2,2,Yes,15,2,3,3,Yes,Senior,Mid,Dissatisfied,Mid
+EMP0890,50,Female,Operations,Operations Executive,3,114007.18,2,3,No,29,2,0,3,Yes,Senior,High,Dissatisfied,Mid
+EMP0891,59,Female,IT,System Admin,10,95118.11,4,1,No,50,0,5,1,No,Senior,Mid,Very Satisfied,Far
+EMP0892,54,Female,IT,System Admin,1,81946.8,4,1,No,45,6,6,4,Yes,Senior,Mid,Very Satisfied,Far
+EMP0893,58,Male,Sales,Sales Manager,13,311930.01,3,3,No,4,0,2,3,No,Senior,Executive,Satisfied,Near
+EMP0894,48,Female,Sales,Sales Manager,11,157324.86,2,3,No,49,6,1,2,No,Senior,High,Dissatisfied,Far
+EMP0895,54,Male,HR,HR Manager,16,304525.74,2,1,No,36,3,0,1,Yes,Senior,Executive,Dissatisfied,Far
+EMP0896,25,Female,IT,Software Engineer,11,75855.8,1,4,No,48,8,4,3,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP0897,43,Female,Finance,Financial Analyst,11,145489.96,1,1,No,23,6,4,3,No,Adult,High,Very Dissatisfied,Mid
+EMP0898,23,Male,Sales,Sales Manager,0,239855.96,1,3,Yes,15,4,6,2,No,Youth,Executive,Very Dissatisfied,Mid
+EMP0899,31,Female,Sales,Sales Executive,12,37332.65,3,4,No,46,6,1,3,No,Young Adult,Low,Satisfied,Far
+EMP0900,26,Male,IT,Software Engineer,13,47400.53,4,2,Yes,44,8,1,3,Yes,Young Adult,Low,Very Satisfied,Far
+EMP0901,31,Female,Sales,Sales Manager,1,387686.18,3,1,Yes,3,9,6,3,No,Young Adult,Executive,Satisfied,Near
+EMP0902,54,Male,Sales,Sales Manager,11,252174.89,2,3,No,32,5,1,3,No,Senior,Executive,Dissatisfied,Far
+EMP0903,59,Male,Finance,Accountant,20,72001.48,4,2,Yes,10,0,3,2,Yes,Senior,Mid,Very Satisfied,Near
+EMP0904,34,Female,Sales,Sales Representative,15,34743.88,1,1,No,40,5,1,3,No,Young Adult,Low,Very Dissatisfied,Far
+EMP0905,52,Male,HR,Recruiter,3,33380.96,3,1,No,38,0,4,3,No,Senior,Low,Satisfied,Far
+EMP0906,57,Female,Sales,Sales Representative,7,94546.33,3,4,No,22,3,1,3,No,Senior,Mid,Satisfied,Mid
+EMP0907,45,Male,Sales,Sales Executive,1,78428.52,1,3,No,14,7,5,1,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0908,36,Female,IT,IT Support,9,75783.54,3,2,No,17,4,6,2,No,Adult,Mid,Satisfied,Mid
+EMP0909,50,Female,Finance,Accountant,8,51881.21,1,1,Yes,21,4,2,1,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP0910,29,Male,IT,Data Analyst,14,169370.09,2,4,No,51,9,4,1,No,Young Adult,High,Dissatisfied,Far
+EMP0911,26,Male,Finance,Accountant,12,45141.29,4,2,No,48,7,2,2,No,Young Adult,Low,Very Satisfied,Far
+EMP0912,50,Male,Sales,Sales Executive,16,47094.13,2,2,No,15,7,4,1,No,Senior,Low,Dissatisfied,Mid
+EMP0913,25,Male,Finance,Accountant,15,71464.1,2,1,No,58,0,0,1,Yes,Youth,Mid,Dissatisfied,Far
+EMP0914,33,Male,Sales,Sales Representative,1,55765.19,1,2,Yes,15,4,5,1,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0915,23,Female,HR,HR Executive,19,52271.67,3,1,Yes,1,4,4,2,No,Youth,Mid,Satisfied,Near
+EMP0916,48,Female,HR,Recruiter,19,88071.39,2,4,Yes,24,7,5,3,No,Senior,Mid,Dissatisfied,Mid
+EMP0917,52,Female,Operations,Logistics Officer,13,88587.46,2,4,No,55,0,4,4,Yes,Senior,Mid,Dissatisfied,Far
+EMP0918,57,Female,IT,IT Support,2,104206.54,2,2,No,55,6,2,4,No,Senior,High,Dissatisfied,Far
+EMP0919,57,Female,Sales,Sales Representative,11,67593.77,3,1,No,12,6,2,2,Yes,Senior,Mid,Satisfied,Mid
+EMP0920,47,Female,Sales,Sales Manager,7,168271.27,3,3,No,10,8,6,4,No,Senior,High,Satisfied,Near
+EMP0921,48,Male,Finance,Financial Analyst,1,112839.97,1,4,No,46,1,4,2,No,Senior,High,Very Dissatisfied,Far
+EMP0922,26,Female,IT,System Admin,3,118200.49,2,1,No,42,2,4,2,Yes,Young Adult,High,Dissatisfied,Far
+EMP0923,41,Female,Finance,Financial Analyst,13,151551.03,4,1,Yes,42,3,3,4,No,Adult,High,Very Satisfied,Far
+EMP0924,32,Female,Sales,Sales Representative,15,93876.34,3,1,Yes,52,0,5,1,No,Young Adult,Mid,Satisfied,Far
+EMP0925,31,Male,IT,System Admin,18,30662.2,1,2,No,31,6,5,3,Yes,Young Adult,Low,Very Dissatisfied,Far
+EMP0926,59,Male,Sales,Sales Manager,1,279551.43,2,3,No,11,9,5,4,No,Senior,Executive,Dissatisfied,Mid
+EMP0927,27,Male,Operations,Logistics Officer,11,33377.58,4,2,No,54,2,5,4,No,Young Adult,Low,Very Satisfied,Far
+EMP0928,29,Female,HR,Recruiter,13,81230.72,3,4,Yes,16,2,0,4,No,Young Adult,Mid,Satisfied,Mid
+EMP0929,44,Male,Operations,Operations Manager,5,380192.71,4,2,No,9,2,0,4,No,Adult,Executive,Very Satisfied,Near
+EMP0930,47,Male,Sales,Sales Representative,12,117157.72,3,1,Yes,47,7,1,2,Yes,Senior,High,Satisfied,Far
+EMP0931,33,Female,HR,Recruiter,3,78649.74,1,2,Yes,14,8,4,2,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0932,47,Male,HR,HR Manager,17,264551.2,4,1,No,19,9,4,3,Yes,Senior,Executive,Very Satisfied,Mid
+EMP0933,34,Male,IT,IT Support,11,115051.54,2,3,Yes,31,1,4,3,No,Young Adult,High,Dissatisfied,Far
+EMP0934,39,Male,Finance,Finance Manager,19,318402.46,2,2,Yes,9,9,4,4,Yes,Adult,Executive,Dissatisfied,Near
+EMP0935,46,Female,Operations,Operations Manager,20,166224.82,3,2,Yes,36,9,5,4,No,Senior,High,Satisfied,Far
+EMP0936,54,Female,Operations,Operations Executive,18,71915.3,2,2,Yes,53,0,5,4,No,Senior,Mid,Dissatisfied,Far
+EMP0937,33,Male,Finance,Finance Manager,7,210061.25,4,1,No,39,8,0,3,No,Young Adult,Executive,Very Satisfied,Far
+EMP0938,57,Female,Sales,Sales Executive,6,72282.39,1,1,No,54,5,2,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP0939,25,Male,Sales,Sales Executive,15,70991.9,3,2,Yes,26,8,3,1,No,Youth,Mid,Satisfied,Mid
+EMP0940,26,Female,Operations,Operations Manager,18,295536.2,4,2,Yes,8,5,5,3,No,Young Adult,Executive,Very Satisfied,Near
+EMP0941,58,Female,Sales,Sales Executive,5,62109.34,3,3,Yes,24,1,5,1,Yes,Senior,Mid,Satisfied,Mid
+EMP0942,29,Female,Finance,Finance Manager,19,191067.61,1,3,No,8,0,6,4,No,Young Adult,High,Very Dissatisfied,Near
+EMP0943,49,Male,Finance,Accountant,20,75334.75,3,4,Yes,19,7,5,2,No,Senior,Mid,Satisfied,Mid
+EMP0944,52,Female,HR,HR Manager,10,357550.72,2,3,No,47,2,2,1,No,Senior,Executive,Dissatisfied,Far
+EMP0945,30,Female,Operations,Operations Manager,4,316003.06,2,3,Yes,48,0,2,3,Yes,Young Adult,Executive,Dissatisfied,Far
+EMP0946,50,Male,IT,System Admin,15,60453.11,3,3,Yes,30,7,0,1,Yes,Senior,Mid,Satisfied,Mid
+EMP0947,35,Female,IT,System Admin,6,114197.07,1,1,No,58,0,5,3,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP0948,43,Male,Sales,Sales Representative,4,112098.68,1,3,No,22,7,6,4,No,Adult,High,Very Dissatisfied,Mid
+EMP0949,32,Female,IT,System Admin,10,48841.36,2,3,Yes,55,0,3,1,No,Young Adult,Low,Dissatisfied,Far
+EMP0950,44,Male,Sales,Sales Manager,14,159854.4,1,2,No,9,8,4,2,No,Adult,High,Very Dissatisfied,Near
+EMP0951,22,Female,IT,Software Engineer,2,96717.78,3,1,No,58,8,5,1,No,Youth,Mid,Satisfied,Far
+EMP0952,58,Male,Finance,Accountant,4,104484.92,4,4,No,58,8,0,2,Yes,Senior,High,Very Satisfied,Far
+EMP0953,42,Male,Operations,Operations Executive,20,117107.81,3,4,No,44,2,0,3,Yes,Adult,High,Satisfied,Far
+EMP0954,47,Male,Sales,Sales Representative,4,110085.28,2,3,No,48,3,3,4,No,Senior,High,Dissatisfied,Far
+EMP0955,57,Male,IT,Data Analyst,8,152064.17,2,4,No,4,4,6,4,No,Senior,High,Dissatisfied,Near
+EMP0956,44,Male,Operations,Logistics Officer,14,77704.71,2,4,Yes,37,5,1,2,Yes,Adult,Mid,Dissatisfied,Far
+EMP0957,22,Male,Sales,Sales Manager,2,156960.26,1,4,No,8,8,0,3,No,Youth,High,Very Dissatisfied,Near
+EMP0958,36,Female,Sales,Sales Executive,5,52199.08,3,3,No,1,3,2,4,No,Adult,Mid,Satisfied,Near
+EMP0959,42,Male,Sales,Sales Representative,16,71365.33,4,4,Yes,28,5,2,3,Yes,Adult,Mid,Very Satisfied,Mid
+EMP0960,30,Male,HR,HR Manager,20,307125.98,3,3,Yes,6,0,4,2,No,Young Adult,Executive,Satisfied,Near
+EMP0961,30,Female,Sales,Sales Manager,7,289312.96,4,2,Yes,47,1,0,2,No,Young Adult,Executive,Very Satisfied,Far
+EMP0962,31,Male,Operations,Logistics Officer,20,96837.24,3,2,No,36,7,6,1,Yes,Young Adult,Mid,Satisfied,Far
+EMP0963,47,Female,IT,IT Support,10,55179.02,2,4,No,53,3,4,4,No,Senior,Mid,Dissatisfied,Far
+EMP0964,56,Female,IT,System Admin,5,80845.73,4,2,No,11,9,0,4,No,Senior,Mid,Very Satisfied,Mid
+EMP0965,46,Female,Sales,Sales Executive,7,37932.8,3,3,Yes,5,6,3,1,No,Senior,Low,Satisfied,Near
+EMP0966,47,Female,IT,IT Support,9,67229.9,1,2,No,50,3,5,2,No,Senior,Mid,Very Dissatisfied,Far
+EMP0967,32,Female,HR,Recruiter,2,97514.47,1,4,No,24,8,6,2,No,Young Adult,Mid,Very Dissatisfied,Mid
+EMP0968,59,Male,Finance,Accountant,13,92406.08,3,3,No,47,8,0,2,Yes,Senior,Mid,Satisfied,Far
+EMP0969,23,Male,Finance,Financial Analyst,13,198877.13,2,1,No,18,3,6,2,Yes,Youth,High,Dissatisfied,Mid
+EMP0970,28,Male,HR,HR Manager,9,219472.78,4,3,No,20,7,1,3,Yes,Young Adult,Executive,Very Satisfied,Mid
+EMP0971,39,Female,Operations,Operations Manager,11,274547.32,3,2,No,28,5,6,4,No,Adult,Executive,Satisfied,Mid
+EMP0972,48,Male,Finance,Accountant,5,59657.74,1,1,No,13,0,6,4,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP0973,55,Female,Finance,Accountant,11,69654.28,4,3,No,5,6,2,2,No,Senior,Mid,Very Satisfied,Near
+EMP0974,48,Female,Sales,Sales Manager,13,364237.53,1,1,No,30,0,3,2,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP0975,38,Female,Sales,Sales Representative,1,91578.82,1,1,No,1,2,5,2,Yes,Adult,Mid,Very Dissatisfied,Near
+EMP0976,45,Male,Sales,Sales Representative,8,109419.71,3,1,Yes,22,7,5,4,Yes,Adult,High,Satisfied,Mid
+EMP0977,46,Male,HR,Recruiter,9,48316.0,1,3,Yes,18,8,2,4,No,Senior,Low,Very Dissatisfied,Mid
+EMP0978,28,Female,IT,Data Analyst,16,184803.33,4,2,Yes,46,2,6,2,Yes,Young Adult,High,Very Satisfied,Far
+EMP0979,27,Female,IT,System Admin,16,35378.6,2,3,No,5,0,5,3,Yes,Young Adult,Low,Dissatisfied,Near
+EMP0980,45,Male,Operations,Operations Manager,2,372149.82,3,2,No,31,0,4,1,No,Adult,Executive,Satisfied,Far
+EMP0981,54,Male,Operations,Operations Executive,18,59616.64,4,3,Yes,6,6,3,1,No,Senior,Mid,Very Satisfied,Near
+EMP0982,50,Female,Operations,Logistics Officer,0,58312.89,3,3,Yes,27,4,1,1,Yes,Senior,Mid,Satisfied,Mid
+EMP0983,43,Female,IT,Data Analyst,11,141450.63,1,3,No,56,0,2,4,Yes,Adult,High,Very Dissatisfied,Far
+EMP0984,47,Female,HR,Recruiter,6,114662.12,1,2,No,25,5,0,4,No,Senior,High,Very Dissatisfied,Mid
+EMP0985,49,Female,Sales,Sales Manager,3,161945.34,4,3,No,29,5,0,1,No,Senior,High,Very Satisfied,Mid
+EMP0986,42,Female,Sales,Sales Manager,9,238057.74,4,1,No,28,3,0,1,No,Adult,Executive,Very Satisfied,Mid
+EMP0987,28,Male,Sales,Sales Representative,12,107091.48,2,3,No,16,6,3,3,No,Young Adult,High,Dissatisfied,Mid
+EMP0988,38,Male,IT,System Admin,1,65644.9,4,1,No,54,6,1,4,Yes,Adult,Mid,Very Satisfied,Far
+EMP0989,41,Male,IT,System Admin,9,47924.12,4,4,No,53,8,5,4,No,Adult,Low,Very Satisfied,Far
+EMP0990,41,Male,Finance,Accountant,20,68231.48,3,4,Yes,12,0,1,1,No,Adult,Mid,Satisfied,Mid
+EMP0991,43,Female,Sales,Sales Representative,3,64699.73,1,2,No,20,4,1,3,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0992,49,Female,Finance,Accountant,17,112387.46,4,2,Yes,18,9,2,3,Yes,Senior,High,Very Satisfied,Mid
+EMP0993,28,Female,IT,System Admin,4,98574.09,2,4,No,34,2,3,1,No,Young Adult,Mid,Dissatisfied,Far
+EMP0994,22,Male,Sales,Sales Representative,18,75460.4,4,3,No,55,6,0,1,Yes,Youth,Mid,Very Satisfied,Far
+EMP0995,53,Female,IT,Data Analyst,1,198604.47,1,3,No,53,3,2,4,No,Senior,High,Very Dissatisfied,Far
+EMP0996,34,Female,Sales,Sales Representative,11,71874.98,4,3,Yes,23,3,5,1,No,Young Adult,Mid,Very Satisfied,Mid
+EMP0997,51,Female,HR,HR Executive,16,35241.4,3,4,No,45,0,1,2,No,Senior,Low,Satisfied,Far
+EMP0998,44,Female,IT,Software Engineer,9,53604.69,1,1,Yes,27,0,6,3,No,Adult,Mid,Very Dissatisfied,Mid
+EMP0999,40,Male,Sales,Sales Executive,1,69246.34,4,2,Yes,49,9,0,1,No,Adult,Mid,Very Satisfied,Far
+EMP1000,53,Male,Sales,Sales Executive,5,44121.24,3,1,Yes,17,1,3,2,No,Senior,Low,Satisfied,Mid
+EMP1001,51,Male,IT,Software Engineer,7,115280.86,1,4,No,48,1,4,3,No,Senior,High,Very Dissatisfied,Far
+EMP1002,50,Male,Operations,Logistics Officer,18,99016.4,4,1,No,21,0,1,2,Yes,Senior,Mid,Very Satisfied,Mid
+EMP1003,50,Male,IT,Data Analyst,10,112194.46,3,3,No,50,7,1,2,Yes,Senior,High,Satisfied,Far
+EMP1004,51,Female,Finance,Finance Manager,11,297701.13,2,3,No,40,5,1,1,No,Senior,Executive,Dissatisfied,Far
+EMP1005,37,Female,HR,HR Manager,8,330362.29,3,1,No,31,5,1,3,Yes,Adult,Executive,Satisfied,Far
+EMP1006,40,Female,Operations,Operations Manager,1,385319.73,2,4,No,3,9,0,2,No,Adult,Executive,Dissatisfied,Near
+EMP1007,39,Female,Finance,Financial Analyst,7,185796.24,4,1,No,17,9,3,4,No,Adult,High,Very Satisfied,Mid
+EMP1008,22,Male,HR,Recruiter,10,76367.3,3,3,No,50,8,2,3,No,Youth,Mid,Satisfied,Far
+EMP1009,35,Female,HR,Recruiter,20,99718.74,2,3,No,58,4,0,4,No,Young Adult,Mid,Dissatisfied,Far
+EMP1010,23,Male,Operations,Operations Executive,3,80593.03,1,4,No,26,3,3,1,No,Youth,Mid,Very Dissatisfied,Mid
+EMP1011,49,Male,IT,Data Analyst,9,146324.47,3,1,No,23,5,2,4,No,Senior,High,Satisfied,Mid
+EMP1012,51,Male,IT,IT Support,20,40326.78,4,3,No,6,7,1,3,No,Senior,Low,Very Satisfied,Near
+EMP1013,59,Male,Sales,Sales Representative,19,41352.39,1,3,Yes,28,0,3,2,Yes,Senior,Low,Very Dissatisfied,Mid
+EMP1014,25,Male,Finance,Financial Analyst,15,143544.03,2,1,Yes,8,6,1,2,Yes,Youth,High,Dissatisfied,Near
+EMP1015,22,Male,Finance,Finance Manager,7,217215.39,3,1,No,55,7,6,3,Yes,Youth,Executive,Satisfied,Far
+EMP1016,29,Male,Sales,Sales Manager,3,155259.23,3,2,Yes,58,8,3,2,Yes,Young Adult,High,Satisfied,Far
+EMP1017,50,Female,HR,HR Manager,9,330709.8,4,4,Yes,45,7,5,4,Yes,Senior,Executive,Very Satisfied,Far
+EMP1018,24,Male,IT,System Admin,11,32923.79,1,4,No,8,6,4,2,No,Youth,Low,Very Dissatisfied,Near
+EMP1019,53,Male,Sales,Sales Manager,13,298819.21,3,1,Yes,19,2,1,2,No,Senior,Executive,Satisfied,Mid
+EMP1020,31,Male,Operations,Operations Executive,15,78527.44,3,4,No,38,1,1,4,No,Young Adult,Mid,Satisfied,Far
+EMP1021,31,Female,Sales,Sales Manager,17,392203.67,1,3,No,29,2,1,4,No,Young Adult,Executive,Very Dissatisfied,Mid
+EMP1022,40,Male,Sales,Sales Manager,20,271053.28,3,1,No,23,3,5,4,Yes,Adult,Executive,Satisfied,Mid
+EMP1023,55,Male,HR,Recruiter,20,35724.13,1,1,Yes,47,3,0,1,Yes,Senior,Low,Very Dissatisfied,Far
+EMP1024,54,Male,Finance,Accountant,11,79651.92,1,1,Yes,32,5,2,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP1025,44,Male,Sales,Sales Executive,17,105698.66,1,2,No,10,6,1,4,Yes,Adult,High,Very Dissatisfied,Near
+EMP1026,49,Male,HR,HR Executive,6,119716.44,4,4,Yes,27,3,1,1,No,Senior,High,Very Satisfied,Mid
+EMP1027,53,Male,IT,System Admin,19,68730.89,1,2,Yes,49,9,0,2,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1028,28,Male,Sales,Sales Representative,6,58826.89,1,3,Yes,1,5,0,4,No,Young Adult,Mid,Very Dissatisfied,Near
+EMP1029,50,Male,Sales,Sales Manager,8,376663.32,2,4,Yes,39,8,4,3,Yes,Senior,Executive,Dissatisfied,Far
+EMP1030,29,Male,HR,HR Executive,0,47211.79,2,2,Yes,29,5,3,4,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP1031,22,Female,Sales,Sales Representative,5,85388.6,4,1,No,59,2,1,4,No,Youth,Mid,Very Satisfied,Far
+EMP1032,24,Female,Operations,Operations Executive,5,66514.3,1,2,Yes,45,0,3,1,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP1033,45,Male,Finance,Finance Manager,11,160270.59,2,1,Yes,3,9,6,3,Yes,Adult,High,Dissatisfied,Near
+EMP1034,44,Male,Operations,Operations Manager,11,236822.12,2,2,No,51,9,0,2,No,Adult,Executive,Dissatisfied,Far
+EMP1035,29,Female,Sales,Sales Manager,9,216307.13,3,2,No,47,4,0,2,No,Young Adult,Executive,Satisfied,Far
+EMP1036,58,Male,Operations,Operations Manager,5,321522.79,1,2,Yes,37,9,4,3,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP1037,24,Male,IT,Data Analyst,16,193854.86,2,1,Yes,31,9,2,4,Yes,Youth,High,Dissatisfied,Far
+EMP1038,54,Female,IT,Data Analyst,18,112165.66,4,2,No,11,2,5,1,No,Senior,High,Very Satisfied,Mid
+EMP1039,49,Male,Sales,Sales Manager,17,352866.48,3,4,No,22,7,5,3,No,Senior,Executive,Satisfied,Mid
+EMP1040,29,Male,Sales,Sales Executive,5,34982.38,3,4,No,18,9,5,3,Yes,Young Adult,Low,Satisfied,Mid
+EMP1041,55,Male,HR,HR Executive,18,78430.89,1,4,No,35,0,0,2,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1042,56,Female,IT,Software Engineer,9,36349.51,1,1,Yes,6,1,1,1,No,Senior,Low,Very Dissatisfied,Near
+EMP1043,53,Male,Sales,Sales Representative,7,114062.97,3,1,No,3,2,4,3,No,Senior,High,Satisfied,Near
+EMP1044,45,Female,HR,Recruiter,20,98971.62,4,4,Yes,5,2,2,1,Yes,Adult,Mid,Very Satisfied,Near
+EMP1045,35,Female,Sales,Sales Manager,5,314487.48,1,4,No,9,7,6,4,No,Young Adult,Executive,Very Dissatisfied,Near
+EMP1046,53,Male,HR,HR Executive,20,104150.67,1,4,No,28,4,5,2,No,Senior,High,Very Dissatisfied,Mid
+EMP1047,37,Male,IT,Software Engineer,6,88276.78,3,3,No,19,7,4,4,No,Adult,Mid,Satisfied,Mid
+EMP1048,25,Male,Finance,Accountant,0,117205.0,3,4,Yes,28,5,0,1,No,Youth,High,Satisfied,Mid
+EMP1049,58,Male,Finance,Finance Manager,17,328489.49,1,2,Yes,27,1,5,4,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP1050,42,Male,IT,Data Analyst,19,190959.03,2,3,No,13,3,2,2,No,Adult,High,Dissatisfied,Mid
+EMP1051,35,Female,IT,System Admin,11,76541.87,1,3,No,38,8,6,1,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1052,52,Female,IT,System Admin,15,40535.8,2,1,No,43,3,3,3,Yes,Senior,Low,Dissatisfied,Far
+EMP1053,39,Female,Finance,Accountant,9,77535.99,3,2,Yes,53,4,6,4,No,Adult,Mid,Satisfied,Far
+EMP1054,28,Male,IT,IT Support,9,41418.55,2,1,Yes,21,4,2,2,Yes,Young Adult,Low,Dissatisfied,Mid
+EMP1055,31,Female,Sales,Sales Manager,13,298123.37,4,1,No,27,9,6,3,Yes,Young Adult,Executive,Very Satisfied,Mid
+EMP1056,28,Female,Sales,Sales Representative,19,73424.38,3,2,Yes,46,7,1,2,No,Young Adult,Mid,Satisfied,Far
+EMP1057,54,Female,IT,IT Support,9,86031.79,1,1,No,6,5,5,1,No,Senior,Mid,Very Dissatisfied,Near
+EMP1058,44,Male,IT,Data Analyst,9,81205.64,1,2,No,38,9,5,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP1059,42,Female,Finance,Financial Analyst,10,103380.86,3,2,No,49,6,3,4,No,Adult,High,Satisfied,Far
+EMP1060,40,Male,Sales,Sales Representative,1,74219.74,3,1,No,11,5,6,2,Yes,Adult,Mid,Satisfied,Mid
+EMP1061,40,Male,IT,System Admin,19,115545.32,4,4,No,47,4,3,2,No,Adult,High,Very Satisfied,Far
+EMP1062,57,Male,Finance,Accountant,7,64524.81,3,1,Yes,41,4,6,2,No,Senior,Mid,Satisfied,Far
+EMP1063,50,Female,Finance,Accountant,6,68193.48,1,3,No,53,2,5,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP1064,39,Female,IT,IT Support,7,94322.65,4,1,Yes,17,6,1,4,Yes,Adult,Mid,Very Satisfied,Mid
+EMP1065,23,Male,IT,IT Support,0,84341.35,1,2,No,56,9,6,2,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP1066,22,Male,IT,Data Analyst,20,115871.14,2,3,Yes,39,4,3,2,No,Youth,High,Dissatisfied,Far
+EMP1067,26,Male,Operations,Logistics Officer,1,66973.48,3,2,No,7,6,0,3,No,Young Adult,Mid,Satisfied,Near
+EMP1068,41,Male,Sales,Sales Executive,17,49592.98,2,4,Yes,30,1,5,2,Yes,Adult,Low,Dissatisfied,Mid
+EMP1069,32,Male,Operations,Logistics Officer,14,116941.93,1,4,Yes,21,8,2,4,Yes,Young Adult,High,Very Dissatisfied,Mid
+EMP1070,23,Male,HR,HR Executive,0,41757.09,2,3,No,1,7,2,3,Yes,Youth,Low,Dissatisfied,Near
+EMP1071,24,Female,IT,Software Engineer,4,63465.31,2,4,Yes,25,4,1,3,Yes,Youth,Mid,Dissatisfied,Mid
+EMP1072,44,Male,Sales,Sales Executive,1,32325.51,1,4,No,32,1,0,3,No,Adult,Low,Very Dissatisfied,Far
+EMP1073,33,Male,IT,Software Engineer,19,49960.15,1,1,No,59,5,3,1,Yes,Young Adult,Low,Very Dissatisfied,Far
+EMP1074,41,Male,IT,System Admin,2,100242.4,3,1,Yes,57,7,6,3,No,Adult,High,Satisfied,Far
+EMP1075,26,Female,Sales,Sales Executive,18,48105.77,2,4,No,8,6,5,2,Yes,Young Adult,Low,Dissatisfied,Near
+EMP1076,58,Female,HR,Recruiter,17,37205.71,4,4,Yes,5,7,2,1,No,Senior,Low,Very Satisfied,Near
+EMP1077,59,Female,Operations,Operations Manager,17,268613.29,4,1,Yes,30,3,2,1,Yes,Senior,Executive,Very Satisfied,Mid
+EMP1078,51,Male,HR,HR Executive,13,30897.23,1,4,No,51,2,2,1,No,Senior,Low,Very Dissatisfied,Far
+EMP1079,30,Female,Finance,Finance Manager,7,171191.54,1,4,No,8,6,2,1,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP1080,55,Male,Sales,Sales Manager,11,351906.47,2,2,Yes,49,1,4,1,No,Senior,Executive,Dissatisfied,Far
+EMP1081,56,Female,IT,Data Analyst,20,172576.8,1,4,No,19,4,1,1,No,Senior,High,Very Dissatisfied,Mid
+EMP1082,43,Female,Sales,Sales Manager,9,378784.71,4,3,No,44,6,3,1,No,Adult,Executive,Very Satisfied,Far
+EMP1083,45,Female,HR,HR Executive,19,106906.39,3,2,No,59,0,5,3,No,Adult,High,Satisfied,Far
+EMP1084,38,Female,Operations,Operations Executive,16,91485.8,3,3,Yes,55,3,5,4,No,Adult,Mid,Satisfied,Far
+EMP1085,31,Female,HR,HR Manager,10,163083.21,2,4,No,30,1,5,2,No,Young Adult,High,Dissatisfied,Mid
+EMP1086,51,Male,Sales,Sales Manager,1,345712.15,3,1,No,15,5,3,2,No,Senior,Executive,Satisfied,Mid
+EMP1087,44,Female,IT,IT Support,3,106095.97,1,2,No,36,0,1,3,No,Adult,High,Very Dissatisfied,Far
+EMP1088,53,Male,HR,HR Executive,0,101917.39,1,1,No,55,6,0,3,Yes,Senior,High,Very Dissatisfied,Far
+EMP1089,38,Male,IT,IT Support,14,75763.11,1,2,No,44,2,6,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP1090,38,Male,Finance,Finance Manager,12,208225.46,1,1,Yes,27,0,6,4,Yes,Adult,Executive,Very Dissatisfied,Mid
+EMP1091,35,Male,Finance,Finance Manager,7,361332.49,2,2,No,13,7,1,1,Yes,Young Adult,Executive,Dissatisfied,Mid
+EMP1092,30,Male,HR,Recruiter,3,95444.65,3,2,No,14,6,2,3,Yes,Young Adult,Mid,Satisfied,Mid
+EMP1093,23,Male,IT,IT Support,9,118268.51,4,3,Yes,37,1,6,1,Yes,Youth,High,Very Satisfied,Far
+EMP1094,46,Male,Sales,Sales Executive,18,44012.33,3,1,No,54,6,2,2,No,Senior,Low,Satisfied,Far
+EMP1095,30,Female,Sales,Sales Manager,17,206416.15,1,3,No,48,2,1,2,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP1096,43,Male,IT,System Admin,4,49061.83,4,3,No,30,8,1,1,No,Adult,Low,Very Satisfied,Mid
+EMP1097,25,Male,IT,Data Analyst,18,175104.77,2,1,No,39,7,3,4,No,Youth,High,Dissatisfied,Far
+EMP1098,47,Female,HR,Recruiter,15,46821.66,1,2,Yes,47,4,3,1,Yes,Senior,Low,Very Dissatisfied,Far
+EMP1099,50,Male,HR,HR Executive,0,35999.38,1,3,No,13,6,4,1,No,Senior,Low,Very Dissatisfied,Mid
+EMP1100,55,Female,Sales,Sales Executive,11,119870.47,4,1,No,58,2,5,4,No,Senior,High,Very Satisfied,Far
+EMP1101,44,Female,IT,Data Analyst,1,82978.07,2,2,No,16,0,4,4,No,Adult,Mid,Dissatisfied,Mid
+EMP1102,58,Female,Sales,Sales Representative,20,105171.97,4,3,No,44,0,5,4,No,Senior,High,Very Satisfied,Far
+EMP1103,32,Female,Sales,Sales Manager,7,241341.71,2,3,No,7,1,2,2,No,Young Adult,Executive,Dissatisfied,Near
+EMP1104,27,Male,Finance,Finance Manager,17,360403.86,1,3,No,48,7,4,1,Yes,Young Adult,Executive,Very Dissatisfied,Far
+EMP1105,39,Female,Sales,Sales Representative,15,79915.84,3,2,No,55,0,4,3,No,Adult,Mid,Satisfied,Far
+EMP1106,42,Male,IT,System Admin,4,111146.81,1,3,No,55,4,0,4,Yes,Adult,High,Very Dissatisfied,Far
+EMP1107,57,Male,Sales,Sales Executive,12,113357.37,3,2,No,27,8,1,4,No,Senior,High,Satisfied,Mid
+EMP1108,59,Female,Operations,Operations Executive,18,30818.84,3,4,No,45,8,3,1,No,Senior,Low,Satisfied,Far
+EMP1109,55,Male,HR,Recruiter,2,36787.1,2,3,Yes,55,1,4,3,Yes,Senior,Low,Dissatisfied,Far
+EMP1110,38,Female,Sales,Sales Manager,7,212589.68,4,4,Yes,35,6,3,1,No,Adult,Executive,Very Satisfied,Far
+EMP1111,58,Female,IT,Data Analyst,11,160317.85,2,1,No,15,0,5,1,No,Senior,High,Dissatisfied,Mid
+EMP1112,46,Female,Finance,Financial Analyst,1,186592.66,1,3,Yes,28,2,4,4,Yes,Senior,High,Very Dissatisfied,Mid
+EMP1113,59,Female,Operations,Logistics Officer,10,71394.78,4,1,No,35,5,5,4,No,Senior,Mid,Very Satisfied,Far
+EMP1114,33,Male,Sales,Sales Representative,11,84627.58,3,1,Yes,7,8,4,2,No,Young Adult,Mid,Satisfied,Near
+EMP1115,44,Male,Operations,Operations Executive,17,46964.99,3,1,No,50,9,6,3,No,Adult,Low,Satisfied,Far
+EMP1116,43,Female,Operations,Operations Executive,12,102447.02,1,4,Yes,46,1,2,3,Yes,Adult,High,Very Dissatisfied,Far
+EMP1117,42,Male,Operations,Operations Executive,4,117059.53,4,2,Yes,50,6,0,4,Yes,Adult,High,Very Satisfied,Far
+EMP1118,48,Female,HR,HR Manager,11,217149.73,1,4,No,51,3,5,4,No,Senior,Executive,Very Dissatisfied,Far
+EMP1119,52,Female,HR,Recruiter,1,74534.34,1,4,No,46,1,1,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1120,27,Female,IT,IT Support,4,37750.45,2,1,No,20,2,1,3,No,Young Adult,Low,Dissatisfied,Mid
+EMP1121,48,Male,Finance,Finance Manager,6,289784.16,1,3,No,32,5,2,2,No,Senior,Executive,Very Dissatisfied,Far
+EMP1122,55,Male,IT,System Admin,11,75250.51,4,2,No,38,9,2,3,Yes,Senior,Mid,Very Satisfied,Far
+EMP1123,33,Male,HR,HR Manager,15,186109.12,1,1,Yes,40,8,6,4,No,Young Adult,High,Very Dissatisfied,Far
+EMP1124,28,Male,IT,System Admin,7,69785.96,4,2,No,32,7,1,4,No,Young Adult,Mid,Very Satisfied,Far
+EMP1125,31,Female,Finance,Accountant,8,60069.42,3,4,No,26,9,5,2,Yes,Young Adult,Mid,Satisfied,Mid
+EMP1126,38,Male,Finance,Financial Analyst,14,142619.71,1,2,No,58,8,1,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP1127,47,Male,Sales,Sales Representative,4,82708.89,4,2,Yes,39,3,0,1,No,Senior,Mid,Very Satisfied,Far
+EMP1128,42,Male,Finance,Financial Analyst,12,81019.47,3,3,No,20,3,4,3,No,Adult,Mid,Satisfied,Mid
+EMP1129,49,Female,IT,System Admin,4,98490.54,4,1,Yes,18,8,0,1,No,Senior,Mid,Very Satisfied,Mid
+EMP1130,23,Female,Finance,Financial Analyst,10,165561.72,3,2,No,50,7,6,1,No,Youth,High,Satisfied,Far
+EMP1131,22,Male,IT,IT Support,9,62965.77,2,2,No,15,1,6,3,No,Youth,Mid,Dissatisfied,Mid
+EMP1132,57,Male,IT,System Admin,19,34764.23,1,4,Yes,52,7,1,4,No,Senior,Low,Very Dissatisfied,Far
+EMP1133,47,Male,Operations,Operations Manager,12,338733.13,1,4,No,22,0,4,1,No,Senior,Executive,Very Dissatisfied,Mid
+EMP1134,50,Male,Sales,Sales Executive,8,115965.76,3,2,Yes,51,8,1,4,No,Senior,High,Satisfied,Far
+EMP1135,42,Female,Finance,Finance Manager,20,210037.9,2,1,No,22,8,0,3,Yes,Adult,Executive,Dissatisfied,Mid
+EMP1136,32,Female,IT,Data Analyst,13,118822.95,4,2,Yes,53,7,0,4,No,Young Adult,High,Very Satisfied,Far
+EMP1137,32,Male,IT,Software Engineer,17,46543.16,2,2,No,21,4,5,4,No,Young Adult,Low,Dissatisfied,Mid
+EMP1138,57,Male,IT,System Admin,14,81924.25,4,3,Yes,2,4,5,3,No,Senior,Mid,Very Satisfied,Near
+EMP1139,56,Female,HR,HR Manager,9,188710.35,4,1,No,40,2,0,4,No,Senior,High,Very Satisfied,Far
+EMP1140,55,Male,IT,System Admin,6,62057.45,1,3,No,53,4,4,1,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1141,45,Female,Sales,Sales Executive,7,92731.17,3,1,No,43,3,6,1,No,Adult,Mid,Satisfied,Far
+EMP1142,43,Male,Sales,Sales Representative,2,80410.44,1,1,Yes,18,0,5,1,Yes,Adult,Mid,Very Dissatisfied,Mid
+EMP1143,26,Male,Sales,Sales Executive,14,64781.63,1,1,No,23,8,5,1,No,Young Adult,Mid,Very Dissatisfied,Mid
+EMP1144,54,Male,Operations,Operations Executive,15,67822.46,1,3,Yes,13,9,3,4,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP1145,57,Male,Operations,Logistics Officer,3,80589.98,4,3,No,41,3,3,1,No,Senior,Mid,Very Satisfied,Far
+EMP1146,41,Female,IT,IT Support,20,30527.83,1,3,Yes,9,2,5,4,No,Adult,Low,Very Dissatisfied,Near
+EMP1147,40,Male,Finance,Accountant,5,37065.89,4,4,No,49,5,1,2,No,Adult,Low,Very Satisfied,Far
+EMP1148,56,Male,IT,System Admin,0,109313.23,3,3,Yes,7,0,4,4,Yes,Senior,High,Satisfied,Near
+EMP1149,38,Male,HR,HR Executive,3,37009.11,4,4,Yes,41,4,2,1,No,Adult,Low,Very Satisfied,Far
+EMP1150,55,Male,Finance,Financial Analyst,10,164816.43,4,4,Yes,54,6,5,2,No,Senior,High,Very Satisfied,Far
+EMP1151,30,Male,Operations,Logistics Officer,11,112803.43,2,4,No,1,1,3,3,No,Young Adult,High,Dissatisfied,Near
+EMP1152,47,Male,IT,System Admin,4,54361.52,1,2,Yes,2,9,4,4,Yes,Senior,Mid,Very Dissatisfied,Near
+EMP1153,23,Female,Finance,Finance Manager,20,242622.86,1,2,No,4,8,4,1,No,Youth,Executive,Very Dissatisfied,Near
+EMP1154,30,Male,Sales,Sales Executive,15,81202.93,1,2,No,14,5,3,1,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP1155,30,Male,Operations,Operations Executive,12,109353.81,1,4,No,32,1,4,1,No,Young Adult,High,Very Dissatisfied,Far
+EMP1156,38,Female,Sales,Sales Representative,12,114771.5,2,4,No,36,7,4,3,Yes,Adult,High,Dissatisfied,Far
+EMP1157,22,Male,HR,Recruiter,16,96560.69,2,1,Yes,2,7,3,2,Yes,Youth,Mid,Dissatisfied,Near
+EMP1158,46,Female,HR,HR Executive,6,37795.78,2,4,No,40,0,0,2,No,Senior,Low,Dissatisfied,Far
+EMP1159,46,Male,HR,HR Executive,7,90223.87,2,2,Yes,50,0,5,1,Yes,Senior,Mid,Dissatisfied,Far
+EMP1160,56,Female,Sales,Sales Representative,12,66927.33,1,4,No,51,0,1,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP1161,24,Female,Operations,Logistics Officer,15,72363.09,4,4,Yes,14,3,2,1,No,Youth,Mid,Very Satisfied,Mid
+EMP1162,58,Female,Sales,Sales Manager,3,162287.1,3,1,No,20,3,1,1,Yes,Senior,High,Satisfied,Mid
+EMP1163,51,Female,HR,Recruiter,7,47195.59,2,4,No,25,7,0,4,No,Senior,Low,Dissatisfied,Mid
+EMP1164,59,Male,Sales,Sales Executive,15,101146.22,4,3,No,42,0,6,1,Yes,Senior,High,Very Satisfied,Far
+EMP1165,55,Female,IT,Software Engineer,20,70856.29,2,1,Yes,49,9,0,3,Yes,Senior,Mid,Dissatisfied,Far
+EMP1166,33,Male,IT,IT Support,9,57149.6,1,4,No,8,2,4,1,Yes,Young Adult,Mid,Very Dissatisfied,Near
+EMP1167,40,Male,IT,Data Analyst,11,126082.29,1,4,Yes,28,0,1,3,No,Adult,High,Very Dissatisfied,Mid
+EMP1168,58,Male,Sales,Sales Executive,11,106895.96,4,1,No,46,8,0,1,No,Senior,High,Very Satisfied,Far
+EMP1169,38,Male,Sales,Sales Representative,4,97409.91,4,4,No,21,9,1,2,No,Adult,Mid,Very Satisfied,Mid
+EMP1170,31,Male,IT,Software Engineer,15,54508.39,4,2,No,23,8,0,4,No,Young Adult,Mid,Very Satisfied,Mid
+EMP1171,33,Female,Finance,Financial Analyst,0,94100.22,1,3,No,32,6,2,2,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1172,37,Male,Operations,Operations Manager,8,212999.56,1,3,No,8,7,0,1,No,Adult,Executive,Very Dissatisfied,Near
+EMP1173,45,Female,Sales,Sales Representative,11,112868.08,3,2,No,31,0,1,1,Yes,Adult,High,Satisfied,Far
+EMP1174,40,Female,IT,Software Engineer,4,82343.0,4,4,No,37,4,4,3,No,Adult,Mid,Very Satisfied,Far
+EMP1175,29,Male,Sales,Sales Manager,19,283370.05,3,4,No,16,1,1,1,Yes,Young Adult,Executive,Satisfied,Mid
+EMP1176,52,Male,Sales,Sales Executive,2,83675.42,2,3,No,40,0,3,1,No,Senior,Mid,Dissatisfied,Far
+EMP1177,42,Male,HR,Recruiter,4,62942.54,3,4,Yes,42,2,1,1,No,Adult,Mid,Satisfied,Far
+EMP1178,38,Male,HR,HR Executive,1,102639.63,2,3,No,27,6,2,2,No,Adult,High,Dissatisfied,Mid
+EMP1179,44,Male,Sales,Sales Executive,13,77095.76,2,3,No,40,0,5,3,No,Adult,Mid,Dissatisfied,Far
+EMP1180,58,Male,Sales,Sales Executive,1,40507.31,3,2,Yes,41,1,2,2,No,Senior,Low,Satisfied,Far
+EMP1181,37,Male,Sales,Sales Manager,12,182266.28,4,3,No,18,1,2,3,No,Adult,High,Very Satisfied,Mid
+EMP1182,27,Female,Finance,Accountant,6,78317.32,2,4,No,35,3,0,2,No,Young Adult,Mid,Dissatisfied,Far
+EMP1183,29,Female,Operations,Operations Executive,9,114291.32,4,4,Yes,49,2,2,1,No,Young Adult,High,Very Satisfied,Far
+EMP1184,46,Male,Sales,Sales Manager,12,227088.03,1,1,No,52,2,1,2,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP1185,39,Female,Sales,Sales Manager,15,367385.29,2,4,No,15,9,5,2,No,Adult,Executive,Dissatisfied,Mid
+EMP1186,46,Male,Operations,Operations Executive,13,98768.6,1,1,No,53,4,6,3,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1187,33,Male,Operations,Operations Manager,10,211953.11,3,3,No,27,2,4,3,No,Young Adult,Executive,Satisfied,Mid
+EMP1188,36,Female,IT,IT Support,9,33270.67,4,4,No,17,6,6,2,Yes,Adult,Low,Very Satisfied,Mid
+EMP1189,47,Male,Sales,Sales Representative,5,39166.25,3,2,Yes,40,4,2,3,No,Senior,Low,Satisfied,Far
+EMP1190,47,Male,Sales,Sales Manager,3,332123.48,2,2,No,2,3,1,3,No,Senior,Executive,Dissatisfied,Near
+EMP1191,53,Female,HR,Recruiter,20,47970.28,1,2,No,49,2,0,3,Yes,Senior,Low,Very Dissatisfied,Far
+EMP1192,31,Female,IT,IT Support,0,63414.38,2,3,No,50,3,0,4,No,Young Adult,Mid,Dissatisfied,Far
+EMP1193,37,Female,Sales,Sales Executive,6,75152.92,3,3,No,31,1,4,3,No,Adult,Mid,Satisfied,Far
+EMP1194,28,Female,HR,HR Manager,8,331367.04,4,1,No,37,0,4,4,No,Young Adult,Executive,Very Satisfied,Far
+EMP1195,38,Female,Sales,Sales Executive,7,40190.81,4,2,No,41,2,1,4,No,Adult,Low,Very Satisfied,Far
+EMP1196,44,Male,Finance,Finance Manager,4,251591.6,2,1,No,41,1,4,3,No,Adult,Executive,Dissatisfied,Far
+EMP1197,47,Male,IT,System Admin,18,73656.56,2,1,No,34,0,4,2,No,Senior,Mid,Dissatisfied,Far
+EMP1198,42,Male,Sales,Sales Representative,9,78674.44,1,4,No,34,0,0,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP1199,43,Male,HR,Recruiter,10,103652.46,3,4,No,51,1,1,1,Yes,Adult,High,Satisfied,Far
+EMP1200,28,Male,IT,IT Support,14,45451.04,2,2,No,55,8,5,2,Yes,Young Adult,Low,Dissatisfied,Far
+EMP1201,35,Male,Operations,Operations Executive,5,102704.83,1,3,Yes,59,4,4,4,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP1202,36,Female,IT,IT Support,14,92359.06,2,4,No,3,8,1,4,No,Adult,Mid,Dissatisfied,Near
+EMP1203,28,Female,Sales,Sales Executive,4,80028.37,4,3,No,17,7,2,2,No,Young Adult,Mid,Very Satisfied,Mid
+EMP1204,30,Female,Finance,Financial Analyst,18,163943.34,1,1,No,14,5,0,2,No,Young Adult,High,Very Dissatisfied,Mid
+EMP1205,29,Male,Sales,Sales Representative,18,67081.6,1,1,No,14,0,5,3,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP1206,44,Female,Operations,Operations Executive,9,42455.78,2,1,No,46,9,0,4,No,Adult,Low,Dissatisfied,Far
+EMP1207,50,Male,IT,System Admin,11,89918.87,3,1,Yes,38,4,0,1,No,Senior,Mid,Satisfied,Far
+EMP1208,39,Female,IT,Data Analyst,3,142960.68,4,2,No,35,0,3,3,No,Adult,High,Very Satisfied,Far
+EMP1209,52,Male,Sales,Sales Representative,17,87543.73,3,1,No,1,6,1,2,No,Senior,Mid,Satisfied,Near
+EMP1210,51,Female,IT,Software Engineer,15,60419.89,1,4,Yes,48,9,2,4,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1211,56,Male,Finance,Financial Analyst,7,188823.99,3,1,Yes,29,7,4,2,Yes,Senior,High,Satisfied,Mid
+EMP1212,39,Female,Finance,Financial Analyst,3,150484.38,1,3,No,4,7,2,2,Yes,Adult,High,Very Dissatisfied,Near
+EMP1213,38,Female,Sales,Sales Representative,11,37686.22,3,4,No,33,6,1,2,Yes,Adult,Low,Satisfied,Far
+EMP1214,35,Male,Sales,Sales Representative,1,70482.36,2,3,No,17,1,0,3,No,Young Adult,Mid,Dissatisfied,Mid
+EMP1215,52,Male,Finance,Accountant,3,98072.04,3,3,No,28,4,3,1,No,Senior,Mid,Satisfied,Mid
+EMP1216,45,Female,Operations,Operations Manager,4,348533.64,1,2,No,50,3,1,1,No,Adult,Executive,Very Dissatisfied,Far
+EMP1217,56,Male,Sales,Sales Manager,2,273649.26,4,2,No,26,4,5,4,No,Senior,Executive,Very Satisfied,Mid
+EMP1218,55,Female,IT,Data Analyst,8,187369.71,4,3,No,8,9,5,2,No,Senior,High,Very Satisfied,Near
+EMP1219,24,Female,IT,Data Analyst,20,112120.21,4,3,Yes,34,8,1,1,No,Youth,High,Very Satisfied,Far
+EMP1220,58,Male,Operations,Logistics Officer,17,66953.88,1,1,No,59,3,4,2,No,Senior,Mid,Very Dissatisfied,Far
+EMP1221,47,Male,Sales,Sales Manager,10,374649.23,3,4,No,18,7,2,4,Yes,Senior,Executive,Satisfied,Mid
+EMP1222,44,Male,Sales,Sales Representative,2,110663.1,4,1,No,31,7,2,2,Yes,Adult,High,Very Satisfied,Far
+EMP1223,36,Female,Finance,Financial Analyst,1,162285.53,4,2,No,59,1,4,1,No,Adult,High,Very Satisfied,Far
+EMP1224,25,Male,Sales,Sales Manager,8,364745.14,4,2,No,27,5,3,2,No,Youth,Executive,Very Satisfied,Mid
+EMP1225,50,Male,IT,Data Analyst,13,90652.79,2,1,Yes,16,4,0,1,Yes,Senior,Mid,Dissatisfied,Mid
+EMP1226,43,Male,IT,IT Support,3,107849.55,1,4,Yes,58,1,6,4,Yes,Adult,High,Very Dissatisfied,Far
+EMP1227,46,Female,IT,System Admin,8,58855.79,1,3,Yes,10,9,6,2,No,Senior,Mid,Very Dissatisfied,Near
+EMP1228,34,Female,IT,System Admin,12,46049.84,1,1,Yes,40,3,0,1,No,Young Adult,Low,Very Dissatisfied,Far
+EMP1229,39,Female,IT,Software Engineer,17,51543.29,1,2,No,12,6,5,4,Yes,Adult,Mid,Very Dissatisfied,Mid
+EMP1230,54,Male,Sales,Sales Executive,14,67617.17,1,4,Yes,22,0,3,2,No,Senior,Mid,Very Dissatisfied,Mid
+EMP1231,37,Female,HR,HR Executive,9,52607.28,2,2,Yes,16,8,4,4,No,Adult,Mid,Dissatisfied,Mid
+EMP1232,23,Female,Finance,Finance Manager,15,230141.9,3,4,No,12,9,6,1,No,Youth,Executive,Satisfied,Mid
+EMP1233,56,Female,Finance,Financial Analyst,11,96197.42,2,4,No,11,0,1,2,No,Senior,Mid,Dissatisfied,Mid
+EMP1234,55,Female,Sales,Sales Representative,19,56655.91,4,4,Yes,20,4,2,2,Yes,Senior,Mid,Very Satisfied,Mid
+EMP1235,51,Male,Sales,Sales Manager,4,293070.95,2,1,No,51,6,1,2,Yes,Senior,Executive,Dissatisfied,Far
+EMP1236,34,Male,Sales,Sales Representative,1,69766.83,1,1,No,1,7,2,4,Yes,Young Adult,Mid,Very Dissatisfied,Near
+EMP1237,34,Female,IT,Data Analyst,9,121606.25,2,1,Yes,27,1,1,4,No,Young Adult,High,Dissatisfied,Mid
+EMP1238,39,Male,IT,Software Engineer,0,97180.69,1,4,Yes,3,3,4,1,Yes,Adult,Mid,Very Dissatisfied,Near
+EMP1239,53,Female,HR,Recruiter,6,110415.9,2,4,No,12,1,4,3,No,Senior,High,Dissatisfied,Mid
+EMP1240,53,Female,Sales,Sales Manager,16,339197.31,1,2,No,30,3,3,2,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP1241,56,Male,Sales,Sales Manager,15,233000.18,4,3,No,9,5,1,2,No,Senior,Executive,Very Satisfied,Near
+EMP1242,50,Female,IT,Software Engineer,2,96999.8,1,1,Yes,53,5,1,1,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1243,50,Male,HR,Recruiter,13,43678.22,2,4,No,54,1,3,2,No,Senior,Low,Dissatisfied,Far
+EMP1244,37,Male,Sales,Sales Representative,9,41728.62,4,2,No,37,3,3,4,No,Adult,Low,Very Satisfied,Far
+EMP1245,31,Female,HR,Recruiter,6,61106.43,2,2,Yes,1,3,4,4,No,Young Adult,Mid,Dissatisfied,Near
+EMP1246,51,Female,Sales,Sales Executive,16,102693.21,4,2,No,42,0,4,2,No,Senior,High,Very Satisfied,Far
+EMP1247,46,Male,Operations,Logistics Officer,5,52171.34,3,1,No,49,1,5,2,No,Senior,Mid,Satisfied,Far
+EMP1248,41,Male,Operations,Logistics Officer,3,35692.81,3,1,Yes,4,2,1,4,No,Adult,Low,Satisfied,Near
+EMP1249,26,Female,Sales,Sales Manager,16,182927.38,3,3,No,15,4,4,2,Yes,Young Adult,High,Satisfied,Mid
+EMP1250,22,Female,Sales,Sales Manager,8,364686.24,2,2,No,51,7,6,4,No,Youth,Executive,Dissatisfied,Far
+EMP1251,51,Female,IT,IT Support,3,87040.5,2,1,Yes,27,5,4,3,No,Senior,Mid,Dissatisfied,Mid
+EMP1252,24,Male,Sales,Sales Representative,6,52788.1,4,2,No,8,2,1,3,Yes,Youth,Mid,Very Satisfied,Near
+EMP1253,35,Male,HR,HR Executive,1,79976.62,4,4,Yes,23,5,3,2,No,Young Adult,Mid,Very Satisfied,Mid
+EMP1254,51,Male,Finance,Accountant,16,77482.17,4,2,No,15,6,1,2,No,Senior,Mid,Very Satisfied,Mid
+EMP1255,25,Female,HR,Recruiter,7,88989.24,4,3,Yes,27,5,6,2,Yes,Youth,Mid,Very Satisfied,Mid
+EMP1256,39,Male,Finance,Accountant,14,50986.88,1,1,Yes,31,9,0,4,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP1257,58,Male,IT,Data Analyst,14,183728.36,3,4,No,39,5,1,3,No,Senior,High,Satisfied,Far
+EMP1258,46,Female,Sales,Sales Representative,7,57843.17,1,1,No,47,0,0,3,Yes,Senior,Mid,Very Dissatisfied,Far
+EMP1259,22,Male,Finance,Finance Manager,15,323532.91,1,4,No,8,2,1,1,Yes,Youth,Executive,Very Dissatisfied,Near
+EMP1260,36,Female,IT,IT Support,18,31451.22,1,2,No,30,6,6,1,No,Adult,Low,Very Dissatisfied,Mid
+EMP1261,30,Female,HR,Recruiter,10,63539.14,1,2,Yes,58,3,0,2,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP1262,36,Female,Sales,Sales Executive,1,61653.88,3,3,No,55,3,0,4,No,Adult,Mid,Satisfied,Far
+EMP1263,45,Male,Sales,Sales Representative,16,78913.6,1,3,No,42,6,6,2,No,Adult,Mid,Very Dissatisfied,Far
+EMP1264,25,Male,Operations,Logistics Officer,15,36546.26,4,4,Yes,18,8,1,3,No,Youth,Low,Very Satisfied,Mid
+EMP1265,33,Female,Sales,Sales Executive,14,101111.82,2,3,No,4,1,5,2,No,Young Adult,High,Dissatisfied,Near
+EMP1266,58,Female,Operations,Operations Executive,12,49600.27,4,3,No,47,8,4,2,Yes,Senior,Low,Very Satisfied,Far
+EMP1267,58,Female,Operations,Operations Executive,14,90933.4,2,3,No,43,2,2,3,Yes,Senior,Mid,Dissatisfied,Far
+EMP1268,27,Male,Finance,Accountant,3,102289.09,4,3,No,22,5,4,3,No,Young Adult,High,Very Satisfied,Mid
+EMP1269,45,Female,HR,Recruiter,15,80568.93,4,2,Yes,3,3,0,3,No,Adult,Mid,Very Satisfied,Near
+EMP1270,32,Female,HR,HR Executive,11,96679.49,2,3,No,15,0,1,3,No,Young Adult,Mid,Dissatisfied,Mid
+EMP1271,34,Female,Operations,Logistics Officer,3,89567.43,3,2,No,35,8,1,1,No,Young Adult,Mid,Satisfied,Far
+EMP1272,55,Female,Sales,Sales Executive,2,61997.68,1,2,No,47,5,1,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP1273,46,Female,IT,Software Engineer,16,102797.27,4,1,No,38,7,1,4,No,Senior,High,Very Satisfied,Far
+EMP1274,28,Female,HR,HR Executive,17,56523.12,3,2,No,33,1,5,3,No,Young Adult,Mid,Satisfied,Far
+EMP1275,25,Male,IT,Data Analyst,17,148545.55,1,2,No,14,6,2,4,No,Youth,High,Very Dissatisfied,Mid
+EMP1276,29,Male,IT,System Admin,16,97085.8,3,3,No,48,5,3,4,No,Young Adult,Mid,Satisfied,Far
+EMP1277,41,Male,IT,IT Support,11,64106.03,3,2,No,1,1,0,4,No,Adult,Mid,Satisfied,Near
+EMP1278,50,Male,HR,HR Manager,20,225691.9,1,4,No,53,1,2,4,Yes,Senior,Executive,Very Dissatisfied,Far
+EMP1279,31,Male,Operations,Operations Manager,3,264836.5,4,3,No,49,3,4,3,No,Young Adult,Executive,Very Satisfied,Far
+EMP1280,55,Male,Sales,Sales Representative,11,103616.71,3,3,No,26,3,3,2,No,Senior,High,Satisfied,Mid
+EMP1281,47,Male,Operations,Operations Executive,20,113692.96,4,3,Yes,8,2,3,2,No,Senior,High,Very Satisfied,Near
+EMP1282,24,Male,HR,Recruiter,19,79057.51,4,1,No,50,7,1,2,No,Youth,Mid,Very Satisfied,Far
+EMP1283,27,Female,Finance,Finance Manager,14,315366.55,4,3,Yes,16,6,2,1,No,Young Adult,Executive,Very Satisfied,Mid
+EMP1284,26,Female,HR,HR Executive,15,111294.63,1,2,No,38,1,4,4,Yes,Young Adult,High,Very Dissatisfied,Far
+EMP1285,26,Male,Finance,Accountant,4,38869.22,2,4,No,10,2,1,3,No,Young Adult,Low,Dissatisfied,Near
+EMP1286,44,Female,Sales,Sales Manager,20,208019.64,4,3,No,42,9,1,3,No,Adult,Executive,Very Satisfied,Far
+EMP1287,30,Male,Finance,Financial Analyst,14,165068.0,2,3,No,37,8,6,1,Yes,Young Adult,High,Dissatisfied,Far
+EMP1288,56,Male,Sales,Sales Manager,16,355936.12,2,4,No,26,4,6,3,No,Senior,Executive,Dissatisfied,Mid
+EMP1289,41,Male,Operations,Logistics Officer,17,107132.61,3,3,Yes,28,1,6,2,No,Adult,High,Satisfied,Mid
+EMP1290,56,Male,Operations,Operations Executive,4,67359.65,4,1,No,12,2,5,1,No,Senior,Mid,Very Satisfied,Mid
+EMP1291,39,Female,Sales,Sales Executive,12,38040.59,4,2,No,20,7,0,3,No,Adult,Low,Very Satisfied,Mid
+EMP1292,38,Female,Sales,Sales Manager,18,259445.37,4,4,No,49,3,3,1,No,Adult,Executive,Very Satisfied,Far
+EMP1293,45,Male,Finance,Accountant,12,50766.11,2,4,No,14,1,4,1,Yes,Adult,Mid,Dissatisfied,Mid
+EMP1294,24,Male,Sales,Sales Executive,17,56207.68,1,1,No,46,1,3,3,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP1295,53,Male,Operations,Operations Manager,13,343066.89,2,2,No,35,5,2,2,No,Senior,Executive,Dissatisfied,Far
+EMP1296,56,Male,Sales,Sales Representative,3,36797.44,4,1,No,29,7,0,3,Yes,Senior,Low,Very Satisfied,Mid
+EMP1297,59,Male,Sales,Sales Representative,3,104482.31,4,2,No,12,6,1,4,No,Senior,High,Very Satisfied,Mid
+EMP1298,34,Male,Operations,Logistics Officer,19,68490.22,4,1,Yes,52,3,0,4,No,Young Adult,Mid,Very Satisfied,Far
+EMP1299,46,Female,HR,HR Executive,19,83645.75,2,3,No,18,1,1,3,No,Senior,Mid,Dissatisfied,Mid
+EMP1300,30,Female,Finance,Finance Manager,18,172413.06,4,1,No,44,8,6,2,Yes,Young Adult,High,Very Satisfied,Far
+EMP1301,25,Male,IT,Data Analyst,12,120483.09,3,4,Yes,2,3,0,4,No,Youth,High,Satisfied,Near
+EMP1302,35,Female,HR,HR Manager,11,172425.23,4,4,Yes,2,8,1,4,No,Young Adult,High,Very Satisfied,Near
+EMP1303,58,Male,HR,HR Executive,6,116538.94,1,4,No,59,4,3,3,Yes,Senior,High,Very Dissatisfied,Far
+EMP1304,55,Male,HR,HR Manager,11,351815.41,3,1,No,17,6,6,3,No,Senior,Executive,Satisfied,Mid
+EMP1305,32,Male,HR,HR Executive,20,71366.95,4,4,Yes,10,4,6,3,No,Young Adult,Mid,Very Satisfied,Near
+EMP1306,24,Female,HR,Recruiter,3,50124.23,3,4,No,18,1,6,1,No,Youth,Mid,Satisfied,Mid
+EMP1307,49,Female,IT,Software Engineer,1,114010.96,4,3,No,22,5,3,1,No,Senior,High,Very Satisfied,Mid
+EMP1308,50,Female,Sales,Sales Manager,1,236149.15,1,3,Yes,19,6,3,1,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP1309,30,Male,Finance,Financial Analyst,4,99318.13,4,2,Yes,58,5,3,3,No,Young Adult,Mid,Very Satisfied,Far
+EMP1310,24,Female,Sales,Sales Representative,9,80684.79,3,2,No,53,2,6,2,No,Youth,Mid,Satisfied,Far
+EMP1311,46,Male,HR,Recruiter,9,114939.67,1,2,Yes,1,9,0,4,Yes,Senior,High,Very Dissatisfied,Near
+EMP1312,55,Female,Sales,Sales Representative,8,30344.73,2,1,No,24,7,1,1,Yes,Senior,Low,Dissatisfied,Mid
+EMP1313,33,Male,HR,HR Executive,12,51431.24,1,2,No,36,2,3,2,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1314,30,Male,Finance,Finance Manager,6,384611.91,1,1,Yes,25,4,0,3,Yes,Young Adult,Executive,Very Dissatisfied,Mid
+EMP1315,36,Female,Sales,Sales Manager,4,192771.49,1,1,Yes,36,8,1,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP1316,46,Female,Sales,Sales Representative,9,40191.91,3,2,Yes,31,4,6,3,No,Senior,Low,Satisfied,Far
+EMP1317,26,Male,Sales,Sales Manager,9,292546.8,1,2,Yes,31,6,0,2,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP1318,32,Female,HR,HR Manager,5,365460.96,4,1,Yes,2,6,6,1,No,Young Adult,Executive,Very Satisfied,Near
+EMP1319,55,Male,Finance,Finance Manager,18,269277.45,1,3,No,19,4,5,1,No,Senior,Executive,Very Dissatisfied,Mid
+EMP1320,45,Female,Sales,Sales Executive,20,119510.78,1,4,Yes,53,1,3,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP1321,36,Female,Finance,Financial Analyst,7,161500.6,4,4,No,12,4,2,1,No,Adult,High,Very Satisfied,Mid
+EMP1322,59,Female,IT,Software Engineer,0,36666.74,4,4,No,10,6,0,2,No,Senior,Low,Very Satisfied,Near
+EMP1323,29,Female,IT,Data Analyst,16,199139.86,2,3,Yes,31,6,3,1,Yes,Young Adult,High,Dissatisfied,Far
+EMP1324,26,Male,Operations,Logistics Officer,6,66710.48,1,1,Yes,45,3,4,4,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1325,47,Male,IT,IT Support,13,55866.23,3,2,Yes,22,0,1,4,No,Senior,Mid,Satisfied,Mid
+EMP1326,39,Female,IT,Software Engineer,20,80209.13,1,1,Yes,23,5,5,3,Yes,Adult,Mid,Very Dissatisfied,Mid
+EMP1327,27,Male,Sales,Sales Representative,20,57387.68,1,1,No,52,2,3,1,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP1328,58,Male,Sales,Sales Manager,16,171614.38,4,2,Yes,23,4,4,4,Yes,Senior,High,Very Satisfied,Mid
+EMP1329,34,Male,Sales,Sales Representative,8,30128.55,2,3,No,15,3,0,4,No,Young Adult,Low,Dissatisfied,Mid
+EMP1330,49,Male,Sales,Sales Manager,16,262395.84,1,4,No,26,1,0,4,Yes,Senior,Executive,Very Dissatisfied,Mid
+EMP1331,26,Female,HR,Recruiter,4,105317.71,3,4,No,3,6,4,2,No,Young Adult,High,Satisfied,Near
+EMP1332,34,Male,IT,System Admin,19,81508.37,1,1,No,23,4,5,1,Yes,Young Adult,Mid,Very Dissatisfied,Mid
+EMP1333,38,Female,IT,Software Engineer,7,119928.66,3,3,No,20,6,4,2,No,Adult,High,Satisfied,Mid
+EMP1334,53,Male,Sales,Sales Executive,5,55816.2,4,4,Yes,45,8,1,2,No,Senior,Mid,Very Satisfied,Far
+EMP1335,50,Male,Sales,Sales Executive,10,55240.96,2,3,Yes,40,3,0,4,No,Senior,Mid,Dissatisfied,Far
+EMP1336,24,Male,HR,HR Manager,18,189937.37,1,2,No,57,4,4,4,Yes,Youth,High,Very Dissatisfied,Far
+EMP1337,55,Male,Operations,Operations Executive,3,44765.72,2,1,Yes,39,8,2,3,No,Senior,Low,Dissatisfied,Far
+EMP1338,48,Male,Sales,Sales Manager,17,221296.65,1,1,No,56,9,2,1,No,Senior,Executive,Very Dissatisfied,Far
+EMP1339,34,Female,Operations,Operations Manager,0,348210.01,3,3,No,8,3,4,1,No,Young Adult,Executive,Satisfied,Near
+EMP1340,54,Male,HR,HR Manager,12,376439.2,2,4,No,18,4,1,4,No,Senior,Executive,Dissatisfied,Mid
+EMP1341,27,Female,HR,HR Manager,13,393771.79,1,3,No,41,4,0,4,No,Young Adult,Executive,Very Dissatisfied,Far
+EMP1342,45,Male,IT,IT Support,0,50906.07,4,2,No,6,7,2,1,No,Adult,Mid,Very Satisfied,Near
+EMP1343,40,Male,Sales,Sales Manager,10,370324.39,3,4,No,27,3,4,3,No,Adult,Executive,Satisfied,Mid
+EMP1344,37,Female,Sales,Sales Manager,16,232063.77,2,4,No,36,3,6,4,No,Adult,Executive,Dissatisfied,Far
+EMP1345,49,Male,HR,HR Executive,3,40155.65,1,3,No,15,6,4,3,No,Senior,Low,Very Dissatisfied,Mid
+EMP1346,54,Male,IT,System Admin,11,108302.24,2,2,No,37,4,3,2,No,Senior,High,Dissatisfied,Far
+EMP1347,34,Male,Operations,Logistics Officer,9,87249.51,1,4,No,58,5,4,4,No,Young Adult,Mid,Very Dissatisfied,Far
+EMP1348,46,Male,IT,IT Support,5,44825.78,3,1,No,5,5,1,2,No,Senior,Low,Satisfied,Near
+EMP1349,57,Female,Sales,Sales Manager,0,257457.81,4,2,No,39,5,2,4,No,Senior,Executive,Very Satisfied,Far
+EMP1350,48,Male,Finance,Finance Manager,6,221814.42,3,4,No,9,9,3,2,No,Senior,Executive,Satisfied,Near
+EMP1351,59,Female,Sales,Sales Executive,20,96311.51,2,3,No,7,4,2,4,No,Senior,Mid,Dissatisfied,Near
+EMP1352,28,Female,IT,System Admin,15,70807.46,2,4,Yes,41,4,2,3,Yes,Young Adult,Mid,Dissatisfied,Far
+EMP1353,26,Male,HR,Recruiter,13,119035.2,1,1,No,20,8,1,3,No,Young Adult,High,Very Dissatisfied,Mid
+EMP1354,52,Female,Operations,Operations Executive,19,34927.05,3,2,Yes,10,7,4,3,No,Senior,Low,Satisfied,Near
+EMP1355,44,Male,Finance,Financial Analyst,19,122601.83,1,4,No,26,3,1,2,Yes,Adult,High,Very Dissatisfied,Mid
+EMP1356,31,Female,HR,HR Manager,5,270475.04,3,1,No,4,6,4,3,No,Young Adult,Executive,Satisfied,Near
+EMP1357,53,Male,HR,Recruiter,4,75282.02,2,4,No,38,7,3,2,No,Senior,Mid,Dissatisfied,Far
+EMP1358,51,Female,Operations,Operations Executive,20,58434.22,1,4,Yes,24,8,1,4,Yes,Senior,Mid,Very Dissatisfied,Mid
+EMP1359,52,Male,Sales,Sales Executive,17,95631.62,1,2,No,14,4,1,2,No,Senior,Mid,Very Dissatisfied,Mid
+EMP1360,39,Male,Sales,Sales Manager,14,368686.77,3,3,No,41,2,6,4,Yes,Adult,Executive,Satisfied,Far
+EMP1361,57,Female,Sales,Sales Manager,5,384679.83,4,3,Yes,1,3,5,1,No,Senior,Executive,Very Satisfied,Near
+EMP1362,23,Female,Sales,Sales Executive,18,102458.4,3,1,Yes,17,9,0,1,Yes,Youth,High,Satisfied,Mid
+EMP1363,35,Male,HR,HR Executive,0,106552.22,4,1,No,45,5,1,1,No,Young Adult,High,Very Satisfied,Far
+EMP1364,34,Male,HR,HR Manager,0,287636.33,3,1,No,24,9,5,2,No,Young Adult,Executive,Satisfied,Mid
+EMP1365,50,Female,HR,Recruiter,12,104329.94,2,2,Yes,27,4,0,1,No,Senior,High,Dissatisfied,Mid
+EMP1366,33,Female,Sales,Sales Manager,2,225875.98,1,3,No,7,8,6,1,Yes,Young Adult,Executive,Very Dissatisfied,Near
+EMP1367,23,Female,Finance,Finance Manager,9,249619.69,3,1,No,9,2,4,1,No,Youth,Executive,Satisfied,Near
+EMP1368,53,Female,IT,Data Analyst,20,118029.56,2,1,No,43,1,4,4,No,Senior,High,Dissatisfied,Far
+EMP1369,34,Female,HR,HR Manager,2,266846.83,3,4,No,35,5,4,3,Yes,Young Adult,Executive,Satisfied,Far
+EMP1370,48,Female,HR,HR Executive,8,55702.17,1,4,No,58,6,5,2,No,Senior,Mid,Very Dissatisfied,Far
+EMP1371,38,Male,IT,Data Analyst,7,195393.37,3,1,No,12,4,5,1,Yes,Adult,High,Satisfied,Mid
+EMP1372,52,Male,Sales,Sales Executive,2,58156.02,4,4,No,21,0,0,4,No,Senior,Mid,Very Satisfied,Mid
+EMP1373,55,Female,Sales,Sales Executive,12,38824.01,1,4,Yes,3,2,4,3,Yes,Senior,Low,Very Dissatisfied,Near
+EMP1374,45,Female,Finance,Financial Analyst,5,143218.06,4,4,Yes,15,2,2,3,No,Adult,High,Very Satisfied,Mid
+EMP1375,56,Male,Operations,Operations Manager,12,164274.77,2,2,No,21,3,1,3,No,Senior,High,Dissatisfied,Mid
+EMP1376,27,Male,HR,Recruiter,19,39948.88,2,1,No,10,9,5,4,Yes,Young Adult,Low,Dissatisfied,Near
+EMP1377,40,Female,Sales,Sales Executive,19,49745.05,3,1,No,33,5,5,1,Yes,Adult,Low,Satisfied,Far
+EMP1378,51,Male,IT,Software Engineer,11,71791.52,4,4,No,46,4,5,3,No,Senior,Mid,Very Satisfied,Far
+EMP1379,28,Male,Finance,Accountant,12,68992.58,4,2,No,59,0,0,4,No,Young Adult,Mid,Very Satisfied,Far
+EMP1380,31,Male,Finance,Financial Analyst,1,175963.02,1,4,No,52,5,4,4,No,Young Adult,High,Very Dissatisfied,Far
+EMP1381,53,Male,Sales,Sales Executive,20,96552.72,4,2,Yes,6,8,2,2,No,Senior,Mid,Very Satisfied,Near
+EMP1382,55,Male,Sales,Sales Executive,15,68368.65,4,1,No,2,0,1,4,Yes,Senior,Mid,Very Satisfied,Near
+EMP1383,49,Male,Finance,Finance Manager,5,233426.05,1,4,Yes,29,7,1,3,No,Senior,Executive,Very Dissatisfied,Mid
+EMP1384,36,Male,IT,IT Support,18,58482.19,1,1,No,55,7,4,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP1385,51,Female,Sales,Sales Executive,20,99659.56,4,2,Yes,40,2,2,4,Yes,Senior,Mid,Very Satisfied,Far
+EMP1386,58,Male,Sales,Sales Representative,12,34686.52,3,3,No,33,8,0,3,No,Senior,Low,Satisfied,Far
+EMP1387,50,Female,IT,IT Support,16,31153.95,1,2,Yes,4,7,5,4,Yes,Senior,Low,Very Dissatisfied,Near
+EMP1388,43,Female,Operations,Logistics Officer,8,101599.0,1,3,Yes,59,2,5,3,Yes,Adult,High,Very Dissatisfied,Far
+EMP1389,25,Male,Operations,Operations Manager,16,269286.59,4,1,Yes,4,9,6,2,Yes,Youth,Executive,Very Satisfied,Near
+EMP1390,41,Female,HR,HR Manager,1,182720.28,4,1,No,29,4,4,1,Yes,Adult,High,Very Satisfied,Mid
+EMP1391,53,Male,IT,Data Analyst,18,108267.91,1,4,No,37,2,1,2,Yes,Senior,High,Very Dissatisfied,Far
+EMP1392,57,Female,Sales,Sales Executive,18,113925.36,4,3,No,20,4,5,2,Yes,Senior,High,Very Satisfied,Mid
+EMP1393,25,Male,IT,Software Engineer,6,107355.27,1,2,No,41,8,6,1,Yes,Youth,High,Very Dissatisfied,Far
+EMP1394,48,Female,IT,Data Analyst,9,165174.21,3,1,No,23,3,1,3,No,Senior,High,Satisfied,Mid
+EMP1395,38,Female,HR,HR Manager,9,270556.31,3,3,No,45,5,1,1,No,Adult,Executive,Satisfied,Far
+EMP1396,33,Male,IT,IT Support,19,76829.13,1,2,No,18,2,4,4,No,Young Adult,Mid,Very Dissatisfied,Mid
+EMP1397,43,Male,Sales,Sales Representative,8,117772.01,1,3,Yes,49,2,3,1,Yes,Adult,High,Very Dissatisfied,Far
+EMP1398,38,Female,Sales,Sales Manager,16,391442.61,2,2,No,25,4,6,2,Yes,Adult,Executive,Dissatisfied,Mid
+EMP1399,31,Female,IT,IT Support,14,49374.21,2,2,No,1,7,3,1,Yes,Young Adult,Low,Dissatisfied,Near
+EMP1400,22,Male,Sales,Sales Executive,1,102999.41,4,2,No,54,7,3,3,Yes,Youth,High,Very Satisfied,Far
+EMP1401,43,Female,Sales,Sales Representative,3,47751.84,4,2,No,15,2,6,2,No,Adult,Low,Very Satisfied,Mid
+EMP1402,47,Male,Operations,Operations Manager,18,203384.37,1,3,No,34,7,2,4,No,Senior,Executive,Very Dissatisfied,Far
+EMP1403,39,Female,IT,IT Support,16,90848.37,1,3,Yes,48,7,4,3,Yes,Adult,Mid,Very Dissatisfied,Far
+EMP1404,35,Male,IT,Software Engineer,4,66450.1,2,4,No,20,2,6,2,No,Young Adult,Mid,Dissatisfied,Mid
+EMP1405,50,Female,Operations,Operations Executive,6,113839.0,2,3,No,54,9,1,4,Yes,Senior,High,Dissatisfied,Far
+EMP1406,33,Male,Operations,Operations Manager,17,172252.43,1,3,No,37,9,6,3,No,Young Adult,High,Very Dissatisfied,Far
+EMP1407,57,Male,HR,Recruiter,20,76037.31,3,4,No,27,1,5,4,No,Senior,Mid,Satisfied,Mid
+EMP1408,56,Male,Finance,Financial Analyst,6,190222.58,3,3,No,22,9,6,1,No,Senior,High,Satisfied,Mid
+EMP1409,33,Male,IT,Software Engineer,16,111370.23,4,2,No,51,1,2,1,No,Young Adult,High,Very Satisfied,Far
+EMP1410,28,Male,IT,IT Support,6,44087.63,1,1,Yes,5,8,3,4,Yes,Young Adult,Low,Very Dissatisfied,Near
+EMP1411,50,Male,IT,Data Analyst,3,123996.52,1,1,Yes,34,6,0,1,No,Senior,High,Very Dissatisfied,Far
+EMP1412,32,Female,HR,HR Manager,7,304780.35,4,4,No,39,5,2,4,No,Young Adult,Executive,Very Satisfied,Far
+EMP1413,54,Male,HR,HR Manager,12,189848.72,2,3,No,3,6,2,3,No,Senior,High,Dissatisfied,Near
+EMP1414,27,Male,IT,System Admin,3,117122.0,2,3,Yes,17,7,4,2,Yes,Young Adult,High,Dissatisfied,Mid
+EMP1415,36,Male,Sales,Sales Representative,5,112327.44,3,4,No,24,0,5,4,No,Adult,High,Satisfied,Mid
+EMP1416,53,Male,HR,HR Manager,4,191737.54,1,1,No,24,7,2,2,No,Senior,High,Very Dissatisfied,Mid
+EMP1417,32,Male,Sales,Sales Representative,11,40903.99,2,2,No,3,2,6,2,No,Young Adult,Low,Dissatisfied,Near
+EMP1418,44,Male,HR,HR Manager,3,171352.12,3,3,Yes,45,2,5,4,Yes,Adult,High,Satisfied,Far
+EMP1419,47,Male,HR,HR Executive,8,111849.93,3,4,No,7,5,4,1,No,Senior,High,Satisfied,Near
+EMP1420,55,Male,Finance,Financial Analyst,3,103234.86,3,2,No,25,3,6,3,No,Senior,High,Satisfied,Mid
+EMP1421,55,Male,Finance,Financial Analyst,18,129954.19,2,4,No,56,3,0,2,No,Senior,High,Dissatisfied,Far
+EMP1422,50,Female,Operations,Logistics Officer,13,70396.62,2,4,No,3,3,1,3,No,Senior,Mid,Dissatisfied,Near
+EMP1423,25,Male,IT,Software Engineer,4,83910.99,1,4,Yes,15,9,1,2,Yes,Youth,Mid,Very Dissatisfied,Mid
+EMP1424,38,Male,Finance,Financial Analyst,17,88608.24,1,1,No,29,8,3,4,Yes,Adult,Mid,Very Dissatisfied,Mid
+EMP1425,56,Female,HR,Recruiter,9,50408.28,3,1,Yes,50,7,3,1,No,Senior,Mid,Satisfied,Far
+EMP1426,34,Male,Sales,Sales Executive,18,113834.13,3,4,Yes,29,2,0,3,No,Young Adult,High,Satisfied,Mid
+EMP1427,36,Female,Sales,Sales Representative,11,111756.91,2,3,No,10,0,1,2,No,Adult,High,Dissatisfied,Near
+EMP1428,50,Male,Sales,Sales Executive,17,100316.16,2,2,No,32,0,3,4,No,Senior,High,Dissatisfied,Far
+EMP1429,50,Female,IT,Data Analyst,16,82328.15,1,3,No,23,0,5,4,No,Senior,Mid,Very Dissatisfied,Mid
+EMP1430,32,Female,HR,HR Executive,10,59430.61,1,1,Yes,39,3,2,2,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1431,53,Male,Finance,Finance Manager,2,306989.68,4,2,No,9,5,4,2,No,Senior,Executive,Very Satisfied,Near
+EMP1432,23,Female,Sales,Sales Executive,16,54767.12,1,4,No,37,3,6,2,Yes,Youth,Mid,Very Dissatisfied,Far
+EMP1433,35,Male,Sales,Sales Executive,0,111862.8,2,3,No,52,2,3,1,No,Young Adult,High,Dissatisfied,Far
+EMP1434,41,Male,Operations,Operations Executive,14,87050.05,3,3,No,40,7,0,2,Yes,Adult,Mid,Satisfied,Far
+EMP1435,43,Female,Sales,Sales Manager,8,167976.68,4,4,No,14,7,6,2,No,Adult,High,Very Satisfied,Mid
+EMP1436,32,Female,IT,System Admin,14,111810.5,1,3,No,4,5,1,1,Yes,Young Adult,High,Very Dissatisfied,Near
+EMP1437,48,Male,HR,Recruiter,2,116199.0,1,1,Yes,20,8,0,4,Yes,Senior,High,Very Dissatisfied,Mid
+EMP1438,24,Male,IT,Software Engineer,18,36994.12,2,4,Yes,28,9,4,2,Yes,Youth,Low,Dissatisfied,Mid
+EMP1439,38,Male,Sales,Sales Manager,12,283090.06,4,3,No,14,0,4,3,No,Adult,Executive,Very Satisfied,Mid
+EMP1440,49,Male,Sales,Sales Representative,11,57302.79,1,4,No,44,7,0,4,No,Senior,Mid,Very Dissatisfied,Far
+EMP1441,50,Female,Sales,Sales Manager,19,248209.77,3,2,No,34,5,3,3,No,Senior,Executive,Satisfied,Far
+EMP1442,42,Male,HR,HR Manager,0,194912.8,2,4,No,13,0,3,2,No,Adult,High,Dissatisfied,Mid
+EMP1443,37,Male,IT,Software Engineer,20,82026.49,4,3,Yes,31,3,1,1,No,Adult,Mid,Very Satisfied,Far
+EMP1444,58,Male,Sales,Sales Manager,16,389494.84,1,1,Yes,33,4,5,1,No,Senior,Executive,Very Dissatisfied,Far
+EMP1445,41,Male,HR,Recruiter,12,75276.53,1,4,No,52,6,1,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP1446,27,Male,Finance,Accountant,0,37462.31,4,4,Yes,39,7,2,2,No,Young Adult,Low,Very Satisfied,Far
+EMP1447,40,Female,Sales,Sales Executive,9,85800.12,2,3,No,28,8,5,2,No,Adult,Mid,Dissatisfied,Mid
+EMP1448,26,Female,IT,IT Support,14,60620.07,4,1,No,25,5,6,3,No,Young Adult,Mid,Very Satisfied,Mid
+EMP1449,24,Female,HR,HR Executive,6,107033.27,4,1,No,32,9,2,1,Yes,Youth,High,Very Satisfied,Far
+EMP1450,22,Male,Sales,Sales Representative,17,69121.03,2,2,No,9,8,1,2,No,Youth,Mid,Dissatisfied,Near
+EMP1451,59,Female,IT,Data Analyst,15,103140.75,1,2,No,28,3,5,4,No,Senior,High,Very Dissatisfied,Mid
+EMP1452,36,Female,HR,HR Executive,13,47199.51,3,3,No,58,7,5,2,No,Adult,Low,Satisfied,Far
+EMP1453,55,Female,Operations,Logistics Officer,17,99188.78,2,1,Yes,31,2,2,2,Yes,Senior,Mid,Dissatisfied,Far
+EMP1454,56,Male,Finance,Finance Manager,6,216396.9,3,1,No,17,3,0,4,No,Senior,Executive,Satisfied,Mid
+EMP1455,46,Male,HR,HR Executive,16,99051.01,1,2,No,53,9,3,1,No,Senior,Mid,Very Dissatisfied,Far
+EMP1456,45,Male,Finance,Financial Analyst,17,104706.48,4,2,No,23,3,5,4,No,Adult,High,Very Satisfied,Mid
+EMP1457,33,Male,IT,System Admin,11,58951.77,3,3,Yes,13,5,6,1,No,Young Adult,Mid,Satisfied,Mid
+EMP1458,39,Male,HR,HR Manager,7,266371.74,1,1,No,55,8,6,4,Yes,Adult,Executive,Very Dissatisfied,Far
+EMP1459,36,Male,IT,Software Engineer,1,114887.63,1,4,No,10,5,5,3,No,Adult,High,Very Dissatisfied,Near
+EMP1460,37,Male,Sales,Sales Representative,6,113855.83,4,2,No,16,0,2,1,No,Adult,High,Very Satisfied,Mid
+EMP1461,48,Female,Finance,Finance Manager,3,201717.97,4,3,No,6,4,5,2,No,Senior,Executive,Very Satisfied,Near
+EMP1462,29,Male,HR,Recruiter,17,62239.71,1,1,No,48,8,2,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1463,46,Male,IT,IT Support,5,43445.94,1,1,No,11,4,0,1,Yes,Senior,Low,Very Dissatisfied,Mid
+EMP1464,38,Female,Operations,Operations Executive,8,75898.66,3,2,Yes,58,5,6,1,Yes,Adult,Mid,Satisfied,Far
+EMP1465,50,Female,Sales,Sales Manager,8,265145.64,1,3,No,52,2,5,1,No,Senior,Executive,Very Dissatisfied,Far
+EMP1466,29,Female,IT,IT Support,13,111068.41,1,4,No,3,7,4,4,No,Young Adult,High,Very Dissatisfied,Near
+EMP1467,36,Female,Sales,Sales Manager,7,382501.34,3,2,No,28,9,1,1,No,Adult,Executive,Satisfied,Mid
+EMP1468,48,Male,Finance,Financial Analyst,18,126028.09,2,3,No,41,3,6,2,No,Senior,High,Dissatisfied,Far
+EMP1469,28,Female,Finance,Financial Analyst,2,139008.55,3,1,Yes,15,3,0,1,No,Young Adult,High,Satisfied,Mid
+EMP1470,24,Male,IT,System Admin,17,110661.26,3,4,Yes,13,4,4,2,Yes,Youth,High,Satisfied,Mid
+EMP1471,50,Male,HR,HR Executive,4,102603.7,4,3,No,42,9,6,2,No,Senior,High,Very Satisfied,Far
+EMP1472,45,Male,IT,Software Engineer,13,30329.07,3,4,No,52,8,0,2,No,Adult,Low,Satisfied,Far
+EMP1473,24,Male,Finance,Financial Analyst,3,118407.15,1,3,No,56,7,3,3,Yes,Youth,High,Very Dissatisfied,Far
+EMP1474,41,Male,IT,System Admin,6,67959.68,1,3,No,45,6,0,2,No,Adult,Mid,Very Dissatisfied,Far
+EMP1475,36,Female,IT,Data Analyst,19,107565.95,1,3,No,17,4,0,4,No,Adult,High,Very Dissatisfied,Mid
+EMP1476,46,Female,Operations,Logistics Officer,11,47961.45,2,3,No,7,8,3,1,No,Senior,Low,Dissatisfied,Near
+EMP1477,51,Female,Sales,Sales Manager,1,159446.13,1,4,No,28,8,5,4,No,Senior,High,Very Dissatisfied,Mid
+EMP1478,35,Male,Sales,Sales Manager,10,310842.43,2,2,No,38,9,1,3,No,Young Adult,Executive,Dissatisfied,Far
+EMP1479,28,Female,HR,HR Manager,13,215627.57,1,4,No,13,9,4,1,No,Young Adult,Executive,Very Dissatisfied,Mid
+EMP1480,38,Female,Operations,Logistics Officer,15,34711.25,3,3,No,17,1,6,2,No,Adult,Low,Satisfied,Mid
+EMP1481,41,Male,IT,System Admin,19,50788.14,4,4,No,15,3,2,1,No,Adult,Mid,Very Satisfied,Mid
+EMP1482,57,Female,Sales,Sales Executive,5,102172.26,1,4,No,36,7,1,3,Yes,Senior,High,Very Dissatisfied,Far
+EMP1483,30,Male,IT,Software Engineer,3,106634.03,2,4,No,28,0,6,3,No,Young Adult,High,Dissatisfied,Mid
+EMP1484,59,Male,IT,Software Engineer,14,73475.96,2,3,No,15,4,0,4,No,Senior,Mid,Dissatisfied,Mid
+EMP1485,43,Female,Sales,Sales Executive,0,67446.36,4,4,No,46,7,2,1,No,Adult,Mid,Very Satisfied,Far
+EMP1486,23,Male,HR,HR Executive,6,118006.83,1,1,Yes,53,1,3,1,Yes,Youth,High,Very Dissatisfied,Far
+EMP1487,45,Male,Operations,Operations Manager,11,200141.16,3,3,No,11,1,1,1,Yes,Adult,Executive,Satisfied,Mid
+EMP1488,29,Female,IT,Data Analyst,9,105843.11,1,4,No,56,7,5,4,No,Young Adult,High,Very Dissatisfied,Far
+EMP1489,32,Female,IT,IT Support,4,56268.05,1,1,No,31,9,4,3,Yes,Young Adult,Mid,Very Dissatisfied,Far
+EMP1490,34,Male,IT,Software Engineer,11,45548.16,4,4,Yes,4,8,1,2,No,Young Adult,Low,Very Satisfied,Near
+EMP1491,38,Male,Sales,Sales Representative,17,64142.9,1,2,Yes,35,6,1,1,No,Adult,Mid,Very Dissatisfied,Far
+EMP1492,29,Male,Operations,Logistics Officer,9,111975.08,3,4,Yes,34,7,5,4,No,Young Adult,High,Satisfied,Far
+EMP1493,42,Female,IT,Data Analyst,5,153841.74,2,4,No,52,4,2,4,Yes,Adult,High,Dissatisfied,Far
+EMP1494,39,Male,IT,Software Engineer,11,67075.19,4,2,Yes,27,0,3,2,Yes,Adult,Mid,Very Satisfied,Mid
+EMP1495,51,Male,HR,HR Executive,6,114096.97,3,3,No,10,3,5,3,No,Senior,High,Satisfied,Near
+EMP1496,39,Female,IT,Data Analyst,17,85815.71,2,2,Yes,30,1,6,1,Yes,Adult,Mid,Dissatisfied,Mid
+EMP1497,52,Male,HR,Recruiter,1,48924.86,4,3,Yes,45,2,3,1,No,Senior,Low,Very Satisfied,Far
+EMP1498,59,Male,Sales,Sales Manager,9,291472.15,4,2,Yes,20,2,5,4,No,Senior,Executive,Very Satisfied,Mid
+EMP1499,53,Male,Finance,Finance Manager,14,303888.16,2,4,Yes,29,8,1,3,Yes,Senior,Executive,Dissatisfied,Mid
+EMP1500,32,Female,Operations,Operations Manager,11,159889.38,2,4,No,58,9,3,1,Yes,Young Adult,High,Dissatisfied,Far
